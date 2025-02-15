@@ -9,5 +9,5 @@ scikit-learn
 gzip
 zipfile
 os
-scikit-survival==0.20.0
+scikit-survival==0.20.0 --only-binary :all:
 python-3.9
