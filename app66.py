@@ -5,7 +5,11 @@ import numpy as np
 import gzip
 import zipfile
 import os
+import logging
 
+# Configure logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 # Custom CSS for styling
 st.markdown(
@@ -54,26 +58,25 @@ def load_model():
         try:
             # Decompress the .gz file
             if not os.path.exists(extracted_zip_file):
-                #st.info("Decompressing .gz file...")
+                logger.info("Decompressing .gz file...")
                 with gzip.open(gz_file, 'rb') as f_in:
                     with open(extracted_zip_file, 'wb') as f_out:
                         f_out.write(f_in.read())
 
             # Extract the .zip file
-            #st.info("Extracting .zip file...")
+            logger.info("Extracting .zip file...")
             with zipfile.ZipFile(extracted_zip_file, 'r') as zip_ref:
                 zip_ref.extractall()  # Ensure rsf_model.pkl is extracted in the same directory
 
         except Exception as e:
-            #st.error(f"Error decompressing or extracting model: {e}")
+            st.error(f"Error decompressing or extracting model: {e}")
             return None
 
     # Load the extracted model
     try:
-        #st.info("Loading the model...")
+        logger.info("Loading the model...")
         with open(extracted_model_file, 'rb') as file:
             model = pickle.load(file)
-        #st.success("Model loaded successfully!")
         return model
     except FileNotFoundError:
         st.error(f"Model file '{extracted_model_file}' not found. Please ensure the file is in the correct location.")
@@ -153,3 +156,4 @@ def run():
 # Run the app
 if __name__ == '__main__':
     run()
+
