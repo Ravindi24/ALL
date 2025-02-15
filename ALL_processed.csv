@@ -1,0 +1,1569 @@
+"Clinic No","Initial WBC","Risk Stratification","year","Date_of_presentation","SEX","Age_Years","Age_Months","District","Divisional secretariat office","Diagnosis","Staging","Status","Duration_Days","Duration_Months","Date of death","Age","Status_numeric","Risk Stratification_imp"
+"00019/2022C",19000,0,2022,2022-01-02,"F",4,3,"Puttalam","Mundalama","B-ALL","Bone marrow","Death",275,9,2022-10-04,4,1,FALSE
+"00023/2016C",1890,1,2016,2016-01-02,"M",14,7,"Kurunegala","Rideegama","B-ALL","Bone marrow","Live",2517,82,NA,15,0,FALSE
+"00030/2021C",90000,1,2021,2021-01-01,"F",12,1,"Puttalam","Vanathavilluwa","B-ALL","Bone marrow","Live",1204,39,NA,12,0,FALSE
+"00031/2016C",2350,1,2016,2016-01-02,"M",13,9,"Kandy","Yatinuwara","B-ALL","Bone marrow","Death",568,18,2017-07-23,14,1,FALSE
+"00032/2021C",65000,1,2021,2021-01-01,"F",2,10,"Matara","Kotapola","B-ALL","Bone marrow","Live",1209,39,NA,3,0,FALSE
+"00033/2021C",4130,1,2021,2021-01-02,"M",10,1,"Jaffna","Vadamaradchy South-West, Karaveddy","B-ALL","Bone marrow","Death",46,1,2021-02-17,10,1,FALSE
+"00039/2021C",4340,1,2021,2021-01-02,"M",14,0,"Galle","Yakkalamulla","T-ALL","Bone marrow","Live",515,16,NA,14,0,FALSE
+"00053/2023C",26700,0,2023,2023-01-02,"M",3,5,"Colombo","Thimbirigasyaya","B-ALL","Bone marrow","Live",253,8,NA,3,0,FALSE
+"00081/2020C",19080,0,2020,2020-01-02,"M",8,1,"Puttalam","Dankotuwa","B-ALL","Bone marrow","Live",1153,37,NA,8,0,FALSE
+"00086/2021C",10990,1,2021,2021-01-04,"F",1,6,"Gampaha","Mahara","B-ALL","Bone marrow","Live",899,29,NA,2,0,FALSE
+"00116/2023C",2900,0,2023,2023-01-03,"M",9,6,"Colombo","Kaduwela","B-ALL","Bone marrow","Live",505,16,NA,10,0,FALSE
+"00121/2020C",640000,1,2020,2020-01-03,"M",6,1,"Anuradhapura","Nochchiyagama","T-ALL","Bone marrow","Live",1554,51,NA,6,0,FALSE
+"00128/2020C",13700,1,2020,2020-01-04,"F",14,11,"Colombo","Padukka","B-ALL","Bone marrow","Live",1574,51,NA,15,0,FALSE
+"00156/2018C",75331,1,2018,2018-01-03,"M",1,0,"Colombo","Kaduwela","B-ALL","Bone marrow","Death",68,2,2018-03-12,1,1,FALSE
+"00162/2018C",37620,0,2018,2018-01-05,"F",5,0,"Ampara","Padiyathalawa","B-ALL","Bone marrow","Death",483,15,2019-05-03,5,1,FALSE
+"00177/2019C",190000,1,2019,2019-01-05,"M",4,5,"Kurunegala","Kuliyapitiya East","B-ALL","Bone marrow","Live",1796,59,NA,4,0,FALSE
+"00181/2019C",65490,1,2019,2019-01-06,"M",5,0,"Anuradhapura","Nuwaragam Palatha East","B-ALL","Bone marrow","Live",1930,63,NA,5,0,FALSE
+"00197/2017C",10220,1,2017,2017-01-06,"M",13,6,"Matale","Matale","B-ALL","Bone marrow","Live",2315,76,NA,14,0,FALSE
+"00203/2018C",13600,0,2018,2018-01-05,"F",3,8,"Kandy","Panvila","B-ALL","Bone marrow","Live",1819,59,NA,4,0,FALSE
+"00205/2016C",4500,0,2016,2016-01-06,"F",7,5,"Kurunegala","Polpithigama","B-ALL","Bone marrow","Live",2455,80,NA,7,0,FALSE
+"00218/2018C",35660,0,2018,2018-01-07,"F",4,4,"Nuwara Eliya","Walapane
+","B-ALL","Bone marrow","Death",93,3,2018-04-10,4,1,FALSE
+"00223/2023C",4140,0,2023,2023-01-06,"F",4,2,"Mannar","Mannar Town","B-ALL","Bone marrow","Live",259,8,NA,4,0,FALSE
+"00236/2019C",1970,1,2019,2019-01-07,"M",7,7,"Kandy","Pasbage Korale","T-ALL","Bone marrow","Live",1249,41,NA,8,0,FALSE
+"00239/2021C",1809,1,2021,2021-01-07,"M",1,11,"Hambantota","Beliatta","B-ALL","Bone marrow","Death",28,0,2021-02-04,2,1,FALSE
+"00240/2021C",7840,1,2021,2021-01-07,"F",12,11,"Gampaha","Negombo","T-ALL","Bone marrow","Live",260,8,NA,13,0,FALSE
+"00263/2017C",2850,0,2017,2017-01-07,"M",6,0,"Kalutara","Kalutara","B-ALL","Bone marrow","Live",2179,71,NA,6,0,FALSE
+"00275/2022C",4100,1,2022,2022-01-08,"F",1,0,"Kandy","Harispattuwa","B-ALL","Bone marrow","Live",535,17,NA,1,0,FALSE
+"00285/2021C",22960,1,2021,2021-01-09,"F",1,4,"Puttalam","Puttalam","B-ALL","Bone marrow","Live",709,23,NA,1,0,FALSE
+"00288/2021C",321010,1,2021,2021-01-10,"F",6,8,"Polonnaruwa","Elahera","B-ALL","Bone marrow","Live",886,29,NA,7,0,FALSE
+"00292/2021C",160400,1,2021,2021-01-11,"M",14,3,"Polonnaruwa","Lankapura","T-ALL","Bone marrow","Live",906,29,NA,14,0,FALSE
+"00299/2021C",75331,0,2021,2022-05-16,"M",3,9,"Kegalle","Aranayaka","B-ALL","Bone marrow","Death",1,0,2022-05-17,4,1,FALSE
+"00300/2019C",75331,1,2019,2019-01-28,"F",2,7,"Puttalam","Kalpitiya","T-ALL","Bone marrow","Live",989,32,NA,3,0,FALSE
+"00309/2016C",3800,0,2016,2016-01-08,"F",2,8,"Kalutara","Palindanuwara","B-ALL","Bone marrow","Live",2435,80,NA,3,0,FALSE
+"00337/2022C",30000,0,2022,2022-01-10,"F",2,2,"Ampara","Sainthamarathu","B-ALL","Bone marrow","Live",837,27,NA,2,0,FALSE
+"00338/2022C",449720,1,2022,2022-01-10,"M",8,6,"Anuradhapura","Thalawa","B-ALL","Bone marrow","Live",145,4,NA,9,0,FALSE
+"00354/2017C",3970,1,2017,2017-01-09,"M",15,8,"Kurunegala","Galgamuwa","T-ALL","Bone marrow","Live",2086,68,NA,16,0,FALSE
+"00357/2017C",12170,0,2017,2017-01-09,"M",6,3,"Kurunegala","Wariyapola","B-ALL","Bone Marrow","Live",1809,59,NA,6,0,FALSE
+"00363/2017C",4600,0,2017,2017-01-09,"M",8,1,"Kurunegala","Ambanpola","B-ALL","Bone Marrow","Live",148,4,NA,8,0,FALSE
+"00381/2021C",9500,0,2021,2021-01-12,"F",5,5,"Ratnapura","Eheliyagoda","B-ALL","Bone marrow","Live",1193,39,NA,5,0,FALSE
+"00382/2021C",6140,0,2021,2021-01-12,"M",5,6,"Galle","Niyagama","B-ALL","Bone marrow","Live",805,26,NA,6,0,FALSE
+"00384/2018C",1780,1,2018,2018-01-10,"M",15,1,"Matara","Akuressa","T-ALL","Bone marrow","Live",1849,60,NA,15,0,FALSE
+"00388/2018C",1310,0,2018,2018-01-10,"M",7,0,"Gampaha","Gampaha","B-ALL","Bone marrow","Live",1860,61,NA,7,0,FALSE
+"00388/2021C",276000,1,2021,2021-01-12,"F",13,6,"Colombo","Padukka","T-ALL","Bone marrow","Live",1207,39,NA,14,0,FALSE
+"00389/2022C",10600,0,2022,2022-01-11,"M",4,3,"Matara","Four Gravets","B-ALL","Bone marrow","Live",548,18,NA,4,0,FALSE
+"00398/2023C",7620,0,2023,2023-01-11,"M",3,2,"Ratnapura","Pelmadulla","B-ALL","Bone marrow","Live",257,8,NA,3,0,FALSE
+"00402/2021C",600,1,2021,2021-01-13,"M",18,10,"Kalutara","Panadura","T-ALL","Bone marrow","Live",968,31,NA,19,0,FALSE
+"00403/2019C",5500,1,2019,2019-01-10,"F",10,7,"Colombo","Maharagama","B-ALL","Bone marrow","Death",29,0,2019-02-08,11,1,FALSE
+"00404/2017C",4060,0,2017,2017-01-10,"F",2,5,"Colombo","Kolonnawa","B-ALL","Bone Marrow","Live",2625,86,NA,2,0,FALSE
+"00436/2018C",37700,1,2018,2018-01-11,"M",14,6,"Kegalle","Bulathkohupitiya","B-ALL","Bone marrow","Live",1797,59,NA,15,0,FALSE
+"00441/2022C",18000,0,2022,2022-01-12,"M",3,5,"Gampaha","Dompe","B-ALL","Bone marrow","Live",554,18,NA,3,0,FALSE
+"00442/2021C",55970,1,2021,2021-01-14,"M",1,4,"Ratnapura","Kolonna","B-ALL","Bone marrow","Live",890,29,NA,1,0,FALSE
+"00446/2017C",7050,0,2017,2017-01-11,"M",9,9,"Kurunegala","Kurunegala","B-ALL","Bone marrow","Live",2234,73,NA,10,0,FALSE
+"00447/2021C",9100,0,2021,2021-01-14,"M",2,1,"Puttalam","Kalpitiya","B-ALL","Bone marrow","Live",862,28,NA,2,0,FALSE
+"00450/2016C",16300,1,2016,2016-01-12,"F",0,11,"Colombo","Thimbirigasyaya","B-ALL","Bone marrow","Live",1722,56,NA,1,0,FALSE
+"00461/2023C",10800,0,2023,2023-01-02,"M",5,9,"Matara","Weligama","B-ALL","Bone marrow","Live",137,4,NA,6,0,FALSE
+"00462/2019C",193610,1,2019,2019-01-11,"F",1,3,"Nuwara Eliya","Kothmale","B-ALL","Bone marrow","Live",1144,37,NA,1,0,FALSE
+"00462/2023C",22600,0,2023,2023-01-12,"M",2,11,"Kalutara","Horana","B-ALL","Bone marrow","Death",21,0,2023-02-02,3,1,FALSE
+"00473/2017C",232000,1,2017,2017-01-12,"F",12,7,"Matara","Pitabeddara","B-ALL","Bone marrow","Death",154,5,2017-06-15,13,1,FALSE
+"00476/2019C",7800,1,2019,2019-01-14,"F",11,1,"Kandy","Yatinuwara","B-ALL","Bone marrow","Live",1424,46,NA,11,0,FALSE
+"00480/2018C",8760,1,2018,2018-01-12,"F",10,11,"Gampaha","Ja-Ela","B-ALL","Bone marrow","Live",63,2,NA,11,0,FALSE
+"00486/2021C",16450,0,2021,2021-01-17,"F",4,8,"Jaffna","Vadamaradchi North (Point Pedro)","B-ALL","Bone marrow","Live",865,28,NA,5,0,FALSE
+"00496/2022C",2650,0,2022,2022-01-14,"F",3,0,"Kurunegala","Panduwasnuwara","B-ALL","Bone marrow","Live",481,15,NA,3,0,FALSE
+"00499/2017C",153000,1,2017,2017-01-13,"M",1,0,"Matara","Malimbada","B-ALL","Bone marrow","Live",2098,68,NA,1,0,FALSE
+"00500/2022C",66900,1,2022,2022-01-14,"M",5,8,"Kegalle","Rambukkana","B-ALL","Bone marrow","Live",426,14,NA,6,0,FALSE
+"00515/2023C",661000,1,2023,2023-01-14,"M",5,7,"Ratnapura","Kalawana","T-ALL","Bone Marrow","Live",241,7,NA,6,0,FALSE
+"00524/2023C",6000,1,2023,2023-01-15,"F",0,0,"Gampaha","Biyagama","B-ALL","Bone marrow","Death",61,2,2023-03-17,0,1,FALSE
+"00557/2016C",2400,0,2016,2016-01-14,"M",4,3,"Badulla","Lahugala","B-ALL","Bone Marrow","Live",189,6,NA,4,0,FALSE
+"00558/2020C",825000,1,2020,2020-01-14,"M",0,0,"Moneragala","Wellawaya","B-ALL","Bone marrow","Death",3,0,2020-01-17,0,1,FALSE
+"00563/2020C",75331,1,2020,2020-01-15,"F",12,1,"Anuradhapura","Nochchiyagama","B-ALL","Bone marrow","Live",527,17,NA,12,0,FALSE
+"00570/2023C",14000,0,2023,2023-01-16,"F",2,4,"Ratnapura","Embilipitiya","B-ALL","Bone marrow","Death",80,2,2023-04-06,2,1,FALSE
+"00575/2016C",66000,1,2016,2016-01-16,"M",2,3,"Ratnapura","Kuruvita","B-ALL","Bone Marrow","Live",2006,65,NA,2,0,FALSE
+"00577/2018C",1880,1,2018,2018-01-15,"F",14,11,"Kalutara","Beruwala","B-ALL","Bone marrow","Death",61,2,2018-03-17,15,1,FALSE
+"00578/2016C",15900,0,2016,2016-01-17,"M",4,2,"Colombo","Dehiwala-Mount Lavinia","B-ALL","Bone marrow","Live",2797,91,NA,4,0,FALSE
+"00581/2016C",126700,1,2016,2016-01-17,"F",1,8,"Hambantota","Okewela","B-ALL","Bone marrow","Death",27,0,2016-02-13,2,1,FALSE
+"00621/2020C",26480,0,2020,2020-01-16,"M",4,10,"Gampaha","Gampaha","B-ALL","Bone marrow","Live",517,17,NA,5,0,FALSE
+"00623/2018C",71000,1,2018,2018-01-16,"M",11,7,"Kurunegala","Alawwa","B-ALL","Bone marrow","Live",2164,71,NA,12,0,FALSE
+"00624/2020C",4540,0,2020,2020-01-16,"M",4,6,"Colombo","Kolonnawa","B-ALL","Bone marrow","Live",872,28,NA,5,0,FALSE
+"00628/2018C",26140,0,2018,2018-01-16,"M",3,2,"Anuradhapura","Kahatagasdigiliya","B-ALL","Bone marrow","Live",1729,56,NA,3,0,FALSE
+"00632/2018C",9930,1,2018,2018-01-16,"M",5,3,"Ampara","Addalaichenai","T-ALL","Bone marrow","Live",1787,58,NA,5,0,FALSE
+"00633/2023C",12570,0,2023,2023-01-18,"M",3,5,"Ampara","Kalmunai North Sub Office","B-ALL","Bone marrow","Live",476,15,NA,3,0,FALSE
+"00650/2021C",19220,0,2021,2021-01-21,"F",4,2,"Kalutara","Kalutara","B-ALL","Bone marrow","Live",901,29,NA,4,0,FALSE
+"00651/2019C",2120,0,2019,2019-01-17,"F",4,11,"Kalutara","Kalutara","B-ALL","Bone marrow","Live",1503,49,NA,5,0,FALSE
+"00652/2021C",5380,1,2021,2021-01-21,"M",13,0,"Kurunegala","Polpithigama","T-ALL","Bone marrow","Live",838,27,NA,13,0,FALSE
+"00661/2016C",136900,1,2016,2016-01-18,"M",2,8,"Kurunegala","Alawwa","B-ALL","Bone marrow","Live",2850,93,NA,3,0,FALSE
+"00682/2021C",953490,1,2021,2021-01-22,"M",6,3,"Puttalam","Puttalam","B-ALL","Insufficient data","Death",1,0,2021-01-23,6,1,FALSE
+"00684/2021C",12680,0,2021,2021-01-22,"M",2,3,"Kegalle","Warakapola","B-ALL","Bone marrow","Live",895,29,NA,2,0,FALSE
+"00685/2021C",4760,0,2021,2021-01-22,"F",2,5,"Moneragala","Madulla","B-ALL","Bone marrow","Live",886,29,NA,2,0,FALSE
+"00689/2018C",3360,0,2018,2018-01-17,"M",5,0,"Kandy","Harispattuwa","B-ALL","Bone marrow","Live",1863,61,NA,5,0,FALSE
+"00691/2021C",31520,0,2021,2021-01-23,"M",6,0,"Colombo","Kaduwela","B-ALL","Bone marrow","Live",372,12,NA,6,0,FALSE
+"00702/2019C",17900,0,2019,2019-01-18,"F",6,2,"Moneragala","Siyambalanduwa","B-ALL",NA,"Death",6,0,2019-01-24,6,1,FALSE
+"00706/2022C",9960,1,2022,2022-01-20,"M",6,0,"Kurunegala","Mawathagama","T-ALL","Bone marrow","Live",517,17,NA,6,0,FALSE
+"00707/2022C",5730,0,2022,2022-01-20,"F",3,8,"Matale","Pallepola","B-ALL","Bone marrow","Live",545,17,NA,4,0,FALSE
+"00716/2019C",204850,1,2019,2019-01-19,"M",6,1,"Gampaha","Biyagama","B-ALL","Bone marrow","Live",159,5,NA,6,0,FALSE
+"00717/2018C",3600,1,2018,2018-01-18,"M",1,6,"Matale","Yatawatta","B-ALL","Bone marrow","Live",991,32,NA,2,0,FALSE
+"00721/2017C",75331,1,2017,2018-10-21,"F",15,0,"Kurunegala","Wariyapola","B-ALL","Bone marrow","Death",1,0,2018-10-22,15,1,FALSE
+"00738/2016C",116690,1,2016,2016-01-19,"M",2,3,"Colombo","Hanwella","B-ALL","Bone marrow","Live",2865,94,NA,2,0,FALSE
+"00753/2022C",21200,1,2022,2022-01-22,"M",11,10,"Kandy","Harispattuwa","T-ALL","Bone marrow","Live",4,0,NA,12,0,FALSE
+"00762/2017C",75331,0,2017,2017-01-20,"M",7,3,"Gampaha","Attanagalla","B-ALL","Bone marrow","Live",3,0,NA,7,0,FALSE
+"00763/2017C",2400,1,2017,2017-01-20,"M",11,5,"Colombo","Colombo","T-ALL","Bone marrow","Live",2197,72,NA,11,0,FALSE
+"00767/2019C",30400,0,2019,2019-01-21,"M",5,0,"Puttalam","Wennappuwa","B-ALL","Bone marrow","Live",1340,44,NA,5,0,FALSE
+"00773/2017C",870000,1,2017,2017-01-20,"F",12,6,"Kurunegala","Panduwasnuwara","B-ALL","Bone marrow","Live",661,21,NA,13,0,FALSE
+"00773/2022C",220730,1,2022,2022-01-23,"M",2,10,"Gampaha","Mahara","B-ALL","Bone marrow","Live",523,17,NA,3,0,FALSE
+"00775/2022C",8400,0,2022,2022-01-23,"M",2,5,"Kalutara","Walallavita","B-ALL","Bone marrow","Live",521,17,NA,2,0,FALSE
+"00790/2023C",3850,1,2023,2023-01-21,"M",12,4,"Kegalle","Yatiyanthota","B-ALL","Bone marrow","Death",42,1,2023-03-04,12,1,FALSE
+"00816/2022C",1810,0,2022,2022-01-24,"M",3,9,"Gampaha","Dompe","B-ALL","Bone marrow","Live",470,15,NA,4,0,FALSE
+"00839/2020C",321000,1,2020,2020-01-22,"M",12,5,"Colombo","Thimbirigasyaya","T-ALL","Bone marrow","Live",1535,50,NA,12,0,FALSE
+"00842/2018C",66310,1,2018,2018-01-22,"F",7,11,"Gampaha","Wattala","T-ALL","Bone marrow","Live",2276,74,NA,8,0,FALSE
+"00842/2020C",56080,1,2020,2020-01-22,"F",4,9,"Kandy","Yatinuwara","B-ALL","Bone marrow","Live",992,32,NA,5,0,FALSE
+"00858/2016C",2600,1,2016,2016-01-21,"F",15,9,"Kandy","Udunuwara","T-ALL","Bone marrow","Live",1624,53,NA,16,0,FALSE
+"00859/2021C",5000,0,2021,2021-01-29,"M",2,6,"Colombo","Thimbirigasyaya","B-ALL","Bone marrow","Live",839,27,NA,3,0,FALSE
+"00861/2021C",3410,1,2021,2021-01-29,"M",13,6,"Badulla","Haputale","B-ALL","Bone marrow","Live",832,27,NA,14,0,FALSE
+"00865/2022C",124000,1,2022,2022-01-25,"M",6,4,"Hambantota","Weeraketiya","T-ALL","Bone marrow","Live",836,27,NA,6,0,FALSE
+"00868/2021C",70110,1,2021,2021-01-30,"M",8,2,"Badulla","Meegahakivula","B-ALL","Bone marrow","Death",76,2,2021-04-16,8,1,FALSE
+"00870/2021C",109800,1,2021,2021-01-30,"M",5,6,"Galle","Elpitiya","B-ALL","Bone marrow","Live",891,29,NA,6,0,FALSE
+"00896/2023C",3000,1,2023,2023-01-24,"M",14,11,"Kegalle","Warakapola","B-ALL","Bone marrow","Live",267,8,NA,15,0,FALSE
+"00898/2023C",29350,0,2023,2023-01-24,"F",6,3,"Nuwara Eliya","Kothmale (West)","B-ALL","Bone marrow","Death",54,1,2023-03-19,6,1,FALSE
+"00910/2020C",10400,0,2020,2020-01-23,"M",4,2,"Kandy","Gangawata Korale","B-ALL","Bone marrow","Live",893,29,NA,4,0,FALSE
+"00915/2016C",119000,1,2016,2016-01-22,"F",6,0,"Badulla","Uva-Paranagama","B-ALL","Bone marrow","Live",2923,96,NA,6,0,FALSE
+"00936/2018C",7300,0,2018,2018-01-24,"F",4,3,"Ratnapura","Pelmadulla","B-ALL","Bone marrow","Live",889,29,NA,4,0,FALSE
+"00955/2018C",75331,0,2018,2018-10-01,"F",4,0,NA,NA,"B-ALL","Bone marrow","Death",58,1,2018-11-28,4,1,FALSE
+"00962/2017C",6900,1,2017,2017-01-25,"M",11,11,"Puttalam","Wennappuwa","T-ALL","Bone marrow","Live",2136,70,NA,12,0,FALSE
+"00991/2022C",113000,1,2022,2022-01-28,"F",14,9,"Gampaha","Dompe","T-ALL","Bone marrow","Live",810,26,NA,15,0,FALSE
+"01001/2022C",570,1,2022,2022-01-30,"F",12,11,"Kalutara","Beruwala","T-ALL","Bone marrow","Live",815,26,NA,13,0,FALSE
+"01005/2023C",8960,0,2023,2023-01-26,"M",2,4,"Hambantota","Walasmulla","B-ALL","Bone marrow","Death",57,1,2023-03-24,2,1,FALSE
+"01007/2023C",11740,1,2023,2023-01-26,"F",13,6,"Matara","Thihagoda","T-ALL","Bone marrow","Live",11,0,NA,14,0,FALSE
+"01018/2021C",39400,0,2021,2021-02-03,"M",4,3,"Colombo","Colombo","B-ALL","Bone marrow","Live",894,29,NA,4,0,FALSE
+"01023/2021C",600200,1,2021,2021-02-03,"F",2,2,"Ratnapura","Weligepola","T-ALL","Bone marrow","Live",855,28,NA,2,0,FALSE
+"01025/2021C",15000,1,2021,2021-02-04,"M",12,8,"Nuwara Eliya","Thalawakale","T-ALL","Bone marrow","Live",889,29,NA,13,0,FALSE
+"01043/2018C",127000,1,2018,2018-01-26,"F",2,8,"Kalutara","Kalutara","B-ALL","Bone marrow","Live",1844,60,NA,3,0,FALSE
+"01045/2023C",119130,1,2023,2023-01-27,"F",14,6,"Ratnapura","Godakawela","B-ALL","Bone marrow","Live",462,15,NA,15,0,FALSE
+"01053/2018C",9890,1,2018,2018-01-27,"M",12,1,"Colombo","Colombo","T-ALL","Bone marrow","Live",1452,47,NA,12,0,FALSE
+"01064/2021C",2800000,1,2021,2021-02-05,"M",15,6,"Matara","Kamburupitiya","B-ALL","Bone marrow","Live",769,25,NA,16,0,FALSE
+"01065/2021C",3570,1,2021,2021-02-05,"M",11,2,"Ratnapura","Elapatha","B-ALL","Bone marrow","Live",888,29,NA,11,0,FALSE
+"01066/2021C",9700,0,2021,2021-02-05,"M",8,4,"Colombo","Ratmalana","B-ALL","Bone marrow","Live",879,28,NA,8,0,FALSE
+"01071/2021C",12000,1,2021,2021-02-06,"F",15,1,"Galle","Ambalangoda","T-ALL","Bone marrow","Live",877,28,NA,15,0,FALSE
+"01085/2020C",76330,1,2020,2020-01-28,"F",10,1,"Badulla","Mahiyanganaya","T-ALL","Bone marrow","Live",1121,36,NA,10,0,FALSE
+"01086/2019C",4680,0,2019,2019-01-28,"F",5,2,"Kandy","Harispattuwa","B-ALL","Bone marrow","Live",1414,46,NA,5,0,FALSE
+"01111/2022C",413930,1,2022,2022-02-01,"M",12,9,"Colombo","Hanwella","T-ALL","Bone marrow","Live",518,17,NA,13,0,FALSE
+"01120/2018C",75331,1,2018,2018-03-18,"M",19,0,"Ratnapura","Kalawana","B-ALL","Bone marrow","Death",7,0,2018-03-25,19,1,FALSE
+"01121/2016C",11000,1,2016,2016-01-28,"M",10,0,NA,NA,"B-ALL",NA,"Death",19,0,2016-02-16,10,1,FALSE
+"01123/2018C",3330,0,2018,2018-01-29,"F",4,4,"Anuradhapura","Mihinthale","B-ALL","Bone marrow","Live",2255,74,NA,4,0,FALSE
+"01139/2021C",1890,0,2021,2021-02-08,"M",5,6,"Ratnapura","Eheliyagoda","B-ALL","Bone marrow","Death",299,9,2021-12-04,6,1,FALSE
+"01145/2021C",62190,1,2021,2021-02-08,"F",12,9,"Kandy","Pathadumbara","B-ALL","Bone marrow","Live",872,28,NA,13,0,FALSE
+"01147/2022C",4560,0,2022,2022-02-02,"F",2,9,"Hambantota","Walasmulla","B-ALL","Bone marrow","Live",505,16,NA,3,0,FALSE
+"01148/2021C",2770,0,2021,2021-02-08,"F",2,6,"Kandy","Akurana","B-ALL","Bone marrow","Live",850,28,NA,3,0,FALSE
+"01148/2022C",211900,1,2022,2022-02-02,"M",3,11,"Gampaha","Katana","B-ALL","Bone marrow","Live",187,6,NA,4,0,FALSE
+"01157/2016C",65000,1,2016,2016-01-29,"F",2,6,"Colombo","Kesbewa","B-ALL","Bone marrow","Live",2890,94,NA,3,0,FALSE
+"01169/2017C",29050,0,2017,2017-01-31,"M",7,6,"Anuradhapura","Thalawa","B-ALL","Bone marrow","Live",2607,85,NA,8,0,FALSE
+"01170/2018C",4860,1,2018,2018-02-01,"F",12,9,"Batticaloa","Manmunai South-West","B-ALL","Bone marrow","Live",400,13,NA,13,0,FALSE
+"01171/2018C",5260,1,2018,2018-02-01,"M",8,1,"Mannar","Mannar Town","T-ALL","Bone marrow","Live",910,29,NA,8,0,FALSE
+"01174/2020C",40300,1,2020,2020-01-30,"M",14,7,"Hambantota","Weeraketiya","T-ALL","Bone marrow","Death",24,0,2020-02-23,15,1,FALSE
+"01180/2020C",4820,0,2020,2020-01-31,"F",6,4,"Kandy","Udapalatha","B-ALL","Bone marrow","Live",1105,36,NA,6,0,FALSE
+"01208/2022C",57930,1,2022,2022-02-03,"F",5,0,"Colombo","Colombo","B-ALL","Bone marrow","Live",525,17,NA,5,0,FALSE
+"01214/2021C",104000,1,2021,2021-02-11,"M",18,10,"Ratnapura","Embilipitiya","T-ALL","Bone marrow","Live",701,23,NA,19,0,FALSE
+"01216/2022C",420320,1,2022,2022-02-05,"M",0,8,"Galle","Galle Four Gravets","B-ALL","Bone marrow","Live",142,4,NA,1,0,FALSE
+"01237/2020C",7610,1,2020,2020-01-31,"F",1,10,"Anuradhapura","Rajanganaya","B-ALL","Bone marrow","Live",1147,37,NA,2,0,FALSE
+"01245/2018C",63800,1,2018,2021-03-17,"M",0,0,"Matara","Dickwella","T-ALL","Bone marrow","Death",1,0,2021-03-18,0,1,FALSE
+"01247/2016C",19700,0,2016,2016-02-01,"F",8,2,"Nuwara Eliya","Nildandahinna","B-ALL","Bone marrow","Live",1389,45,NA,8,0,FALSE
+"01248/2018C",3260,0,2018,2018-02-02,"F",6,4,"Kalutara","Agalawatta","B-ALL","Bone marrow","Live",1846,60,NA,6,0,FALSE
+"01251/2020C",7400,0,2020,2020-02-02,"F",4,8,"Mullaitivu","Oddusuddan","B-ALL","Bone marrow","Live",1503,49,NA,5,0,FALSE
+"01296/2021C",1496,1,2021,2021-02-12,"F",8,7,"Kandy","Udunuwara","T-ALL","Bone marrow","Live",858,28,NA,9,0,FALSE
+"01297/2021C",171000,1,2021,2021-02-12,"F",4,4,"Puttalam","Arachchikattuwa","B-ALL","Bone marrow","Live",873,28,NA,4,0,FALSE
+"01302/2016C",5900,0,2016,2016-02-02,"M",5,8,"Kurunegala","Kobeigane","B-ALL","Bone marrow","Live",884,29,NA,6,0,FALSE
+"01304/2021C",2950,0,2021,2021-02-13,"M",8,11,"Kalutara","Panadura","B-ALL","Bone marrow","Live",1103,36,NA,9,0,FALSE
+"01311/2017C",2600,0,2017,2017-02-03,"F",4,3,"Gampaha","Mahara","B-ALL","Bone Marrow","Live",886,29,NA,4,0,FALSE
+"01316/2023C",72930,1,2023,2023-02-03,"M",1,6,"Jaffna","Thenmaradchi (Chavakachcheri)","B-ALL","Bone marrow","Live",244,8,NA,2,0,FALSE
+"01323/2023C",800,1,2023,2023-02-04,"F",13,0,"Vavuniya","Vavuniya South","B-ALL","Bone marrow","Live",247,8,NA,13,0,FALSE
+"01327/2020C",4500,1,2020,2020-02-03,"M",5,10,"Colombo","Kolonnawa","T-ALL","Bone marrow","Death",10,0,2020-02-13,6,1,FALSE
+"01332/2022C",23000,1,2022,2022-02-09,"F",16,1,"Badulla","Hali-Ela","B-ALL","Bone marrow","Live",516,17,NA,16,0,FALSE
+"01335/2020C",37400,1,2020,2020-02-04,"F",0,9,"Ratnapura","Nivithigala","B-ALL","Bone marrow","Death",101,3,2020-05-15,1,1,FALSE
+"01354/2016C",50000,0,2016,2016-02-03,"M",2,4,"Colombo","Kesbewa","B-ALL","Bone Marrow","Live",21,0,NA,2,0,FALSE
+"01355/2021C",4580,0,2021,2021-02-15,"M",3,8,"Gampaha","Katana","B-ALL","Bone marrow","Live",871,28,NA,4,0,FALSE
+"01361/2018C",37000,0,2018,2018-02-06,"F",2,1,"Colombo","Homagama","B-ALL","Bone marrow","Live",862,28,NA,2,0,FALSE
+"01365/2018C",6500,0,2018,2018-02-06,"F",5,1,"Gampaha","Wattala","B-ALL","Bone marrow","Live",907,29,NA,5,0,FALSE
+"01370/2023C",6460,0,2023,2023-02-06,"M",5,5,"Colombo","Kaduwela","B-ALL","Bone marrow","Live",241,7,NA,5,0,FALSE
+"01374/2020C",34545,0,2020,2020-02-05,"F",8,4,"Colombo","Maharagama","B-ALL","Bone marrow","Live",1097,36,NA,8,0,FALSE
+"01376/2020C",11560,1,2020,2020-02-05,"M",11,11,"Anuradhapura","Medawachchiya","B-ALL","Bone marrow","Live",34,1,NA,12,0,FALSE
+"01398/2019C",206000,1,2019,2019-02-07,"M",12,8,"Batticaloa","Kattankudy","T-ALL","Bone marrow","Live",1397,45,NA,13,0,FALSE
+"01412/2021C",13560,0,2021,2021-02-16,"M",2,1,"Kandy","Pathadumbara","B-ALL","Bone marrow","Live",1158,38,NA,2,0,FALSE
+"01429/2016C",9400,0,2016,2016-02-06,"F",3,7,"Galle","Waduramba","B-ALL","Bone Marrow","Live",2909,95,NA,4,0,FALSE
+"01439/2020C",3980,0,2020,2020-02-06,"M",2,10,"Colombo","Kolonnawa","B-ALL","Bone marrow","Live",125,4,NA,3,0,FALSE
+"01462/2023C",2280,0,2023,2023-02-08,"M",3,0,"Gampaha","Dompe","B-ALL","Bone marrow","Live",239,7,NA,3,0,FALSE
+"01484/2022C",12260,1,2022,2022-02-11,"F",0,11,"Kandy","Ganga Ihala Korale","B-ALL","Bone marrow","Death",306,10,2022-12-14,1,1,FALSE
+"01485/2022C",6680,0,2022,2022-02-11,"M",3,5,"Matara","Pasgoda","B-ALL","Bone marrow","Live",510,16,NA,3,0,FALSE
+"01499/2017C",3060,0,2017,2017-02-08,"M",7,1,"Puttalam","Kalpitiya","B-ALL","Bone marrow","Live",1854,61,NA,7,0,FALSE
+"01505/2023C",4013,1,2023,2023-02-09,"M",14,7,"Anuradhapura","Rajanganaya","T-ALL","Bone marrow","Death",56,1,2023-04-06,15,1,FALSE
+"01506/2020C",239000,1,2020,2020-02-08,"M",3,3,"Ratnapura","Balangoda","B-ALL","Bone marrow","Live",1116,36,NA,3,0,FALSE
+"01512/2020C",2700,0,2020,2020-02-09,"M",2,5,"Galle","Habaraduwa","B-ALL","Bone marrow","Live",1082,35,NA,2,0,FALSE
+"01524/2023C",13830,1,2023,2023-02-09,"M",14,4,"Matara","Devinuwara","T-ALL","Bone marrow","Live",246,8,NA,14,0,FALSE
+"01526/2019C",19710,1,2019,2019-02-09,"F",4,7,"Galle","Akmeemana","T-ALL","Bone marrow","Live",1845,60,NA,5,0,FALSE
+"01534/2021C",6200,1,2021,2021-02-19,"M",17,7,"Nuwara Eliya","Kothmale","T-ALL","Bone marrow","Live",229,7,NA,18,0,FALSE
+"01547/2021C",25100,0,2021,2021-02-21,"M",4,8,"Gampaha","Negombo","B-ALL","Bone marrow","Live",127,4,NA,5,0,FALSE
+"01551/2021C",4900,0,2021,2021-02-22,"M",2,10,"Ampara","Uhana","B-ALL","Bone marrow","Live",1159,38,NA,3,0,FALSE
+"01561/2017C",3590,1,2017,2017-02-10,"M",16,4,"Puttalam","Kalpitiya","B-ALL","Bone marrow","Live",2651,87,NA,16,0,FALSE
+"01573/2017C",162000,1,2017,2017-02-12,"M",3,10,"Kandy","Minipe","T-ALL","Bone Marrow","Live",534,17,NA,4,0,FALSE
+"01574/2017C",7750,0,2017,2017-02-13,"M",5,7,"Gampaha","Ja-Ela","B-ALL","Bone marrow","Live",1249,41,NA,6,0,FALSE
+"01589/2018C",36100,0,2018,2018-02-12,"F",2,3,"Kurunegala","Bingiriya","B-ALL","Bone marrow","Live",2110,69,NA,2,0,FALSE
+"01610/2020C",2300,0,2020,2020-02-11,"M",4,5,"Trincomalee","Seruvila","B-ALL","Bone marrow","Live",1492,49,NA,4,0,FALSE
+"01612/2023C",3140,0,2023,2023-02-13,"F",3,4,"Kilinochchi","Karachchi","B-ALL","Bone marrow","Live",227,7,NA,3,0,FALSE
+"01614/2022C",6590,0,2022,2022-02-15,"F",5,4,"Puttalam","Dankotuwa","B-ALL","Bone marrow","Live",801,26,NA,5,0,FALSE
+"01631/2018C",18000,0,2018,2018-02-14,"F",6,7,"Gampaha","Wattala","B-ALL","Bone marrow","Live",1154,37,NA,7,0,FALSE
+"01633/2018C",2200,0,2018,2018-02-14,"M",2,10,"Gampaha","Katana","B-ALL","Bone marrow","Live",600,19,NA,3,0,FALSE
+"01639/2017C",2100,0,2017,2017-02-13,"M",5,5,"Puttalam","Mundalama","B-ALL","Bone Marrow","Live",2589,85,NA,5,0,FALSE
+"01641/2020C",3e+05,1,2020,2020-02-12,"M",5,8,"Colombo","Ratmalana","T-ALL","Bone marrow","Live",1076,35,NA,6,0,FALSE
+"01643/2017C",10760,0,2017,2017-02-14,"F",4,7,"Nuwara Eliya","Nuwara Eliya","B-ALL","Bone Marrow","Live",149,4,NA,5,0,FALSE
+"01645/2021C",8600,1,2021,2021-02-23,"M",14,10,"Kalutara","Beruwala","B-ALL","Bone marrow","Live",1156,38,NA,15,0,FALSE
+"01654/2022C",840740,1,2022,2022-02-17,"M",2,4,"Anuradhapura","Mihinthale","T-ALL","Bone marrow","Live",426,14,NA,2,0,FALSE
+"01669/2019C",75331,1,2019,2019-02-12,"M",15,10,"Kalutara","Bandaragama","T-ALL","Bone marrow","Live",977,32,NA,16,0,FALSE
+"01674/2019C",41800,0,2019,2019-02-12,"F",8,10,"Galle","Hikkaduwa","B-ALL","Bone marrow","Live",972,31,NA,9,0,FALSE
+"01686/2021C",51000,1,2021,2021-02-24,"F",0,11,"Ratnapura","Embilipitiya","T-ALL","Bone marrow","Live",869,28,NA,1,0,FALSE
+"01693/2022C",261150,1,2022,2022-02-18,"M",9,6,"Kalutara","Kalutara","B-ALL","Bone marrow","Live",515,17,NA,10,0,FALSE
+"01709/2019C",3890,0,2019,2019-02-13,"M",7,4,"Ratnapura","Balangoda","B-ALL","Bone marrow","Live",894,29,NA,7,0,FALSE
+"01714/2023C",13370,0,2023,2023-02-15,"F",2,6,"Kurunegala","Polgahawela","B-ALL","Bone marrow","Live",236,7,NA,3,0,FALSE
+"01723/2023C",16280,0,2023,2023-02-16,"M",3,8,"Anuradhapura","Nochchiyagama","B-ALL","Bone marrow","Live",229,7,NA,4,0,TRUE
+"01731/2021C",5230,0,2021,2021-02-25,"M",2,9,"Kandy","Kundasale","B-ALL","Bone marrow","Live",396,13,NA,3,0,FALSE
+"01743/2017C",4600,0,2017,2017-02-15,"F",4,9,"Galle","Galle Four Gravets","B-ALL","Bone marrow","Live",1926,63,NA,5,0,FALSE
+"01745/2017C",11090,1,2017,2017-02-15,"M",15,3,"Matale","Galewela","T-ALL","Bone marrow","Live",2042,67,NA,15,0,FALSE
+"01750/2018C",2430,0,2018,2018-02-16,"M",2,7,"Kegalle","Mawanella","B-ALL","Bone marrow","Live",2140,70,NA,3,0,FALSE
+"01760/2018C",2480,0,2018,2018-02-17,"M",2,9,"Polonnaruwa","Hingurakgoda","B-ALL","Bone marrow","Live",2176,71,NA,3,0,FALSE
+"01762/2021C",95980,1,2021,2021-02-08,"F",5,6,"Ampara","Thirukkovil","T-ALL","Bone marrow","Live",868,28,NA,6,0,FALSE
+"01763/2020C",9690,1,2020,2020-02-14,"F",1,4,"Colombo","Kaduwela","B-ALL","Bone marrow","Live",1076,35,NA,1,0,FALSE
+"01764/2021C",4220,1,2021,2021-02-28,"F",0,4,"Anuradhapura","Nuwaragam Palatha Central","B-ALL","Bone marrow","Live",413,13,NA,0,0,FALSE
+"01766/2017C",225000,1,2017,2017-02-16,"F",0,1,"Moneragala","Moneragala","B-ALL","Bone marrow","Live",1804,59,NA,0,0,FALSE
+"01770/2018C",7800,0,2018,2018-02-18,"M",3,4,"Kegalle","Rambukkana","B-ALL","Bone marrow","Live",1751,57,NA,3,0,FALSE
+"01771/2018C",7800,1,2018,2018-02-18,"M",8,0,"Polonnaruwa","Lankapura","T-ALL","Bone marrow","Live",619,20,NA,8,0,FALSE
+"01779/2022C",6830,1,2022,2022-02-21,"F",7,4,"Puttalam","Dankotuwa","T-ALL","Bone marrow","Live",430,14,NA,7,0,FALSE
+"01783/2020C",4230,0,2020,2020-02-16,"F",3,1,"Puttalam","Nattandiya","B-ALL","Bone marrow","Live",1109,36,NA,3,0,FALSE
+"01805/2016C",7700,0,2016,2016-02-15,"M",4,8,"Ratnapura","Ratnapura","B-ALL","Bone marrow","Live",2500,82,NA,5,0,FALSE
+"01822/2021C",18320,1,2021,2021-03-02,"M",13,6,"Matale","Galewela","T-ALL","Bone marrow","Live",213,6,NA,14,0,FALSE
+"01822/2022C",3460,0,2022,2022-02-22,"M",5,3,"Nuwara Eliya","Thalawakale","B-ALL","Bone marrow","Live",801,26,NA,5,0,FALSE
+"01824/2019C",8e+06,1,2019,2019-02-16,"F",1,8,"Kilinochchi","Karachchi","B-ALL","Bone marrow","Live",110,3,NA,2,0,FALSE
+"01832/2023C",5450,1,2023,2023-02-17,"M",12,1,"Jaffna","Valikamam-East (Kopayi)","T-ALL","Bone marrow","Death",6,0,2023-02-23,12,1,FALSE
+"01833/2019C",4930,0,2019,2019-02-16,"F",2,3,"Batticaloa","Batticaloa","B-ALL","Bone marrow","Live",1306,42,NA,2,0,FALSE
+"01834/2023C",61620,1,2023,2023-02-18,"F",2,4,"Kandy","Kandy Four Gravets & Gangawata Korale","B-ALL","Bone marrow","Live",205,6,NA,2,0,FALSE
+"01840/2019C",4800,0,2019,2019-02-16,"F",2,8,"Matale","Laggala-Pallegama","B-ALL","Bone marrow","Live",1481,48,NA,3,0,FALSE
+"01845/2017C",4600,0,2017,2017-02-17,"M",4,6,"Trincomalee","Kuchchaveli","B-ALL","Bone Marrow","Live",2337,76,NA,5,0,FALSE
+"01855/2016C",96000,1,2016,2016-02-16,"M",5,6,"Galle","Galle","T-ALL","Bone marrow","Live",1219,40,NA,6,0,FALSE
+"01862/2022C",6840,0,2022,2022-02-23,"F",5,10,"Colombo","Sri Jayawardanapura Kotte","B-ALL","Bone marrow","Live",498,16,NA,6,0,FALSE
+"01864/2017C",1830,1,2017,2017-02-20,"M",10,6,"Kandy","Medadumbara","B-ALL","Bone marrow","Live",2641,86,NA,11,0,FALSE
+"01912/2019C",2340,0,2019,2019-02-18,"M",5,11,"Kegalle","Kegalle","B-ALL","Bone marrow","Live",948,31,NA,6,0,FALSE
+"01914/2022C",11100,0,2022,2022-02-24,"F",2,5,"Gampaha","Dompe","B-ALL","Bone marrow","Live",489,16,NA,2,0,FALSE
+"01924/2023C",20500,1,2023,2023-02-21,"M",18,11,"Anuradhapura","Galenbindunuwewa","B-ALL","Bone marrow","Death",194,6,2023-09-03,19,1,FALSE
+"01935/2018C",6110,0,2018,2018-02-21,"M",6,1,"Kegalle","Rambukkana","B-ALL","Bone marrow","Live",1153,37,NA,6,0,FALSE
+"01937/2018C",8500,1,2018,2018-02-21,"F",1,5,"Matale","Matale","B-ALL","Bone marrow","Live",677,22,NA,1,0,FALSE
+"01938/2021C",26000,1,2021,2021-03-03,"F",0,10,"Puttalam","Wennappuwa","B-ALL","Bone marrow","Live",799,26,NA,1,0,FALSE
+"01949/2016C",3200,0,2016,2016-02-18,"F",2,2,"Matara","Kamburupitiya","B-ALL","Bone Marrow","Live",1420,46,NA,2,0,FALSE
+"01957/2016C",8000,0,2016,2016-02-19,"F",2,5,"Ampara","Uhana","B-ALL","Bone marrow","Live",2937,96,NA,2,0,FALSE
+"01961/2019C",10100,0,2019,2019-02-20,"M",2,0,"Vavuniya","Vavuniya","B-ALL","Bone marrow","Live",1454,47,NA,2,0,FALSE
+"01982/2020C",5810,0,2020,2020-02-20,"M",7,6,"Kandy","Harispattuwa","B-ALL","Bone marrow","Live",1070,35,NA,8,0,FALSE
+"01984/2022C",1500,1,2022,2022-02-27,"M",1,10,"Badulla","Bandarawela","B-ALL","Bone marrow","Live",492,16,NA,2,0,FALSE
+"01988/2022C",264220,1,2022,2022-02-27,"M",1,8,"Galle","Elpitiya","B-ALL","Bone marrow","Live",803,26,NA,2,0,FALSE
+"02002/2021C",28000,0,2021,2021-03-04,"M",8,3,"Gampaha","Gampaha","B-ALL","Bone marrow","Death",64,2,2021-05-07,8,1,TRUE
+"02014/2018C",10290,0,2018,2018-02-22,"M",6,4,"Kandy","Thumpane","B-ALL","Bone marrow","Live",10,0,NA,6,0,FALSE
+"02024/2016C",235000,1,2016,2016-02-22,"M",4,7,"Ratnapura","Balangoda","T-ALL","Bone marrow","Live",1873,61,NA,5,0,FALSE
+"02031/2022C",28180,1,2022,2022-02-28,"F",12,5,"Kurunegala","Maspotha","T-ALL","Bone marrow","Death",46,1,2022-04-15,12,1,FALSE
+"02043/2022C",17530,0,2022,2022-03-01,"M",2,9,"Anuradhapura","Kekirawa","B-ALL","Bone marrow","Live",89,2,NA,3,0,FALSE
+"02049/2021C",3100,1,2021,2021-03-06,"M",1,9,"Batticaloa","Kattankudy","B-ALL","Bone marrow","Death",891,29,2023-08-14,2,1,FALSE
+"02056/2019C",75331,1,2019,2019-03-30,"M",6,0,"Kurunegala","Pannala","T-ALL","Bone marrow","Death",11,0,2019-04-10,6,1,FALSE
+"02062/2018C",184910,1,2018,2018-02-23,"F",10,9,"Galle","Karandeniya","B-ALL","Bone marrow","Live",1657,54,NA,11,0,FALSE
+"02067/2018C",6140,1,2018,2018-02-23,"F",13,4,"Ratnapura","Nivithigala","B-ALL","Bone marrow","Live",1755,57,NA,13,0,FALSE
+"02069/2016C",5100,0,2016,2016-02-23,"F",3,7,"Kegalle","Dehiovita","B-ALL","Bone marrow","Live",2639,86,NA,4,0,FALSE
+"02070/2016C",11300,0,2016,2016-02-23,"F",2,3,"Gampaha","Mirigama","B-ALL","Bone marrow","Live",2639,86,NA,2,0,FALSE
+"02070/2018C",6000,0,2018,2018-02-24,"F",2,2,"Gampaha","Gampaha","B-ALL","Bone marrow","Live",1815,59,NA,2,0,FALSE
+"02072/2019C",16290,0,2019,2019-02-23,"M",2,6,"Polonnaruwa","Lankapura","B-ALL","Bone marrow","Live",1391,45,NA,3,0,FALSE
+"02076/2018C",39000,1,2018,2018-02-24,"F",6,2,"Kandy","Udapalatha","T-ALL","Bone marrow","Live",1656,54,NA,6,0,FALSE
+"02079/2016C",20730,1,2016,2016-02-23,"F",11,3,"Ratnapura","Ratnapura","B-ALL","Bone marrow","Live",1480,48,NA,11,0,FALSE
+"02079/2019C",12980,1,2019,2019-02-23,"M",18,1,"Colombo","Colombo","T-ALL","Bone marrow","Death",450,14,2020-05-18,18,1,FALSE
+"02081/2018C",47400,1,2018,2018-02-25,"M",0,9,"Ratnapura","Embilipitiya","B-ALL","Bone marrow","Death",91,3,2018-05-27,1,1,FALSE
+"02083/2022C",2100,1,2022,2022-03-02,"M",14,2,"Colombo","Hanwella","B-ALL","Bone marrow","Live",498,16,NA,14,0,FALSE
+"02084/2021C",75331,1,2021,2021-01-20,"F",18,1,"Ratnapura","Ratnapura","B-ALL","Bone marrow","Death",11,0,2021-01-31,18,1,FALSE
+"02084/2022C",28130,1,2022,2022-03-02,"F",2,7,"Batticaloa","Porativu Pattu","T-ALL","Bone marrow","Live",507,16,NA,3,0,FALSE
+"02086/2022C",19900,0,2022,2022-03-02,"F",7,11,"Ratnapura","Kuruvita","B-ALL","Bone marrow","Live",505,16,NA,8,0,FALSE
+"02088/2017C",4660,0,2017,2017-02-24,"M",4,5,"Batticaloa","Koralai Pattu West (Oddamavadi)","B-ALL","Bone marrow","Live",2089,68,NA,4,0,FALSE
+"02121/2021C",13920,0,2021,2021-03-08,"F",3,9,"Gampaha","Mahara","B-ALL","Bone marrow","Live",147,4,NA,4,0,FALSE
+"02127/2020C",45070,1,2020,2020-02-25,"M",4,1,"Kurunegala","Kuliyapitiya","T-ALL","Bone marrow","Live",890,29,NA,4,0,FALSE
+"02134/2020C",70000,1,2020,2020-02-25,"M",8,11,"Kurunegala","Kuliyapitiya","T-ALL","Bone marrow","Live",1214,39,NA,9,0,FALSE
+"02143/2021C",4760,1,2021,2021-03-09,"M",14,2,"Nuwara Eliya","Kothmale","B-ALL","Bone marrow","Live",1128,37,NA,14,0,FALSE
+"02186/2017C",17370,0,2017,2017-02-28,"M",3,8,"Ampara","Akkaraipattu","B-ALL","Bone Marrow","Live",2639,86,NA,4,0,FALSE
+"02216/2019C",2300,1,2019,2019-02-26,"F",7,1,"Gampaha","Negombo","T-ALL","Bone marrow","Live",604,19,NA,7,0,FALSE
+"02219/2019C",37000,0,2019,2019-02-27,"M",6,1,"Batticaloa","Manmunai South & Eruvil Pattu","B-ALL","Bone marrow","Live",1759,57,NA,6,0,FALSE
+"02221/2018C",4040,0,2018,2018-02-27,"F",4,3,"Kalutara","Mathugama","B-ALL","Bone marrow","Live",290,9,NA,4,0,FALSE
+"02224/2018C",4780,0,2018,2018-02-27,"M",5,8,"Ratnapura","Godakawela","B-ALL","Bone marrow","Live",2121,69,NA,6,0,FALSE
+"02228/2018C",3970,0,2018,2018-02-27,"M",2,4,"Puttalam","Puttalam","B-ALL","Bone marrow","Live",2110,69,NA,2,0,FALSE
+"02228/2021C",18330,1,2021,2021-03-10,"M",2,6,"Trincomalee","Trincomalee Town and Gravets","T-ALL","Bone marrow","Live",838,27,NA,3,0,FALSE
+"02230/2021C",24000,0,2021,2021-03-10,"F",3,11,"Kandy","Kandy Four Gravets & Gangawata Korale","B-ALL","Bone marrow","Live",250,8,NA,4,0,FALSE
+"02234/2018C",27260,1,2018,2018-02-28,"M",6,4,"Kilinochchi","Karachchi","T-ALL","Bone marrow","Live",2233,73,NA,6,0,FALSE
+"02246/2021C",104000,1,2021,2021-03-11,"F",3,1,"Hambantota","Beliatta","B-ALL","Bone marrow","Death",60,1,2021-05-10,3,1,FALSE
+"02253/2018C",33390,1,2018,2018-02-28,"M",13,1,"Kurunegala","Kuliyapitiya West","B-ALL","Bone marrow","Live",2164,71,NA,13,0,FALSE
+"02254/2020C",75331,0,2020,2021-10-20,"M",9,9,"Matara","Kirinda Puhulwella","B-ALL","Bone marrow","Death",1,0,2021-10-21,10,1,FALSE
+"02256/2017C",29000,1,2017,2017-02-28,"F",1,0,"Kurunegala","Ibbagamuwa","B-ALL","Bone marrow","Live",2537,83,NA,1,0,FALSE
+"02267/2016C",50170,1,2016,2016-02-28,"M",9,5,"Matara","Devinuwara","T-ALL","Bone Marrow","Live",2902,95,NA,9,0,FALSE
+"02284/2016C",15000,0,2016,2016-02-29,"M",4,9,"Colombo","Colombo","B-ALL","Bone marrow","Live",822,27,NA,5,0,FALSE
+"02297/2017C",30000,1,2017,2017-03-01,"M",17,2,"Ratnapura","Elapatha","T-ALL","Bone marrow","Death",27,0,2017-03-29,17,1,FALSE
+"02298/2017C",63000,1,2017,2017-03-01,"F",2,9,"Nuwara Eliya","Kothmale","B-ALL",NA,"Death",6,0,2017-03-07,3,1,FALSE
+"02312/2020C",42490,1,2020,2020-02-29,"M",7,3,"Galle","Waduramba","T-ALL","Bone marrow","Live",1336,43,NA,7,0,FALSE
+"02338/2018C",1710,1,2018,2018-03-02,"M",10,3,"Nuwara Eliya","Hanguranketha","B-ALL","Bone marrow","Live",1742,57,NA,10,0,FALSE
+"02340/2021C",6600,0,2021,2021-03-15,"M",3,2,"Galle","Balapitiya","B-ALL","Bone marrow","Live",836,27,NA,3,0,FALSE
+"02341/2017C",345930,1,2017,2017-03-02,"F",3,3,"Anuradhapura","Nochchiyagama","B-ALL","Bone Marrow","Live",2644,86,NA,3,0,FALSE
+"02344/2019C",27060,1,2019,2019-02-28,"F",0,1,"Puttalam","Pallama","B-ALL","Bone marrow","Death",2,0,2019-03-02,0,1,FALSE
+"02345/2019C",1500,0,2019,2019-02-28,"M",2,7,"Ratnapura","Embilipitiya","B-ALL","Bone marrow","Live",1448,47,NA,3,0,FALSE
+"02363/2016C",5500,1,2016,2016-02-29,"M",1,7,"Kurunegala","Polgahawela","B-ALL","Bone marrow","Death",32,1,2016-04-01,2,1,FALSE
+"02372/2023C",2e+05,1,2023,2023-03-03,"F",1,6,"Kegalle","Mawanella","T-ALL","Bone marrow","Death",5,0,2023-03-08,2,1,FALSE
+"02376/2021C",50400,1,2021,2021-03-16,"M",18,8,"Gampaha","Negombo","B-ALL","Bone marrow","Live",639,20,NA,19,0,FALSE
+"02382/2022C",3200,0,2022,2022-09-09,"M",6,4,"Anuradhapura","Nuwaragam Palatha East","B-ALL","Bone marrow","Live",304,10,NA,6,0,FALSE
+"02397/2017C",9200,1,2017,2017-03-03,"F",16,3,"Badulla","Rideemaliyadda","T-ALL","Bone marrow","Death",98,3,2017-06-09,16,1,FALSE
+"02398/2020C",10000,1,2020,2020-03-02,"M",16,9,"Gampaha","Mahara","T-ALL","Bone marrow","Live",292,9,NA,17,0,FALSE
+"02423/2016C",796800,1,2016,2016-03-01,"M",3,3,"Ampara","Akkaraipattu","T-ALL","Bone marrow","Live",2425,79,NA,3,0,FALSE
+"02425/2019C",4600,1,2019,2019-03-04,"F",11,5,"Gampaha","Gampaha","B-ALL","Bone marrow","Live",1365,44,NA,11,0,FALSE
+"02428/2019C",260170,1,2019,2019-03-05,"M",0,11,"Kandy","Ganga Ihala Korale","B-ALL","Bone marrow","Live",1470,48,NA,1,0,FALSE
+"02444/2022C",14290,1,2022,2022-03-10,"M",13,2,"Kandy","Akurana","T-ALL","Lugano staging classification stage - ii","Live",483,15,NA,13,0,FALSE
+"02476/2019C",21280,0,2019,2019-03-06,"M",5,0,"Mullaitivu","Manthai East","B-ALL","Bone marrow","Live",1435,47,NA,5,0,FALSE
+"02476/2023C",9730,0,2023,2023-03-07,"F",2,4,"Gampaha","Negombo","B-ALL","Bone marrow","Live",437,14,NA,2,0,FALSE
+"02494/2016C",5200,1,2016,2016-03-02,"M",12,10,"Gampaha","Dompe","B-ALL","Bone marrow","Live",2518,82,NA,13,0,FALSE
+"02507/2022C",18330,0,2022,2022-03-12,"M",9,7,"Kandy","Thumpane","B-ALL","Bone marrow","Live",207,6,NA,10,0,FALSE
+"02513/2022C",66070,1,2022,2023-03-13,"M",2,7,"Kalutara","Beruwala","B-ALL","Bone marrow","Live",79,2,NA,3,0,FALSE
+"02514/2018C",1583,0,2018,2018-03-07,"M",3,6,"Kurunegala","Polpithigama","B-ALL","Bone marrow","Live",890,29,NA,4,0,FALSE
+"02531/2019C",21300,0,2019,2019-03-06,"F",3,6,"Moneragala","Badalkumbura","B-ALL","Bone marrow","Live",1287,42,NA,4,0,FALSE
+"02602/2018C",2820,0,2018,2018-03-09,"M",2,7,"Galle","Yakkalamulla","B-ALL","Bone marrow","Live",1769,58,NA,3,0,FALSE
+"02603/2016C",159600,1,2016,2016-03-05,"M",5,4,"Colombo","Thimbirigasyaya","T-ALL","Bone marrow","Live",2951,96,NA,5,0,FALSE
+"02603/2018C",51000,1,2018,2018-03-09,"M",9,2,"Anuradhapura","Nochchiyagama","T-ALL","Bone marrow","Live",184,6,NA,9,0,FALSE
+"02608/2019C",5100,0,2019,2019-03-07,"F",9,11,"Hambantota","Angunakolapelessa","B-ALL","Bone marrow","Death",51,1,2019-04-27,10,1,FALSE
+"02611/2020C",8660,1,2020,2020-03-06,"F",13,1,"Colombo","Ratmalana","B-ALL","Bone marrow","Death",70,2,2020-05-15,13,1,FALSE
+"02612/2020C",2470,0,2020,2020-03-06,"M",4,0,"Colombo","Colombo","B-ALL","Bone marrow","Live",1088,35,NA,4,0,FALSE
+"02619/2021C",2980,0,2021,2021-03-22,"F",3,4,"Gampaha","Negombo","B-ALL","Bone marrow","Live",841,27,NA,3,0,FALSE
+"02620/2018C",2820,0,2018,2018-03-19,"M",2,7,"Galle","Yakkalamulla","B-ALL","Bone marrow","Live",1332,43,NA,3,0,FALSE
+"02639/2019C",4650,0,2019,2019-03-08,"M",8,3,"Trincomalee","Trincomalee","B-ALL","Bone marrow","Live",1573,51,NA,8,0,FALSE
+"02642/2023C",48090,1,2023,2023-03-10,"F",10,7,"Colombo","Homagama","B-ALL","Bone marrow","Live",193,6,NA,11,0,FALSE
+"02644/2019C",4200,0,2019,2019-07-08,"F",4,0,"Galle","Karandeniya","B-ALL","Bone marrow","Live",1267,41,NA,4,0,FALSE
+"02645/2021C",3450,0,2021,2021-03-23,"M",4,4,"Colombo","Colombo","B-ALL","Bone marrow","Live",786,25,NA,4,0,FALSE
+"02680/2018C",2100,1,2018,2018-03-12,"F",1,8,"Hambantota","Lunugamvehera","B-ALL","Bone marrow","Live",28,0,NA,2,0,FALSE
+"02703/2017C",82700,1,2017,2017-03-13,"F",14,4,"Gampaha","Dompe","B-ALL","Bone Marrow","Live",121,3,NA,14,0,FALSE
+"02708/2020C",106000,1,2020,2020-03-11,"M",9,4,"Galle","Hikkaduwa","T-ALL","Bone marrow","Live",1486,48,NA,9,0,FALSE
+"02719/2016C",3100,1,2016,2016-03-09,"F",16,2,"Kalutara","Panadura","B-ALL","Bone marrow","Live",2521,82,NA,16,0,FALSE
+"02734/2021C",5820,0,2021,2021-03-25,"M",4,2,"Anuradhapura","Horowpothana","B-ALL","Bone marrow","Live",1135,37,NA,4,0,FALSE
+"02738/2016C",6400,0,2016,2016-03-10,"M",8,4,"Mannar","Mannar Town","B-ALL","Bone marrow","Live",1460,47,NA,8,0,FALSE
+"02740/2019C",94700,1,2019,2019-03-11,"M",4,3,"Kurunegala","Mawathagama","B-ALL","Bone marrow","Live",1421,46,NA,4,0,FALSE
+"02742/2018C",4000,0,2018,2018-03-13,"M",4,8,"Matale","Wilgamuwa","B-ALL","Bone marrow","Live",1731,56,NA,5,0,FALSE
+"02755/2022C",3030,1,2022,2022-03-19,"M",11,9,"Kandy","Delthota","B-ALL","Bone marrow","Live",465,15,NA,12,0,FALSE
+"02761/2021C",29000,1,2021,2021-03-26,"F",16,1,"Ratnapura","Balangoda","B-ALL","Bone marrow","Death",22,0,2021-04-17,16,1,FALSE
+"02762/2021C",2860,0,2021,2021-03-26,"M",2,6,"Jaffna","Nallur","B-ALL","Bone marrow","Death",43,1,2021-05-08,3,1,FALSE
+"02765/2016C",6900,1,2016,2016-03-10,"F",18,1,"Puttalam","Kalpitiya","B-ALL","Bone Marrow","Death",24,0,2016-04-03,18,1,FALSE
+"02792/2016C",4500,0,2016,2016-03-10,"M",3,4,"Colombo","Moratuwa","B-ALL","Bone marrow","Live",718,23,NA,3,0,FALSE
+"02796/2023C",12290,1,2023,2023-03-14,"M",1,10,"Galle","Welivitiya-Divithura","B-ALL","Bone marrow","Live",430,14,NA,2,0,FALSE
+"02799/2021C",1100,0,2021,2021-03-26,"M",3,3,"Colombo","Padukka","B-ALL","Bone marrow","Live",1134,37,NA,3,0,FALSE
+"02800/2021C",43000,0,2021,2021-03-26,"F",5,0,"Colombo","Dehiwala-Mount Lavinia","B-ALL","Bone marrow","Live",1141,37,NA,5,0,FALSE
+"02810/2020C",1020,1,2020,2020-03-12,"F",13,9,"Moneragala","Wellawaya","B-ALL","Bone marrow","Live",1084,35,NA,14,0,FALSE
+"02813/2020C",21700,0,2020,2020-03-12,"M",5,3,"Ampara","Kalmunai","B-ALL","Bone marrow","Live",1076,35,NA,5,0,FALSE
+"02820/2021C",7260,1,2021,2021-03-28,"F",11,4,"Gampaha","Ja-Ela","B-ALL","Bone marrow","Live",1132,37,NA,11,0,FALSE
+"02828/2016C",92000,1,2016,2016-03-11,"M",15,9,"Colombo","Homagama","B-ALL","Bone marrow","Live",2526,82,NA,16,0,FALSE
+"02829/2016C",2490,1,2016,2016-03-11,"F",11,3,"Anuradhapura","Thambuttegama","B-ALL","Bone Marrow","Live",1615,53,NA,11,0,FALSE
+"02834/2016C",1e+05,1,2016,2016-03-11,"M",7,6,"Colombo","Padukka","T-ALL","Bone Marrow","Live",2833,93,NA,8,0,FALSE
+"02836/2016C",107500,1,2016,2016-03-12,"M",8,0,"Batticaloa","Manmunai North","T-ALL","Bone Marrow","Live",418,13,NA,8,0,FALSE
+"02838/2016C",1800,1,2016,2016-03-12,"F",17,7,"Ampara","Samanthurai","B-ALL","Bone marrow","Death",25,0,2016-04-06,18,1,FALSE
+"02839/2016C",2900,1,2016,2016-03-12,"M",14,10,"Colombo","Homagama","T-ALL","Bone marrow","Death",27,0,2016-04-08,15,1,FALSE
+"02854/2021C",243000,1,2021,2021-03-29,"M",1,2,"Kurunegala","Kuliyapitiya East","B-ALL","Bone marrow","Live",806,26,NA,1,0,FALSE
+"02855/2018C",29700,1,2018,2018-03-15,"M",16,4,"Kandy","Udapalatha","T-ALL","Bone marrow","Live",1806,59,NA,16,0,FALSE
+"02868/2022C",6420,0,2022,2022-03-22,"M",4,2,"Gampaha","Dompe","B-ALL","Bone Marrow","Live",237,7,NA,4,0,FALSE
+"02875/2021C",126000,1,2021,2021-03-29,"M",5,8,"Gampaha","Attanagalla","T-ALL","Bone marrow","Live",780,25,NA,6,0,FALSE
+"02879/2021C",38000,0,2021,2021-03-29,"F",3,10,"Gampaha","Katana","B-ALL","Bone marrow","Live",823,27,NA,4,0,FALSE
+"02880/2021C",231000,1,2021,2021-03-29,"M",0,2,"Trincomalee","Thambalagamuwa","B-ALL","Bone marrow","Live",808,26,NA,0,0,FALSE
+"02884/2021C",145000,1,2021,2021-03-30,"M",2,2,"Badulla","Lunugala","B-ALL","Bone marrow","Live",728,23,NA,2,0,FALSE
+"02891/2019C",91980,1,2019,2019-03-14,"M",2,6,"Kurunegala","Kuliyapitiya East","T-ALL","Bone marrow","Live",1442,47,NA,3,0,FALSE
+"02920/2016C",13600,0,2016,2016-03-14,"M",2,3,"Kurunegala","Mallawapitiya","B-ALL","Bone marrow","Live",1163,38,NA,2,0,FALSE
+"02929/2017C",22000,1,2017,2017-03-17,"M",12,2,"Ratnapura","Balangoda","T-ALL","Bone marrow","Live",1241,40,NA,12,0,FALSE
+"02935/2023C",4550,0,2023,2023-03-17,"M",4,1,"Gampaha","Ja-Ela","B-ALL","Bone marrow","Live",186,6,NA,4,0,FALSE
+"02950/2021C",2600,0,2021,2021-03-30,"M",5,0,"Gampaha","Ja-Ela","B-ALL","Bone marrow","Live",1116,36,NA,5,0,FALSE
+"02953/2021C",18000,0,2021,2021-03-30,"M",3,1,"Matale","Pallepola","B-ALL","Bone marrow","Live",1137,37,NA,3,0,FALSE
+"02966/2019C",55210,1,2019,2019-03-17,"F",12,3,"Anuradhapura","Kekirawa","B-ALL","Bone marrow","Death",86,2,2019-06-11,12,1,FALSE
+"02972/2020C",122000,1,2020,2020-03-17,"F",13,0,"Galle","Baddegama","T-ALL","Bone marrow","Live",1477,48,NA,13,0,FALSE
+"02975/2016C",4310,0,2016,2016-03-15,"F",4,6,"Kurunegala","Bingiriya","B-ALL","Bone marrow","Live",2712,89,NA,5,0,FALSE
+"02977/2016C",4300,1,2016,2016-03-15,"F",10,8,"Kandy","Pathahewaheta","B-ALL","Bone Marrow","Death",440,14,2017-05-29,11,1,FALSE
+"02983/2021C",3080,0,2021,2021-03-31,"M",3,4,"Anuradhapura","Mihinthale","B-ALL","Bone marrow","Live",821,26,NA,3,0,FALSE
+"02996/2021C",5660,0,2021,2021-03-31,"F",2,9,"Anuradhapura","Kebithigollewa","B-ALL","Bone marrow","Live",832,27,NA,3,0,FALSE
+"02996/2023C",19000,1,2023,2023-03-20,"F",10,1,"Matara","Welipitiya","B-ALL","Bone marrow","Live",182,5,NA,10,0,FALSE
+"02998/2018C",12600,1,2018,2018-03-19,"M",16,9,"Gampaha","Biyagama","T-ALL","Bone marrow","Live",1522,50,NA,17,0,FALSE
+"03030/2022C",123000,1,2022,2022-03-25,"F",1,10,"Colombo","Colombo","T-ALL","Bone marrow","Live",479,15,NA,2,0,FALSE
+"03054/2020C",1780,0,2020,2020-03-19,"F",8,4,"Kalutara","Horana","B-ALL","Bone marrow","Live",1099,36,NA,8,0,FALSE
+"03055/2023C",16000,1,2023,2023-03-21,"M",1,9,"Colombo","Kesbewa","B-ALL","Bone marrow","Live",181,5,NA,2,0,FALSE
+"03069/2021C",111040,1,2021,2021-04-03,"M",12,9,"Gampaha","Wattala","T-ALL","Bone marrow","Death",43,1,2021-05-16,13,1,FALSE
+"03074/2020C",20000,1,2020,2020-03-21,"F",1,4,"Kalutara","Dodangoda","B-ALL","Bone marrow","Live",382,12,NA,1,0,FALSE
+"03083/2016C",61008,1,2016,2016-03-17,"M",3,3,"Gampaha","Dompe","B-ALL","Bone Marrow","Live",2918,95,NA,3,0,FALSE
+"03086/2018C",18600,0,2018,2018-03-01,"M",5,2,"Kalutara","Panadura","B-ALL","Bone marrow","Live",1246,40,NA,5,0,FALSE
+"03092/2016C",60000,1,2016,2016-03-17,"M",2,11,"Hambantota","Katuwana","B-ALL","Bone Marrow","Live",2960,97,NA,3,0,FALSE
+"03093/2018C",4350,1,2018,2018-03-21,"F",11,10,"Ratnapura","Kolonna","B-ALL","Bone marrow","Live",1716,56,NA,12,0,FALSE
+"03096/2016C",295000,1,2016,2016-03-17,"M",7,9,"Puttalam","Mahawewa","B-ALL","Bone marrow","Death",3,0,2016-03-20,8,1,FALSE
+"03100/2019C",14000,0,2019,2019-03-19,"M",5,3,"Nuwara Eliya","Nuwara Eliya","B-ALL","Bone marrow","Live",1276,41,NA,5,0,FALSE
+"03115/2019C",45000,1,2019,2019-03-21,"M",1,5,"Ampara","Uhana","B-ALL","Bone marrow","Death",38,1,2019-04-28,1,1,FALSE
+"03116/2021C",21280,0,2021,2021-04-05,"F",3,1,"Colombo","Homagama","B-ALL","Bone marrow","Live",801,26,NA,3,0,FALSE
+"03122/2020C",129000,1,2020,2020-03-25,"M",13,4,"Batticaloa","Manmunai South","T-ALL",NA,"Live",1020,33,NA,13,0,FALSE
+"03128/2017C",5410,0,2017,2017-03-23,"F",6,2,"Matara","Thihagoda","B-ALL","Bone marrow","Live",2379,78,NA,6,0,FALSE
+"03139/2016C",45000,0,2016,2016-03-19,"F",2,4,"Batticaloa","Manmunai South & Eruvil Pattu","B-ALL","Bone marrow","Live",1174,38,NA,2,0,FALSE
+"03140/2020C",1380,0,2020,2020-03-26,"F",2,5,"Kandy","Panvila","B-ALL","Bone marrow","Live",1048,34,NA,2,0,FALSE
+"03174/2017C",4600,0,2017,2017-03-25,"F",3,1,"Colombo","Dehiwala-Mount Lavinia","B-ALL","Bone marrow","Live",1192,39,NA,3,0,FALSE
+"03191/2022C",1960,0,2022,2022-03-29,"F",2,4,"Gampaha","Gampaha","B-ALL","Bone marrow","Live",750,24,NA,2,0,FALSE
+"03191/2023C",13500,0,2023,2023-03-24,"F",5,5,"Nuwara Eliya","Nuwara Eliya","B-ALL","Bone marrow","Live",206,6,NA,5,0,FALSE
+"03197/2023C",7090,1,2023,2023-03-24,"M",15,1,"Badulla","Uva-Paranagama","T-ALL","Bone marrow / Stage - iii","Death",47,1,2023-05-10,15,1,FALSE
+"03208/2018C",75331,1,2018,2018-11-20,"M",13,0,"Colombo","Maharagama","B-ALL","Bone marrow","Death",15,0,2018-12-05,13,1,FALSE
+"03209/2023C",11180,0,2023,2023-03-26,"F",3,1,"Kurunegala","Ibbagamuwa","B-ALL","Bone marrow","Live",390,12,NA,3,0,FALSE
+"03216/2019C",25800,1,2019,2019-03-22,"F",1,9,"Colombo","Homagama","B-ALL","Bone marrow","Death",243,7,2019-11-20,2,1,FALSE
+"03217/2019C",70470,1,2019,2019-03-22,"M",1,0,"Kegalle","Ruwanwella","B-ALL","Bone marrow","Live",1439,47,NA,1,0,FALSE
+"03421/2023C",16320,1,2023,2023-03-30,"F",12,8,"Kandy","Udunuwara","B-ALL","Bone marrow","Death",30,0,2023-04-29,13,1,FALSE
+"03222/2016C",7800,0,2016,2016-03-31,"M",3,0,"Gampaha","Mirigama","B-ALL","Bone marrow","Live",2770,91,NA,3,0,FALSE
+"03222/2019C",31700,0,2019,2019-03-22,"F",3,6,"Nuwara Eliya","Norwood","B-ALL","Bone marrow","Live",1397,45,NA,4,0,FALSE
+"03229/2016C",83700,1,2016,2016-03-22,"M",3,9,"Gampaha","Minuwangoda","B-ALL","Bone marrow","Live",2486,81,NA,4,0,FALSE
+"03229/2019C",6280,0,2019,2019-03-23,"M",9,7,"Kurunegala","Panduwasnuwara","B-ALL","Bone marrow","Live",1438,47,NA,10,0,FALSE
+"03235/2022C",39000,1,2022,2022-03-30,"M",5,7,"Kurunegala","Mawathagama","T-ALL","Bone marrow","Live",468,15,NA,6,0,FALSE
+"03239/2022C",6160,1,2022,2022-03-30,"F",4,3,"Kalutara","Bandaragama","T-ALL","Bone marrow","Live",756,24,NA,4,0,FALSE
+"03240/2022C",27000,1,2022,2022-03-30,"F",5,8,"Kurunegala","Wariyapola","T-ALL","Bone marrow","Live",477,15,NA,6,0,FALSE
+"03243/2022C",40000,1,2022,2022-03-31,"F",12,10,"Polonnaruwa","Hingurakgoda","T-ALL","Bone marrow","Live",469,15,NA,13,0,FALSE
+"03244/2019C",7310,0,2019,2019-03-25,"M",4,8,"Jaffna","Jaffna","B-ALL","Bone marrow","Death",47,1,2019-05-11,5,1,FALSE
+"03253/2020C",3210,0,2020,2020-04-03,"M",2,1,"Ampara","Samanthurai","B-ALL","Bone marrow","Live",1027,33,NA,2,0,FALSE
+"03264/2016C",3600,0,2016,2016-03-23,"F",3,0,"Gampaha","Minuwangoda","B-ALL","Bone marrow","Live",2472,81,NA,3,0,FALSE
+"03265/2021C",1250,0,2021,2021-04-08,"F",4,0,"Ratnapura","Embilipitiya","B-ALL","Bone marrow","Live",680,22,NA,4,0,FALSE
+"03266/2021C",5240,0,2021,2021-04-08,"F",3,4,"Moneragala","Wellawaya","B-ALL","Bone marrow","Live",748,24,NA,3,0,FALSE
+"03268/2020C",564000,1,2020,2020-04-04,"F",8,3,"Matara","Weligama","T-ALL","Bone marrow","Live",131,4,NA,8,0,FALSE
+"03270/2016C",273000,1,2016,2016-03-23,"F",6,10,"Kandy","Udadumbara","B-ALL","Bone marrow","Death",12,0,2016-04-04,7,1,FALSE
+"03271/2020C",17800,0,2020,2020-04-05,"F",4,8,"Kandy","Udunuwara","B-ALL","Bone marrow","Live",1040,34,NA,5,0,FALSE
+"03284/2020C",75160,1,2020,2020-04-06,"M",10,2,"Gampaha","Wattala","T-ALL",NA,"Death",55,1,2020-05-31,10,1,FALSE
+"03296/2020C",35670,0,2020,2020-04-08,"M",3,1,"Galle","Niyagama","B-ALL","Bone marrow","Live",882,28,NA,3,0,FALSE
+"03309/2017C",20340,1,2017,2017-03-28,"F",1,10,"Colombo","Colombo","B-ALL","Bone Marrow","Live",2627,86,NA,2,0,FALSE
+"03312/2017C",1830,0,2017,2017-03-29,"F",2,1,"Matale","Matale","B-ALL","Bone marrow","Death",188,6,2017-10-03,2,1,FALSE
+"03314/2023C",5890,0,2023,2023-03-28,"F",8,5,"Puttalam","Karuwalagaswewa","B-ALL","Bone marrow","Live",402,13,NA,8,0,FALSE
+"03315/2021C",59600,1,2021,2021-04-11,"F",17,11,"Kalutara","Bulathsinhala","T-ALL","Bone marrow","Death",64,2,2021-06-14,18,1,FALSE
+"03317/2016C",2100,1,2016,2016-03-24,"F",17,11,NA,NA,"T-ALL","Bone marrow","Live",1657,54,NA,18,0,FALSE
+"03318/2019C",14010,0,2019,2019-03-25,"F",2,9,"Kurunegala","Weerambugedara","B-ALL","Bone marrow","Live",857,28,NA,3,0,FALSE
+"03320/2022C",3960,0,2022,2022-04-01,"M",2,2,"Kandy","Yatinuwara","B-ALL","Bone marrow","Live",472,15,NA,2,0,FALSE
+"03323/2016C",5400,0,2016,2016-03-24,"F",3,10,"Gampaha","Ja-Ela","B-ALL","Bone Marrow","Live",1848,60,NA,4,0,FALSE
+"03329/2020C",39000,1,2020,2020-04-10,"M",16,11,"Gampaha","Mahara","T-ALL","Bone marrow","Death",41,1,2020-05-21,17,1,FALSE
+"03330/2020C",6540,0,2020,2020-04-10,"F",6,1,"Gampaha","Gampaha","B-ALL","Bone marrow","Live",1077,35,NA,6,0,FALSE
+"03343/2016C",142530,1,2016,2016-03-26,"M",13,6,"Galle","Nagoda","T-ALL","Bone marrow","Live",2515,82,NA,14,0,FALSE
+"03346/2020C",130000,1,2020,2020-04-13,"M",13,0,"Matale","Matale","T-ALL","Bone marrow","Death",71,2,2020-06-23,13,1,FALSE
+"03347/2022C",39250,1,2022,2022-04-02,"F",10,3,"Ratnapura","Kuruvita","T-ALL","Bone marrow","Live",304,9,NA,10,0,FALSE
+"03350/2021C",7690,0,2021,2021-04-12,"F",5,9,"Kurunegala","Kuliyapitiya West","B-ALL","Bone marrow","Death",18,0,2021-04-30,6,1,FALSE
+"03352/2020C",610000,1,2020,2020-04-14,"M",17,8,"Moneragala","Sevanagala","T-ALL","Bone marrow","Live",1035,33,NA,18,0,FALSE
+"03355/2021C",108000,1,2021,2021-04-13,"M",4,0,"Puttalam","Arachchikattuwa","B-ALL","Bone marrow","Live",1121,36,NA,4,0,FALSE
+"03374/2021C",3120,0,2021,2021-04-15,"M",3,6,"Galle","Elpitiya","B-ALL","Bone marrow","Death",41,1,2021-05-26,4,1,FALSE
+"03382/2018C",17850,1,2018,2018-03-28,"M",1,3,"Anuradhapura","Mihinthale","T-ALL","Bone marrow","Live",82,2,NA,1,0,FALSE
+"03391/2018C",13600,0,2018,2018-03-29,"F",8,0,"Jaffna","Valikamam West (Chankanai)","B-ALL","Bone marrow","Live",1741,57,NA,8,0,FALSE
+"03400/2017C",75331,1,2017,2017-03-30,"F",4,5,"Badulla","Passara","T-ALL","Bone marrow","Death",4,0,2017-04-03,4,1,FALSE
+"03406/2016C",13200,0,2016,2016-03-28,"F",4,5,"Colombo","Padukka","B-ALL","Bone marrow","Live",2698,88,NA,4,0,FALSE
+"03417/2020C",57000,1,2020,2020-04-19,"M",12,1,"Gampaha","Attanagalla","T-ALL","Bone marrow","Live",1038,34,NA,12,0,FALSE
+"03435/2020C",4600,0,2020,2020-04-20,"M",5,9,"Colombo","Moratuwa","B-ALL","Bone marrow","Live",1058,34,NA,6,0,FALSE
+"03441/2017C",2630,1,2017,2017-03-31,"F",18,4,"Matale","Matale","B-ALL","Bone marrow","Death",89,2,2017-06-27,18,1,FALSE
+"03445/2018C",9250,1,2018,2018-03-29,"F",8,7,"Colombo","Thimbirigasyaya","T-ALL","Bone marrow","Live",1784,58,NA,9,0,FALSE
+"03459/2018C",1200,1,2018,2018-04-01,"F",9,9,"Badulla","Hali-Ela","T-ALL","Bone marrow","Live",1712,56,NA,10,0,FALSE
+"03461/2017C",4440,1,2017,2017-04-02,"F",1,9,"Anuradhapura","Galnewa","B-ALL","Bone Marrow","Live",2606,85,NA,2,0,FALSE
+"03461/2019C",19750,1,2019,2019-03-28,"F",1,8,"Kurunegala","Mallawapitiya","B-ALL","Bone marrow","Death",252,8,2019-12-05,2,1,FALSE
+"03477/2016C",4800,0,2016,2016-07-07,"M",3,1,"Kurunegala","Ambanpola","B-ALL","Bone marrow","Death",14,0,2016-07-21,3,1,FALSE
+"03495/2023C",4210,1,2023,2023-04-01,"M",16,9,"Trincomalee","Trincomalee Town and Gravets","B-ALL","Bone marrow","Live",198,6,NA,17,0,FALSE
+"03497/2023C",24290,0,2023,2023-04-01,"M",5,1,"Ampara","Mahaoya","B-ALL","Bone marrow","Live",172,5,NA,5,0,FALSE
+"03516/2017C",11240,0,2017,2017-04-03,"M",5,7,"Galle","Nagoda","B-ALL","Bone marrow","Live",1233,40,NA,6,0,FALSE
+"03516/2022C",3080,0,2022,2022-04-06,"M",3,0,"Puttalam","Dankotuwa","B-ALL","Bone marrow","Live",463,15,NA,3,0,FALSE
+"03520/2019C",66150,1,2019,2019-03-30,"M",18,4,"Kalutara","Panadura","T-ALL","Bone marrow","Live",821,26,NA,18,0,FALSE
+"03531/2020C",4200,0,2020,2020-04-24,"F",2,10,"Hambantota","Ambalantota","B-ALL","Bone marrow","Live",1461,48,NA,3,0,FALSE
+"03538/2021C",32000,0,2021,2021-04-20,"F",8,1,"Kandy","Medadumbara","B-ALL","Bone marrow","Live",1109,36,NA,8,0,FALSE
+"03541/2021C",17950,0,2021,2021-04-20,"F",4,3,"Gampaha","Ja-Ela","B-ALL","Bone marrow","Live",205,6,NA,4,0,FALSE
+"03542/2020C",13700,0,2020,2020-04-24,"F",3,2,"Kegalle","Kegalle","B-ALL","Bone marrow","Live",1412,46,NA,3,0,FALSE
+"03542/2021C",346000,0,2021,2021-04-21,"M",2,0,"Ampara","Damana","B-ALL","Bone marrow","Live",1082,35,NA,2,0,FALSE
+"03543/2020C",64100,1,2020,2020-04-24,"F",12,8,"Kegalle","Warakapola","B-ALL","Bone marrow","Live",1458,47,NA,13,0,FALSE
+"03544/2020C",3500,1,2020,2020-04-24,"M",10,0,"Puttalam","Kalpitiya","B-ALL","Bone marrow","Live",1412,46,NA,10,0,FALSE
+"03551/2020C",19970,0,2020,2020-04-25,"F",5,6,"Gampaha","Negombo","B-ALL","Bone marrow","Live",1038,34,NA,6,0,FALSE
+"03567/2023C",6190,1,2023,2023-04-03,"M",1,9,"Galle","Karandeniya","B-ALL","Bone marrow","Live",196,6,NA,2,0,FALSE
+"03568/2023C",72150,1,2023,2023-04-03,"M",11,9,"Moneragala","Wellawaya","T-ALL","Bone marrow","Live",197,6,NA,12,0,FALSE
+"03581/2016C",31087,1,2016,2016-04-01,"M",16,6,"Gampaha","Attanagalla","B-ALL","Bone Marrow","Death",39,1,2016-05-10,17,1,FALSE
+"03583/2018C",18500,0,2018,2018-04-03,"M",4,4,"Puttalam","Wennappuwa","B-ALL","Bone marrow","Live",787,25,NA,4,0,FALSE
+"03591/2020C",5410,1,2020,2020-04-27,"F",10,5,"Matara","Hakmana","B-ALL","Bone marrow","Live",1037,34,NA,10,0,FALSE
+"03591/2021C",35580,0,2021,2021-04-21,"F",9,9,"Gampaha","Katana","B-ALL","Bone marrow","Live",680,22,NA,10,0,FALSE
+"03594/2021C",18110,1,2021,2021-04-21,"M",9,11,"Puttalam","Arachchikattuwa","T-ALL","Bone marrow","Live",810,26,NA,10,0,FALSE
+"03600/2020C",25300,0,2020,2020-04-28,"F",5,4,"Galle","Ambalangoda","B-ALL","Bone marrow","Live",1436,47,NA,5,0,FALSE
+"03610/2019C",35050,0,2019,2019-04-01,"M",4,8,"Colombo","Jayawardanapura Kotte","B-ALL","Bone marrow","Live",1436,47,NA,5,0,FALSE
+"03614/2017C",4270,1,2017,2017-04-06,"M",10,8,"Polonnaruwa","Hingurakgoda","B-ALL","Bone marrow","Live",2540,83,NA,11,0,FALSE
+"03620/2020C",1420,1,2020,2020-04-29,"F",11,4,"Jaffna","Valikamam-East (Kopayi)","B-ALL","Bone marrow","Live",42,1,NA,11,0,FALSE
+"03635/2016C",37210,0,2016,2016-04-03,"M",6,7,"Kilinochchi","Karachchi","B-ALL","Bone marrow","Live",1160,38,NA,7,0,FALSE
+"03646/2020C",459000,1,2020,2020-04-30,"M",8,9,"Galle","Hikkaduwa","T-ALL","Bone marrow","Death",3,0,2020-05-03,9,1,FALSE
+"03679/2018C",3540,0,2018,2018-04-05,"M",7,1,"Batticaloa","Kattankudy","B-ALL","Bone marrow","Live",81,2,NA,7,0,FALSE
+"03680/2020C",150570,1,2020,2020-05-02,"F",4,0,"Puttalam","Kalpitiya","B-ALL","Bone marrow","Live",1010,33,NA,4,0,FALSE
+"03681/2020C",19320,1,2020,2020-05-02,"M",16,6,"Moneragala","Medagama","B-ALL","Bone marrow","Death",21,0,2020-05-23,17,1,FALSE
+"03693/2021C",19530,0,2021,2021-04-23,"F",3,5,"Hambantota","Tangalle","B-ALL","Bone marrow","Death",64,2,2021-06-26,3,1,FALSE
+"03709/2017C",4130,0,2017,2017-04-08,"M",5,2,"Kandy","Yatinuwara","B-ALL","Bone marrow","Live",1758,57,NA,5,0,FALSE
+"03725/2022C",147000,1,2022,2022-04-13,"M",15,9,"Kurunegala","Rideegama","T-ALL","Bone marrow","Death",86,2,2022-07-08,16,1,FALSE
+"03727/2020C",38740,1,2020,2020-05-04,"M",9,11,"Galle","Imaduwa","T-ALL","Bone marrow","Live",1044,34,NA,10,0,FALSE
+"03727/2022C",31000,0,2022,2022-04-13,"F",8,3,"Kalutara","Walallavita","B-ALL","Bone marrow","Death",53,1,2022-06-05,8,1,FALSE
+"03729/2020C",3760,0,2020,2020-05-04,"F",3,5,"Colombo","Kotte","B-ALL","Bone marrow","Live",1053,34,NA,3,0,FALSE
+"03742/2022C",12030,0,2022,2022-04-16,"F",2,8,"Polonnaruwa","Hingurakgoda","B-ALL","Bone marrow","Live",457,15,NA,3,0,FALSE
+"03749/2018C",6460000,1,2018,2018-04-06,"F",10,5,"Anuradhapura","Nuwaragam Palatha East","B-ALL","Bone marrow","Live",1427,46,NA,10,0,FALSE
+"03757/2018C",31000,0,2018,2018-04-06,"F",9,11,"Nuwara Eliya","Norwood","B-ALL","Bone marrow","Live",1587,52,NA,10,0,FALSE
+"03759/2018C",810000,1,2018,2018-04-07,"F",4,3,"Jaffna","Valikamam South (Uduvil)","B-ALL","Bone marrow","Live",994,32,NA,4,0,FALSE
+"03765/2018C",3630,0,2018,2018-04-07,"F",4,5,"Colombo","Moratuwa","B-ALL","Bone marrow","Live",619,20,NA,4,0,FALSE
+"03772/2018C",3090,0,2018,2018-04-08,"F",3,7,"Hambantota","Lunugamvehera","B-ALL","Bone marrow","Live",2228,73,NA,4,0,FALSE
+"03778/2016C",4090,0,2016,2016-04-05,"M",2,7,"Kurunegala","Nikaweratiya","B-ALL","Bone marrow","Live",2376,78,NA,3,0,FALSE
+"03779/2023C",14940,0,2023,2023-04-10,"M",4,3,"Kegalle","Bulathkohupitiya","B-ALL","Bone marrow","Live",161,5,NA,4,0,FALSE
+"03790/2019C",5660,0,2019,2019-04-05,"F",7,5,"Ratnapura","Elapatha","B-ALL","Bone marrow","Death",693,22,2021-02-26,7,1,FALSE
+"03804/2019C",4670,0,2019,2019-04-06,"M",6,0,"Gampaha","Negombo","B-ALL","Bone marrow","Live",1363,44,NA,6,0,FALSE
+"03811/2017C",12280,1,2017,2017-04-13,"M",12,4,"Matara","Kirinda Puhulwella","B-ALL","Bone marrow","Live",2603,85,NA,12,0,FALSE
+"03816/2019C",5040,0,2019,2019-04-07,"M",2,4,"Colombo","Colombo","B-ALL","Bone marrow","Live",1376,45,NA,2,0,FALSE
+"03823/2020C",8590,0,2020,2020-05-10,"M",4,3,"Batticaloa","Manmunai North","B-ALL","Bone marrow","Live",1011,33,NA,4,0,FALSE
+"03824/2023C",6430,0,2023,2023-04-11,"F",6,3,"Matara","Pitabeddara","B-ALL","Bone marrow","Live",388,12,NA,6,0,FALSE
+"03828/2020C",245000,1,2020,2020-05-10,"M",10,7,"Kalutara","Beruwala","T-ALL","Bone marrow","Live",1007,33,NA,11,0,FALSE
+"03844/2022C",65460,1,2022,2022-04-19,"F",1,4,"Kurunegala","Ganewatta","B-ALL","Bone marrow","Death",50,1,2022-06-08,1,1,FALSE
+"03845/2022C",6900,0,2022,2022-04-20,"F",3,6,"Ampara","Addalaichenai","B-ALL","Bone marrow","Live",390,12,NA,4,0,FALSE
+"03853/2016C",6650,0,2016,2016-04-07,"F",2,4,"Kandy","Pathadumbara","B-ALL","Bone marrow","Live",858,28,NA,2,0,FALSE
+"03873/2021C",4970,1,2021,2021-04-30,"F",1,6,"Colombo","Kaduwela","B-ALL","Bone marrow","Live",0,0,NA,2,0,FALSE
+"03877/2019C",51570,1,2019,2019-06-12,"F",0,2,"Kegalle","Kegalle","B-ALL","Bone marrow","Death",8,0,2019-06-20,0,1,FALSE
+"03889/2022C",1300,0,2022,2022-04-20,"F",5,5,"Kegalle","Yatiyanthota","B-ALL","Bone marrow","Live",456,15,NA,5,0,FALSE
+"03894/2020C",13600,1,2020,2020-05-12,"F",17,10,"Kegalle","Galigamuwa","T-ALL","Bone marrow","Death",214,7,2020-12-12,18,1,FALSE
+"03895/2020C",5330,1,2020,2020-05-12,"F",1,3,"Nuwara Eliya","Ambagamuwa","B-ALL","Bone marrow","Live",972,31,NA,1,0,FALSE
+"03926/2019C",7100,1,2019,2019-04-09,"M",10,0,"Polonnaruwa","Hingurakgoda","B-ALL","Bone marrow","Live",1802,59,NA,10,0,FALSE
+"03931/2018C",111690,1,2018,2018-04-11,"M",3,5,"Gampaha","Kelaniya","B-ALL","Bone marrow","Live",827,27,NA,3,0,FALSE
+"03934/2019C",12200,0,2019,2019-04-09,"M",3,6,"Galle","Imaduwa","B-ALL","Bone marrow","Live",1793,58,NA,4,0,FALSE
+"03944/2017C",12100,0,2017,2017-04-20,"F",3,7,"Badulla","Badulla","B-ALL","Bone marrow","Live",508,16,NA,4,0,FALSE
+"03946/2023C",8300,0,2023,2023-04-17,"M",3,2,"Ratnapura","Embilipitiya","B-ALL","Bone marrow","Live",140,4,NA,3,0,TRUE
+"03955/2016C",13000,1,2016,2018-03-10,"M",18,0,"Badulla","Haputale","B-ALL","Bone Marrow","Death",24,0,2018-04-03,18,1,FALSE
+"03957/2018C",101000,1,2018,2018-04-12,"F",5,5,"Kandy","Udapalatha","B-ALL","Bone marrow","Live",706,23,NA,5,0,FALSE
+"03959/2018C",6150,1,2018,2018-04-12,"M",15,3,"Ampara","Samanthurai","B-ALL","Bone marrow","Live",498,16,NA,15,0,FALSE
+"03964/2020C",1470,1,2020,2020-05-14,"F",3,7,"Anuradhapura","Palagala","T-ALL","Bone marrow","Live",1029,33,NA,4,0,FALSE
+"03968/2022C",11000,0,2022,2022-04-22,"F",2,8,"Kalutara","Dodangoda","B-ALL","Bone marrow","Death",67,2,2022-06-28,3,1,FALSE
+"03978/2022C",30990,1,2022,2022-04-23,"M",11,6,"Kandy","Pasbage Korale","B-ALL","Bone marrow","Live",741,24,NA,12,0,FALSE
+"03981/2021C",4050,0,2021,2021-05-04,"M",3,1,"Ampara","Akkaraipattu","B-ALL","Bone marrow","Live",640,20,NA,3,0,FALSE
+"03987/2016C",4450,1,2016,2016-04-12,"M",1,8,"Kalutara","Bulathsinhala","B-ALL","Bone marrow","Live",1416,46,NA,2,0,FALSE
+"03993/2017C",21980,1,2017,2017-04-20,"M",11,5,"Kandy","Pathahewaheta","B-ALL","Bone marrow","Live",1979,65,NA,11,0,FALSE
+"03994/2016C",4620,0,2016,2016-04-13,"M",8,9,"Kegalle","Yatiyanthota","B-ALL","Bone marrow","Live",2322,76,NA,9,0,FALSE
+"04006/2016C",37700,1,2016,2016-04-15,"F",15,4,"Gampaha","Negombo","B-ALL","Bone marrow","Live",2055,67,NA,15,0,FALSE
+"04036/2021C",13500,1,2021,2021-05-05,"M",19,4,"Puttalam","Madampe","T-ALL","Bone marrow","Live",379,12,NA,19,0,FALSE
+"04036/2022C",5010,0,2022,2022-04-26,"M",2,10,"Moneragala","Bibile","B-ALL","Bone marrow","Live",434,14,NA,3,0,FALSE
+"04038/2019C",2160,1,2019,2019-04-12,"F",9,4,"Gampaha","Minuwangoda","T-ALL","Bone marrow","Live",1797,59,NA,9,0,FALSE
+"04051/2017C",61880,1,2017,2017-04-21,"M",8,7,"Vavuniya","Vavuniya","B-ALL","Bone marrow","Live",755,24,NA,9,0,FALSE
+"04051/2021C",2920,1,2021,2021-05-05,"F",13,0,"Ratnapura","Balangoda","B-ALL","Bone marrow","Live",768,25,NA,13,0,FALSE
+"04055/2017C",16220,0,2017,2017-04-22,"F",4,8,"Kurunegala","Giribawa","B-ALL","Bone marrow","Live",1460,47,NA,5,0,FALSE
+"04077/2018C",1020,1,2018,2018-04-18,"M",13,6,"Kalutara","Mathugama","T-ALL","Bone marrow","Live",1716,56,NA,14,0,FALSE
+"04078/2018C",8900,1,2018,2018-04-18,"M",1,11,"Kalutara","Dodangoda","B-ALL","Bone marrow","Live",1639,53,NA,2,0,FALSE
+"04101/2017C",21900,0,2017,2017-04-24,"F",3,6,"Kurunegala","Alawwa","B-ALL","Bone marrow","Live",2620,86,NA,4,0,FALSE
+"04106/2019C",173720,1,2019,2019-04-17,"F",19,10,"Nuwara Eliya","Nildandahinna","B-ALL","Bone marrow","Death",2,0,2019-04-19,20,1,FALSE
+"04126/2020C",32600,1,2020,2020-05-20,"M",13,9,"Ratnapura","Embilipitiya","B-ALL","Bone marrow","Live",1009,33,NA,14,0,FALSE
+"04126/2021C",18800,1,2021,2021-05-08,"M",5,9,"Vavuniya","Vavuniya","T-ALL","Bone marrow","Live",648,21,NA,6,0,FALSE
+"04128/2016C",47800,1,2016,2016-04-19,"M",10,3,"Colombo","Colombo","T-ALL","Bone marrow","Live",2254,74,NA,10,0,FALSE
+"04131/2021C",13400,0,2021,2021-05-08,"M",2,8,"Kegalle","Deraniyagala","B-ALL","Bone marrow","Live",788,25,NA,3,0,FALSE
+"04138/2019C",9350,0,2019,2019-04-18,"M",2,5,"Kurunegala","Ibbagamuwa","B-ALL","Bone marrow","Live",1404,46,NA,2,0,FALSE
+"04145/2019C",192000,1,2019,2019-04-20,"F",15,6,"Badulla","Mahiyanganaya","T-ALL","Bone marrow","Live",1810,59,NA,16,0,FALSE
+"04159/2019C",75140,1,2019,2019-04-22,"M",16,9,"Anuradhapura","Thambuttegama","T-ALL","Bone marrow","Live",318,10,NA,17,0,FALSE
+"04172/2018C",138000,1,2018,2018-04-20,"M",9,11,"Badulla","Mahiyanganaya","T-ALL","Bone marrow","Live",510,16,NA,10,0,FALSE
+"04179/2021C",1000,0,2021,2021-05-10,"M",3,4,"Kegalle","Galigamuwa","B-ALL","Bone marrow","Live",766,25,NA,3,0,FALSE
+"04210/2020C",125520,1,2020,2020-05-24,"F",2,2,"Ratnapura","Elapatha","B-ALL","Bone marrow","Live",1412,46,NA,2,0,FALSE
+"04211/2020C",29000,0,2020,2020-05-24,"M",3,1,"Nuwara Eliya","Thalawakale","B-ALL","Bone marrow","Live",1398,45,NA,3,0,FALSE
+"04229/2019C",4470,0,2019,2019-04-23,"F",4,6,"Kurunegala","Kobeigane","B-ALL","Bone marrow","Live",553,18,NA,5,0,FALSE
+"04234/2022C",4160,0,2022,2022-04-29,"F",4,11,"Kalutara","Bulathsinhala","B-ALL","Bone marrow","Live",444,14,NA,5,0,FALSE
+"04239/2016C",2660,0,2016,2016-04-24,"M",2,2,"Gampaha","Dompe","B-ALL","Bone marrow","Live",2770,91,NA,2,0,FALSE
+"04240/2022C",88010,1,2022,2022-04-29,"M",3,7,"Kurunegala","Bamunakotuwa","B-ALL","Bone marrow","Live",441,14,NA,4,0,FALSE
+"04262/2019C",7500,0,2019,2019-04-24,"M",3,9,"Ratnapura","Godakawela","B-ALL","Bone marrow","Live",1373,45,NA,4,0,FALSE
+"04263/2019C",21000,1,2019,2019-04-24,"F",1,2,"Kalutara","Dodangoda","B-ALL","Bone marrow","Live",1384,45,NA,1,0,FALSE
+"04283/2021C",2810,1,2021,2021-05-13,"M",18,1,"Anuradhapura","Nochchiyagama","B-ALL","Bone marrow","Live",784,25,NA,18,0,FALSE
+"04297/2020C",9610,1,2020,2020-05-27,"M",1,10,"Galle","Karandeniya","B-ALL","Bone marrow","Live",992,32,NA,2,0,FALSE
+"04301/2021C",20450,0,2021,2021-05-15,"M",2,2,"Jaffna","Valikamam North (Tellipallai)","B-ALL","Bone marrow","Live",537,17,NA,2,0,FALSE
+"04312/2019C",19000,1,2019,2019-04-25,"M",18,0,"Kurunegala","Bingiriya","B-ALL","Bone marrow","Death",11,0,2019-05-06,18,1,FALSE
+"04325/2018C",11000,0,2018,2018-04-25,"M",3,6,"Batticaloa","Manmunai North","B-ALL","Bone marrow","Death",195,6,2018-11-06,4,1,FALSE
+"04327/2016C",9200,0,2016,2016-04-25,"F",8,1,"Kurunegala","Wariyapola","B-ALL","Bone marrow","Live",2,0,NA,8,0,FALSE
+"04333/2019C",10900,0,2019,2019-04-26,"M",4,5,"Hambantota","Katuwana","B-ALL","Bone marrow","Live",1771,58,NA,4,0,FALSE
+"04342/2020C",3730,0,2020,2020-05-28,"F",4,7,"Ratnapura","Nivithigala","B-ALL",NA,"Live",999,32,NA,5,0,FALSE
+"04343/2020C",60570,1,2020,2020-05-28,"M",6,1,"Anuradhapura","Medawachchiya","B-ALL","Bone marrow","Live",636,20,NA,6,0,FALSE
+"04349/2023C",7610,1,2023,2023-04-26,"M",10,8,"Gampaha","Mirigama","T-ALL","Bone marrow","Live",160,5,NA,11,0,TRUE
+"04352/2021C",25790,0,2021,2021-05-17,"M",8,9,"Hambantota","Ambalantota","B-ALL","Bone marrow","Live",647,21,NA,9,0,FALSE
+"04353/2019C",8600,0,2019,2019-04-26,"F",2,7,"Moneragala","Moneragala","B-ALL","Bone marrow","Live",1007,33,NA,3,0,FALSE
+"04361/2020C",39890,0,2020,2020-05-29,"M",4,1,"Ratnapura","Embilipitiya","B-ALL","Bone marrow","Live",990,32,NA,4,0,FALSE
+"04963/2023C",3950,0,2023,2023-05-12,"M",3,6,"Jaffna","Nallur","B-ALL","Bone marrow","Death",172,5,2023-10-31,4,1,FALSE
+"04370/2019C",5490,1,2019,2019-04-27,"M",0,10,"Jaffna","Vadamaradchy South-West, Karaveddy","B-ALL","Bone marrow","Live",1391,45,NA,1,0,FALSE
+"04383/2017C",49990,1,2017,2017-05-02,"M",1,9,"Galle","Ambalangoda","B-ALL","Bone marrow","Live",1354,44,NA,2,0,FALSE
+"04384/2016C",8909,0,2016,2016-04-26,"M",4,6,"Ampara","Ampara","B-ALL","Bone marrow","Live",2605,85,NA,5,0,FALSE
+"04384/2017C",9330,0,2017,2017-05-02,"M",3,4,"Trincomalee","Kantalai","B-ALL","Bone marrow","Death",278,9,2018-02-04,3,1,FALSE
+"04384/2020C",303000,1,2020,2020-05-29,"M",13,7,"Colombo","Maharagama","T-ALL","Bone marrow","Live",1014,33,NA,14,0,FALSE
+"04397/2020C",2300,0,2020,2020-05-31,"F",6,4,"Anuradhapura","Rambewa","B-ALL","Bone marrow","Live",998,32,NA,6,0,FALSE
+"04403/2020C",43000,1,2020,2020-05-31,"M",1,10,"Colombo","Kaduwela","B-ALL","Bone marrow","Live",354,11,NA,2,0,FALSE
+"04403/2022C",3380,1,2022,2022-05-05,"M",13,0,"Nuwara Eliya","Norwood","T-ALL","Bone marrow","Death",33,1,2022-06-07,13,1,FALSE
+"04415/2021C",3890,1,2021,2021-05-19,"M",16,6,"Gampaha","Attanagalla","T-ALL","Bone marrow","Live",789,25,NA,17,0,FALSE
+"04418/2021C",4050,0,2021,2021-05-19,"F",6,2,"Ampara","Dehiattakandiya","B-ALL","Bone marrow","Live",1080,35,NA,6,0,FALSE
+"04422/2023C",18940,1,2023,2023-04-27,"M",1,8,"Ampara","Akkaraipattu","B-ALL","Bone marrow","Live",166,5,NA,2,0,FALSE
+"04432/2017C",450,1,2017,2017-05-04,"F",12,11,"Trincomalee","Trincomalee","T-ALL","Bone marrow","Live",1434,47,NA,13,0,FALSE
+"04434/2018C",5630,0,2018,2018-04-26,"M",6,9,"Puttalam","Nattandiya","B-ALL","Bone marrow","Live",1616,53,NA,7,0,FALSE
+"04441/2016C",3070,0,2016,2016-04-27,"M",2,10,"Kurunegala","Kurunegala","B-ALL","Bone marrow","Live",2485,81,NA,3,0,FALSE
+"04465/2021C",2000,0,2021,2021-05-20,"M",5,9,"Trincomalee","Muthur","B-ALL","Bone marrow","Live",1056,34,NA,6,0,FALSE
+"04466/2022C",31820,1,2022,2022-05-09,"F",1,11,"Colombo","Dehiwala-Mount Lavinia","B-ALL","Bone marrow","Live",9,0,NA,2,0,FALSE
+"04489/2019C",6190,1,2019,2019-04-30,"F",1,7,"Badulla","Lunugala","T-ALL","Bone marrow","Death",216,7,2019-12-02,2,1,FALSE
+"04498/2018C",110690,1,2018,2018-04-29,"M",1,8,"Hambantota","Weeraketiya","B-ALL","Bone marrow","Death",20,0,2018-05-19,2,1,FALSE
+"04508/2019C",2400,1,2019,2019-05-02,"F",14,5,"Kalutara","Kalutara","B-ALL","Bone marrow","Live",1019,33,NA,14,0,FALSE
+"04510/2022C",5480,0,2022,2022-05-09,"M",4,11,"Kandy","Akurana","B-ALL","Bone marrow","Live",372,12,NA,5,0,FALSE
+"04548/2016C",62500,1,2016,2016-04-29,"M",4,3,"Gampaha","Katana","B-ALL","Bone Marrow","Live",2420,79,NA,4,0,FALSE
+"04550/2018C",291510,1,2018,2018-05-01,"F",2,3,"Kegalle","Rambukkana","B-ALL","Bone marrow","Live",1182,38,NA,2,0,FALSE
+"04551/2017C",220200,1,2017,2017-05-07,"M",6,10,"Galle","Hikkaduwa","T-ALL","Bone Marrow","Live",1418,46,NA,7,0,FALSE
+"04552/2018C",88610,1,2018,2018-05-01,"F",17,2,"Kurunegala","Nikaweratiya","T-ALL","Bone marrow","Live",1618,53,NA,17,0,FALSE
+"04563/2022C",11070,1,2022,2022-05-11,"M",14,6,"Kurunegala","Polpithigama","B-ALL","Bone marrow","Death",259,8,2023-01-25,15,1,FALSE
+"04564/2020C",8600,0,2020,2020-06-04,"M",6,0,"Jaffna","Nallur","B-ALL","Bone marrow","Live",1008,33,NA,6,0,FALSE
+"04568/2021C",81000,1,2021,2021-05-26,"M",2,6,"Moneragala","Buttala","B-ALL","Bone marrow","Live",1073,35,NA,3,0,FALSE
+"04569/2021C",5190,0,2021,2021-05-26,"M",6,0,"Matara","Matara","B-ALL","Bone marrow","Live",775,25,NA,6,0,FALSE
+"04570/2021C",12120,0,2021,2021-05-26,"M",3,6,"Batticaloa","Manmunai South & Eruvil Pattu","B-ALL","Bone marrow","Live",1057,34,NA,4,0,FALSE
+"04588/2021C",15700,0,2021,2021-05-27,"M",5,4,"Colombo","Kesbewa","B-ALL","Bone marrow","Live",764,25,NA,5,0,FALSE
+"04592/2021C",1045000,1,2021,2021-05-28,"M",6,3,"Gampaha","Biyagama","T-ALL","Bone marrow","Live",608,19,NA,6,0,FALSE
+"04602/2019C",80500,1,2019,2019-05-03,"F",1,2,"Gampaha","Gampaha","B-ALL","Bone marrow","Live",780,25,NA,1,0,FALSE
+"04604/2020C",5020,1,2020,2020-06-06,"F",1,8,"Anuradhapura","Ipalogama","B-ALL","Bone marrow","Live",1020,33,NA,2,0,FALSE
+"04605/2018C",23000,0,2018,2018-05-02,"F",6,2,"Badulla","Passara","B-ALL","Bone marrow","Live",1592,52,NA,6,0,FALSE
+"04609/2019C",5970,0,2019,2019-05-04,"F",6,6,"Kurunegala","Alawwa","B-ALL","Bone marrow","Death",48,1,2019-06-21,7,1,FALSE
+"04609/2020C",353300,1,2020,2020-06-07,"M",7,0,"Ampara","Ampara","T-ALL","Bone marrow","Live",731,24,NA,7,0,FALSE
+"04613/2017C",6000,0,2017,2017-05-08,"F",4,10,"Ratnapura","Nivithigala","B-ALL","Bone Marrow","Live",2331,76,NA,5,0,FALSE
+"04614/2017C",75331,1,2017,2019-07-06,"F",16,0,"Matara","Matara","T-ALL","Bone marrow","Death",22,0,2019-07-28,16,1,FALSE
+"04615/2017C",5740,0,2017,2017-05-08,"M",3,7,"Kandy","Yatinuwara","B-ALL","Bone marrow","Live",2446,80,NA,4,0,FALSE
+"04633/2022C",3290,0,2022,2022-05-13,"F",3,3,"Ratnapura","Ratnapura","B-ALL","Bone marrow","Live",424,13,NA,3,0,FALSE
+"04660/2017C",3430,0,2017,2017-05-09,"M",5,6,"Gampaha","Wattala","B-ALL","Bone marrow","Live",844,27,NA,6,0,FALSE
+"04663/2017C",5100,0,2017,2017-05-09,"M",2,11,"Ratnapura","Kiriella","B-ALL","Bone marrow","Live",2453,80,NA,3,0,FALSE
+"04663/2020C",3480,0,2020,2020-06-08,"M",3,1,"Trincomalee","Muthur","B-ALL","Bone marrow","Live",989,32,NA,3,0,FALSE
+"04727/2020C",46000,1,2020,2020-06-09,"M",1,9,"Matale","Pallepola","T-ALL","Bone marrow","Death",1143,37,2023-07-27,2,1,FALSE
+"04730/2016C",75331,0,2016,2016-05-04,"M",5,1,"Kurunegala","Narammala","B-ALL","Bone marrow","Live",2042,67,NA,5,0,FALSE
+"04733/2016C",27500,0,2016,2016-05-04,"F",2,2,"Gampaha","Wattala","B-ALL","Bone marrow","Live",1604,52,NA,2,0,FALSE
+"04736/2018C",7000,1,2018,2018-05-04,"M",13,7,"Gampaha","Katana","B-ALL","Bone marrow","Live",2237,73,NA,14,0,FALSE
+"04743/2019C",75331,1,2021,2021-11-17,"M",16,7,"Ampara","Ampara","B-ALL","Bone marrow","Death",6,0,2021-11-23,17,1,FALSE
+"04743/2021C",31050,0,2021,2021-06-02,"M",2,7,"Gampaha","Wattala","B-ALL","Bone marrow","Live",768,25,NA,3,0,FALSE
+"04744/2021C",40000,1,2021,2021-06-03,"M",15,10,"Ampara","Ampara","T-ALL","Bone marrow","Death",3,0,2021-06-06,16,1,FALSE
+"04776/2022C",7040,0,2022,2022-05-19,"M",3,4,"Puttalam","Puttalam","B-ALL","Bone marrow","Live",412,13,NA,3,0,FALSE
+"04777/2021C",1100,0,2021,2021-06-03,"F",3,6,"Anuradhapura","Medawachchiya","B-ALL","Bone marrow","Live",733,24,NA,4,0,FALSE
+"04786/2021C",14030,0,2021,2021-06-04,"M",5,9,"Polonnaruwa","Thamankaduwa","B-ALL","Bone marrow","Live",565,18,NA,6,0,FALSE
+"04793/2017C",3e+05,1,2017,2017-05-15,"M",13,5,"Ratnapura","Embilipitiya","T-ALL","Bone Marrow","Live",1254,41,NA,13,0,FALSE
+"04799/2022C",31790,0,2022,2022-05-19,"F",2,6,"Kegalle","Kegalle","B-ALL","Bone marrow","Live",404,13,NA,3,0,FALSE
+"04802/2022C",35140,0,2022,2022-05-20,"F",3,2,"Trincomalee","Kinniya","B-ALL","Bone marrow","Live",403,13,NA,3,0,FALSE
+"04805/2018C",2020,1,2018,2018-05-08,"F",10,3,"Nuwara Eliya","Norwood","B-ALL","Bone marrow","Live",829,27,NA,10,0,FALSE
+"04819/2019C",6800,0,2019,2019-05-09,"F",4,0,"Kalutara","Ingiriya","B-ALL","Bone marrow","Live",1377,45,NA,4,0,FALSE
+"04828/2016C",9500,0,2016,2016-05-06,"F",6,0,"Galle","Imaduwa","B-ALL","Bone Marrow","Live",2945,96,NA,6,0,FALSE
+"04828/2021C",1580,1,2021,2021-06-06,"M",13,10,"Batticaloa","Kattankudy","B-ALL","Bone marrow","Live",108,3,NA,14,0,FALSE
+"04835/2020C",37510,1,2020,2020-06-11,"M",9,4,"Galle","Nagoda","T-ALL","Bone marrow","Live",942,30,NA,9,0,FALSE
+"04836/2020C",280170,1,2020,2020-06-11,"F",0,8,"Galle","Galle Four Gravets","B-ALL","Bone marrow","Live",330,10,NA,1,0,FALSE
+"04836/2023C",4110,1,2023,2023-05-10,"M",10,4,"Galle","Balapitiya","T-ALL","Bone marrow","Live",0,0,NA,10,0,FALSE
+"04837/2016C",900400,1,2016,2016-05-07,"F",3,2,"Kurunegala","Pannala","B-ALL","Bone marrow","Death",153,5,2016-10-07,3,1,FALSE
+"04837/2020C",5410,0,2020,2020-06-12,"M",5,6,"Mannar","Manthai west","B-ALL","Bone marrow","Live",990,32,NA,6,0,FALSE
+"04839/2016C",14200,0,2016,2016-05-07,"M",2,5,"Batticaloa","Koralai Pattu Central","B-ALL","Bone Marrow","Live",2776,91,NA,2,0,FALSE
+"04882/2019C",4430,1,2019,2019-05-12,"M",10,8,"Anuradhapura","Kekirawa","T-ALL","Bone marrow","Live",1340,43,NA,11,0,FALSE
+"04882/2020C",890000,1,2020,2020-06-12,"M",2,11,"Ampara","Mahaoya","B-ALL","Bone marrow","Live",1012,33,NA,3,0,FALSE
+"04886/2020C",83600,1,2020,2020-06-12,"M",7,4,"Gampaha","Mahara","B-ALL","Bone marrow","Live",993,32,NA,7,0,FALSE
+"04889/2020C",1410,0,2020,2020-06-12,"F",7,8,"Ratnapura","Elapatha","B-ALL","Bone marrow","Live",1014,33,NA,8,0,FALSE
+"04890/2020C",184000,1,2020,2020-06-13,"M",0,6,"Batticaloa","Manmunai South & Eruvil Pattu","B-ALL","Bone marrow","Death",160,5,2020-11-20,1,1,FALSE
+"04896/2023C",40000,0,2023,2023-05-11,"F",4,0,"Kurunegala","Alawwa","B-ALL","Bone marrow","Live",182,5,NA,4,0,FALSE
+"04899/2017C",5800,0,2017,2017-05-17,"M",5,9,"Kalutara","Kalutara","B-ALL","Bone marrow","Live",2070,67,NA,6,0,FALSE
+"04903/2017C",7400,1,2017,2017-05-17,"M",1,4,"Jaffna","Jaffna","B-ALL","Bone marrow","Live",2309,75,NA,1,0,FALSE
+"04912/2023C",145000,1,2023,2023-05-11,"M",13,0,"Anuradhapura","Horowpothana","T-ALL","Bone marrow","Death",9,0,2023-05-20,13,1,FALSE
+"04913/2018C",3850,0,2018,2018-05-10,"F",3,3,"Ratnapura","Ratnapura","B-ALL","Bone marrow","Live",1562,51,NA,3,0,FALSE
+"04914/2018C",2010,1,2018,2018-05-10,"M",19,5,"Kalutara","Ingiriya","B-ALL","Bone marrow","Live",619,20,NA,19,0,FALSE
+"04923/2021C",7500,0,2021,2021-06-09,"F",5,0,"Kegalle","Mawanella","B-ALL","Bone marrow","Live",1045,34,NA,5,0,FALSE
+"04925/2021C",239000,1,2021,2021-06-09,"F",5,2,"Puttalam","Mahawewa","B-ALL","Bone marrow","Live",743,24,NA,5,0,FALSE
+"04935/2016C",12500,0,2016,2016-05-09,"M",3,6,"Kurunegala","Galgamuwa","B-ALL","Bone marrow","Live",2561,84,NA,4,0,FALSE
+"04948/2022C",17640,0,2022,2022-05-24,"M",2,4,"Hambantota","Tissamaharama","B-ALL","Bone marrow","Live",717,23,NA,2,0,FALSE
+"04976/2021C",81200,1,2021,2021-06-10,"F",3,9,"Puttalam","Chilaw","B-ALL","Bone marrow","Live",469,15,NA,4,0,FALSE
+"04976/2023C",3500,0,2023,2023-05-14,"F",2,9,"Kurunegala","Kurunegala","B-ALL","Bone marrow","Live",142,4,NA,3,0,FALSE
+"05025/2021C",113000,1,2021,2021-06-12,"F",4,6,"Kalutara","Dodangoda","T-ALL","Bone marrow","Live",740,24,NA,5,0,FALSE
+"05041/2020C",75331,1,2020,2020-06-16,"M",17,5,"Galle","Imaduwa","T-ALL","Bone marrow","Live",394,12,NA,17,0,FALSE
+"05043/2020C",26700,1,2020,2020-06-17,"M",10,0,"Galle","Neluwa","B-ALL","Bone marrow","Live",1407,46,NA,10,0,FALSE
+"05044/2020C",3910,0,2020,2020-06-17,"M",8,11,"Jaffna","Valikamam South (Uduvil)","B-ALL","Bone marrow","Live",562,18,NA,9,0,FALSE
+"05054/2020C",7300,0,2020,2020-06-17,"M",6,4,"Kurunegala","Pannala","B-ALL","Bone marrow","Live",1393,45,NA,6,0,FALSE
+"05061/2018C",15000,1,2018,2018-05-14,"M",2,0,"Kandy","Harispattuwa","T-ALL","Bone marrow","Live",875,28,NA,2,0,FALSE
+"05069/2019C",4200,0,2019,2019-05-16,"M",5,8,"Gampaha","Negombo","B-ALL","Bone marrow","Live",1356,44,NA,6,0,FALSE
+"05100/2022C",97800,1,2022,2022-05-26,"M",17,7,"Badulla","Rideemaliyadda","T-ALL","Bone marrow","Death",32,1,2022-06-27,18,1,FALSE
+"05103/2019C",75331,0,2019,2019-05-17,"F",2,8,"Colombo","Kaduwela","B-ALL","Bone marrow","Live",158,5,NA,3,0,FALSE
+"05121/2021C",20000,1,2021,2021-06-15,"M",13,9,"Gampaha","Negombo","T-ALL","Bone marrow","Live",714,23,NA,14,0,FALSE
+"05122/2016C",6000,0,2016,2016-05-14,"F",3,11,"Ratnapura","Nivithigala","B-ALL","Bone marrow","Live",2509,82,NA,4,0,FALSE
+"05122/2019C",148000,1,2019,2019-05-19,"M",8,8,"Ratnapura","Godakawela","T-ALL","Bone marrow","Death",28,0,2019-06-16,9,1,FALSE
+"05125/2017C",1940,1,2017,2017-05-23,"F",12,1,"Kalutara","Beruwala","B-ALL","Bone marrow","Death",271,8,2018-02-18,12,1,FALSE
+"05148/2019C",24340,1,2019,2019-05-20,"M",3,9,"Colombo","Moratuwa","T-ALL","Bone marrow","Live",1389,45,NA,4,0,FALSE
+"05152/2021C",2800,1,2021,2021-06-16,"M",12,0,"Hambantota","Tangalle","B-ALL","Bone marrow","Live",761,25,NA,12,0,FALSE
+"05162/2022C",24000,0,2022,2022-05-29,"F",7,5,"Gampaha","Katana","B-ALL","Bone marrow","Live",135,4,NA,7,0,FALSE
+"05185/2020C",14590,0,2020,2020-06-20,"M",4,3,"Anuradhapura","Galenbindunuwewa","B-ALL","Bone marrow","Live",1404,46,NA,4,0,FALSE
+"05186/2019C",6e+05,1,2019,2019-05-21,"M",1,2,"Gampaha","Katana","T-ALL","Bone marrow","Live",31,1,NA,1,0,FALSE
+"05198/2022C",8330,0,2022,2022-05-30,"M",4,8,"Batticaloa","Manmunai South & Eruvil Pattu","B-ALL","Bone marrow","Live",709,23,NA,5,0,FALSE
+"05209/2022C",1300,1,2022,2022-05-30,"M",11,2,"Matale","Ukuwela","T-ALL","Bone marrow","Death",71,2,2022-08-09,11,1,FALSE
+"05210/2019C",11000,1,2019,2019-05-22,"M",14,5,"Kandy","Kundasale","T-ALL","Bone marrow","Live",252,8,NA,14,0,FALSE
+"05212/2018C",25000,1,2018,2018-05-17,"M",16,0,"Batticaloa","Manmunai South","T-ALL","Bone marrow","Live",1693,55,NA,16,0,FALSE
+"05213/2022C",35640,1,2022,2022-05-30,"F",11,11,"Gampaha","Mahara","B-ALL","Bone marrow","Live",711,23,NA,12,0,FALSE
+"05215/2023C",5100,1,2023,2023-05-18,"M",14,9,"Vavuniya","Vavuniya","T-ALL","Bone marrow","Death",32,1,2023-06-19,15,1,FALSE
+"05217/2017C",8490,0,2017,2017-05-25,"M",3,11,"Gampaha","Mahara","B-ALL","Bone marrow","Live",2547,83,NA,4,0,FALSE
+"05238/2016C",123000,1,2016,2016-05-17,"M",2,7,"Gampaha","Ja-Ela","B-ALL","Bone marrow","Live",2808,92,NA,3,0,FALSE
+"05248/2019C",3060,1,2019,2019-05-23,"F",14,5,"Jaffna","Jaffna","B-ALL","Bone marrow","Live",510,16,NA,14,0,FALSE
+"05248/2020C",11090,0,2020,2020-06-22,"M",7,7,"Kegalle","Mawanella","B-ALL","Bone marrow","Live",976,32,NA,8,0,FALSE
+"05251/2017C",75331,1,2017,2017-05-26,"F",17,8,"Puttalam","Mundalama","B-ALL","Bone marrow","Live",1679,55,NA,18,0,FALSE
+"05258/2017C",2330,0,2017,2017-05-27,"F",7,3,"Nuwara Eliya","Ambagamuwa","B-ALL","Bone marrow","Live",348,11,NA,7,0,FALSE
+"05258/2023C",4590,0,2023,2023-05-19,"M",2,7,"Colombo","Maharagama","B-ALL","Bone marrow","Live",137,4,NA,3,0,FALSE
+"05275/2018C",28000,0,2018,2018-05-18,"M",2,8,"Kurunegala","Maspotha","B-ALL",NA,"Live",874,28,NA,3,0,FALSE
+"05278/2022C",6330,0,2022,2022-05-31,"M",2,5,"Kegalle","Kegalle","B-ALL","Bone marrow","Live",699,22,NA,2,0,FALSE
+"05300/2019C",5110,0,2019,2019-05-23,"M",7,6,"Kalutara","Panadura","B-ALL","Bone marrow","Live",1210,39,NA,8,0,FALSE
+"05314/2016C",2110,0,2016,2016-05-19,"F",3,7,"Puttalam","Wennappuwa","B-ALL","Bone marrow","Live",419,13,NA,4,0,FALSE
+"05325/2020C",8005,1,2020,2020-06-24,"F",14,3,"Colombo","Moratuwa","B-ALL","Bone marrow","Live",978,32,NA,14,0,FALSE
+"05327/2020C",35000,0,2020,2020-06-24,"M",6,2,"Kandy","Harispattuwa","B-ALL","Bone marrow","Live",369,12,NA,6,0,FALSE
+"05342/2017C",4010,0,2017,2017-05-29,"M",4,7,"Kurunegala","Weerambugedara","B-ALL","Bone Marrow","Live",1732,56,NA,5,0,FALSE
+"05342/2019C",54140,1,2019,2019-05-24,"M",13,7,"Ratnapura","Eheliyagoda","B-ALL","Bone marrow","Live",1359,44,NA,14,0,FALSE
+"05345/2016C",3100,0,2016,2016-05-20,"M",6,9,"Badulla","Badulla","B-ALL","Bone marrow","Live",1558,51,NA,7,0,FALSE
+"05349/2020C",58210,1,2020,2020-06-25,"M",9,1,"Kurunegala","Narammala","T-ALL","Bone marrow","Live",985,32,NA,9,0,FALSE
+"05351/2016C",68380,1,2016,2016-05-21,"M",3,7,"Gampaha","Dompe","B-ALL","Bone marrow","Death",42,1,2016-07-02,4,1,FALSE
+"05351/2022C",5650,0,2022,2022-06-02,"M",9,10,"Anuradhapura","Galenbindunuwewa","B-ALL","Bone marrow","Live",207,6,NA,10,0,FALSE
+"05355/2019C",2000,0,2019,2019-05-25,"M",2,6,"Kandy","Pathadumbara","B-ALL","Bone marrow","Live",1312,43,NA,3,0,FALSE
+"05358/2018C",12730,0,2018,2018-05-21,"M",3,3,"Gampaha","Dompe","B-ALL","Bone marrow","Live",1718,56,NA,3,0,FALSE
+"05363/2023C",8020,0,2023,2023-05-23,"F",5,4,"Gampaha","Mahara","B-ALL","Bone marrow","Live",353,11,NA,5,0,FALSE
+"05379/2022C",53620,1,2022,2022-06-02,"M",2,5,"Kandy","Pathahewaheta","B-ALL","Bone marrow","Live",342,11,NA,2,0,FALSE
+"05382/2020C",72600,1,2020,2020-06-25,"M",14,1,"Colombo","Dehiwala-Mount Lavinia","T-ALL","Bone marrow","Live",397,13,NA,14,0,FALSE
+"05387/2018C",58460,1,2018,2018-05-22,"F",0,9,"Batticaloa","Koralai Pattu West (Oddamavadi)","B-ALL","Bone marrow","Live",252,8,NA,1,0,FALSE
+"05391/2017C",3600,0,2017,2017-05-30,"F",7,9,"Kurunegala","Kuliyapitiya West","B-ALL","Bone marrow","Live",2057,67,NA,8,0,FALSE
+"05393/2017C",16000,1,2017,2017-05-30,"F",11,6,"Kurunegala","Ibbagamuwa","T-ALL","Bone marrow","Live",2390,78,NA,12,0,FALSE
+"05397/2016C",4500,1,2016,2016-05-23,"F",12,1,"Kalutara","Palindanuwara","B-ALL","Bone marrow","Live",2628,86,NA,12,0,FALSE
+"05398/2023C",21820,1,2023,2023-05-24,"M",1,2,"Anuradhapura","Kebithigollewa","B-ALL","Bone marrow","Live",132,4,NA,1,0,FALSE
+"05428/2021C",9580,0,2021,2021-06-25,"M",7,4,"Gampaha","Negombo","B-ALL","Bone marrow","Live",741,24,NA,7,0,FALSE
+"05430/2019C",6840,1,2019,2019-05-27,"F",1,8,"Moneragala","Wellawaya","B-ALL","Bone marrow","Live",1277,41,NA,2,0,FALSE
+"05434/2021C",70690,1,2021,2021-06-25,"M",2,1,"Hambantota","Katuwana","B-ALL","Bone marrow","Live",731,24,NA,2,0,FALSE
+"05436/2021C",10920,1,2021,2021-06-26,"M",16,5,"Kalutara","Agalawatta","B-ALL","Bone marrow","Live",843,27,NA,16,0,FALSE
+"05439/2021C",10300,0,2021,2021-06-26,"M",5,6,"Colombo","Kesbewa","B-ALL","Bone marrow","Live",741,24,NA,6,0,FALSE
+"05439/2022C",22720,1,2022,2022-06-03,"F",13,11,"Gampaha","Wattala","B-ALL","Bone marrow","Live",390,12,NA,14,0,FALSE
+"05446/2022C",77710,1,2022,2022-06-04,"M",13,11,"Kurunegala","Mahawa","T-ALL","Bone marrow","Live",396,13,NA,14,0,FALSE
+"05448/2022C",48750,1,2022,2022-06-05,"M",12,3,"Jaffna","Jaffna","T-ALL","Bone marrow","Death",110,3,2022-09-23,12,1,FALSE
+"05469/2018C",58000,1,2018,2018-05-23,"M",1,3,"Badulla","Welimada","B-ALL","Bone marrow","Death",196,6,2018-12-05,1,1,FALSE
+"05482/2017C",12900,1,2017,2017-06-01,"M",14,10,"Puttalam","Mundalama","T-ALL","Bone marrow","Live",902,29,NA,15,0,FALSE
+"05484/2017C",3140,0,2017,2017-06-02,"F",6,6,"Polonnaruwa","Thamankaduwa","B-ALL","Bone marrow","Live",2317,76,NA,7,0,FALSE
+"05493/2016C",1100,1,2016,2016-05-25,"F",12,3,"Kurunegala","Kurunegala","B-ALL","Bone marrow","Live",853,28,NA,12,0,FALSE
+"05503/2022C",9810,0,2022,2022-06-07,"M",3,2,"Kandy","Poojapitiya","B-ALL","Bone marrow","Live",405,13,NA,3,0,FALSE
+"05505/2018C",5100,1,2018,2018-05-24,"M",14,10,"Kandy","Pathahewaheta","B-ALL","Bone marrow","Live",1047,34,NA,15,0,FALSE
+"05523/2023C",26800,0,2023,2023-05-26,"F",7,8,"Puttalam","Wennappuwa","B-ALL","Bone marrow","Live",40,1,NA,8,0,FALSE
+"05525/2023C",20630,1,2023,2023-05-26,"F",8,0,"Galle","Galle Four Gravets","T-ALL","Bone marrow","Live",362,11,NA,8,0,FALSE
+"05534/2020C",75331,1,2020,2020-06-29,"M",16,11,"Matara","Four Gravets","T-ALL","Bone marrow","Live",382,12,NA,17,0,FALSE
+"05552/2016C",59650,1,2016,2016-12-07,"F",2,0,"Colombo","Ratmalana","B-ALL","Bone marrow","Death",1,0,2016-12-08,2,1,FALSE
+"05553/2022C",637000,1,2022,2022-06-07,"M",8,3,"Colombo","Homagama","B-ALL","Bone marrow","Live",406,13,NA,8,0,FALSE
+"05578/2021C",127350,1,2021,2021-06-30,"M",11,1,"Anuradhapura","Medawachchiya","B-ALL","Bone marrow","Live",616,20,NA,11,0,FALSE
+"05593/2017C",6490,1,2017,2017-06-05,"M",11,8,"Trincomalee","Thambalagamuwa","T-ALL","Bone Marrow","Live",2537,83,NA,12,0,FALSE
+"05594/2022C",4000,0,2022,2022-06-08,"F",2,0,"Kalutara","Beruwala","B-ALL","Bone marrow","Live",385,12,NA,2,0,FALSE
+"05602/2016C",12600,1,2016,2016-05-27,"M",12,7,"Kurunegala","Kurunegala","T-ALL","Bone marrow","Live",1553,51,NA,13,0,FALSE
+"05602/2021C",1510,0,2021,2021-07-01,"M",8,9,"Vavuniya","Vavuniya","B-ALL","Bone marrow","Live",746,24,NA,9,0,FALSE
+"05604/2016C",4760,0,2016,2016-05-27,"F",4,0,"Kurunegala","Mawathagama","B-ALL","Bone marrow","Live",2288,75,NA,4,0,FALSE
+"05612/2016C",128900,1,2016,2016-05-28,"M",5,8,"Ratnapura","Kalawana","B-ALL","Bone marrow","Live",1655,54,NA,6,0,FALSE
+"05621/2016C",12500,0,2016,2016-05-29,"M",5,3,"Nuwara Eliya","Nuwara Eliya","B-ALL","Bone marrow","Live",2395,78,NA,5,0,FALSE
+"05636/2017C",3920,1,2017,2017-06-06,"F",1,8,"Colombo","Dehiwala-Mount Lavinia","B-ALL","Bone marrow","Live",1178,38,NA,2,0,FALSE
+"05668/2020C",4800,0,2020,2020-07-02,"F",3,4,"Matara","Welipitiya","B-ALL","Bone marrow","Live",1373,45,NA,3,0,FALSE
+"05679/2020C",28590,0,2020,2020-07-02,"M",2,8,"Gampaha","Minuwangoda","B-ALL","Bone marrow","Live",932,30,NA,3,0,FALSE
+"05682/2020C",92700,1,2020,2020-07-02,"M",2,3,"Badulla","Mahiyanganaya","B-ALL","Bone marrow","Live",804,26,NA,2,0,FALSE
+"05683/2017C",41100,0,2017,2017-06-07,"F",3,8,"Gampaha","Wattala","B-ALL","Bone marrow","Live",1796,59,NA,4,0,FALSE
+"05685/2022C",144960,1,2022,2022-06-10,"F",1,8,"Kalutara","Bulathsinhala","B-ALL","Bone marrow","Live",403,13,NA,2,0,FALSE
+"05689/2017C",19410,1,2017,2017-06-08,"M",14,0,"Jaffna","Vadamaradchi North (Point Pedro)","T-ALL","Bone marrow","Death",45,1,2017-07-23,14,1,FALSE
+"05689/2021C",8560,0,2021,2021-07-04,"M",6,8,"Trincomalee","Kinniya","B-ALL","Bone marrow","Live",599,19,NA,7,0,FALSE
+"05692/2022C",275000,1,2022,2022-06-10,"M",8,8,"Kandy","Ganga Ihala Korale","T-ALL","Bone marrow","Live",377,12,NA,9,0,FALSE
+"05696/2022C",452110,1,2022,2022-06-10,"F",5,11,"Gampaha","Kelaniya","B-ALL","Bone marrow","Death",280,9,2023-03-17,6,1,FALSE
+"05707/2022C",24000,1,2022,2022-06-12,"M",13,10,"Nuwara Eliya","Thalawakale","B-ALL","Bone marrow","Live",407,13,NA,14,0,FALSE
+"05709/2016C",154000,1,2016,2016-05-30,"M",3,4,"Matale","Yatawatta","B-ALL","Bone marrow","Death",26,0,2016-06-25,3,1,FALSE
+"05712/2017C",29000,0,2017,2017-06-09,"F",2,7,"Polonnaruwa","Medirigiriya","B-ALL","Bone marrow","Live",2511,82,NA,3,0,FALSE
+"05715/2018C",9700,0,2018,2018-05-30,"F",3,7,"Gampaha","Wattala","B-ALL",NA,"Live",1034,33,NA,4,0,FALSE
+"05716/2019C",18000,0,2019,2019-06-03,"F",4,0,"Kandy","Hatharaliyadda","B-ALL","Bone marrow","Live",292,9,NA,4,0,FALSE
+"05731/2020C",5730,0,2020,2020-07-03,"F",4,4,"Ampara","Thirukkovil","B-ALL","Bone marrow","Death",8,0,2020-07-11,4,1,FALSE
+"05758/2017C",9960,0,2017,2017-06-10,"M",6,1,"Vavuniya","Vavuniya","B-ALL","Bone Marrow","Death",40,1,2017-07-20,6,1,FALSE
+"05763/2022C",21780,1,2022,2022-06-14,"M",7,11,"Badulla","Badulla","T-ALL","Bone marrow","Death",30,1,2022-07-14,8,1,FALSE
+"05771/2016C",1680,0,2016,2016-05-31,"F",3,6,"Anuradhapura","Nuwaragam Palatha East","B-ALL","Bone marrow","Live",2816,92,NA,4,0,FALSE
+"05774/2016C",22230,0,2016,2016-06-01,"M",2,4,"Mullaitivu","Manthai East","B-ALL","Bone marrow","Death",106,3,2016-09-15,2,1,FALSE
+"05778/2017C",18281,1,2017,2017-06-12,"M",6,7,"Gampaha","Ja-Ela","T-ALL","Bone marrow","Live",1200,39,NA,7,0,FALSE
+"05789/2019C",2400,0,2019,2019-06-05,"F",3,0,"Puttalam","Mundalama","B-ALL","Bone marrow","Live",524,17,NA,3,0,FALSE
+"05803/2022C",4430,1,2022,2022-06-15,"F",1,11,"Kurunegala","Kurunegala","B-ALL","Bone marrow","Live",397,13,NA,2,0,FALSE
+"05805/2023C",23660,1,2023,2023-06-03,"M",2,3,"Polonnaruwa","Lankapura","B-ALL","Bone marrow","Live",137,4,NA,2,0,FALSE
+"05810/2021C",790560,1,2021,2021-07-06,"M",10,3,"Kurunegala","Kobeigane","T-ALL","Bone marrow","Live",735,24,NA,10,0,FALSE
+"05812/2021C",5770,0,2021,2021-07-07,"F",7,2,"Moneragala","Moneragala","B-ALL","Bone marrow","Live",715,23,NA,7,0,FALSE
+"05815/2017C",3280,0,2017,2017-06-12,"F",5,6,"Colombo","Ratmalana","B-ALL","Bone marrow","Death",64,2,2017-08-15,6,1,FALSE
+"05815/2018C",72860,1,2018,2018-06-01,"F",11,1,"Moneragala","Wellawaya","T-ALL","Bone marrow","Live",327,10,NA,11,0,FALSE
+"05819/2021C",5640,0,2021,2021-07-07,"M",2,8,"Kandy","Kandy Four Gravets & Gangawata Korale","B-ALL","Bone marrow","Live",736,24,NA,3,0,FALSE
+"05820/2017C",26000,0,2017,2017-06-12,"M",2,1,"Badulla","Soranathota","B-ALL","Bone marrow","Live",63,2,NA,2,0,FALSE
+"05826/2021C",3950,0,2021,2021-07-07,"M",3,0,"Kandy","Pasbage Korale","B-ALL","Bone marrow","Live",1038,34,NA,3,0,FALSE
+"05828/2019C",13400,0,2019,2019-06-06,"M",3,1,"Puttalam","Puttalam","B-ALL","Bone marrow","Live",1378,45,NA,3,0,FALSE
+"05832/2019C",7630,0,2019,2019-06-06,"M",2,1,"Kurunegala","Kurunegala","B-ALL","Bone marrow","Live",853,28,NA,2,0,FALSE
+"05833/2018C",72680,1,2018,2018-06-02,"M",3,3,"Jaffna","Thenmaradchi (Chavakachcheri)","B-ALL","Bone marrow","Live",1589,52,NA,3,0,FALSE
+"05857/2023C",45580,1,2023,2023-06-05,"F",11,11,"Colombo","Colombo","B-ALL","Bone marrow","Death",73,2,2023-08-17,12,1,FALSE
+"05861/2022C",7220,0,2022,2022-06-16,"M",7,10,"Gampaha","Katana","B-ALL","Bone marrow","Live",386,12,NA,8,0,FALSE
+"05870/2021C",8450,1,2021,2021-07-08,"M",10,2,"Hambantota","Katuwana","B-ALL","Bone marrow","Live",733,24,NA,10,0,FALSE
+"05895/2019C",34000,0,2019,2019-06-08,"M",6,4,"Kegalle","Galigamuwa","B-ALL","Bone marrow","Live",1356,44,NA,6,0,FALSE
+"05896/2020C",31540,1,2020,2020-07-08,"M",1,1,"Galle","Imaduwa","B-ALL",NA,"Live",929,30,NA,1,0,FALSE
+"05898/2018C",1e+05,1,2018,2018-06-04,"F",3,8,"Moneragala","Buttala","B-ALL","Bone marrow","Death",16,0,2018-06-20,4,1,FALSE
+"05927/2016C",5200,1,2016,2016-06-03,"F",1,11,"Badulla","Welimada","B-ALL","Bone Marrow","Live",2294,75,NA,2,0,FALSE
+"05927/2021C",18000,1,2021,2021-07-09,"M",5,6,"Ratnapura","Godakawela","T-ALL","Bone marrow","Live",733,24,NA,6,0,FALSE
+"05930/2021C",2430,0,2021,2021-07-10,"F",8,11,"Anuradhapura","Medawachchiya","B-ALL","Bone marrow","Live",732,24,NA,9,0,FALSE
+"05954/2018C",3000,1,2018,2018-06-06,"M",13,9,"Ampara","Dehiattakandiya","B-ALL","Bone marrow","Live",1311,43,NA,14,0,FALSE
+"05955/2023C",36740,0,2023,2023-06-08,"M",2,1,"Trincomalee","Muthur","B-ALL","Bone marrow","Live",344,11,NA,2,0,FALSE
+"05969/2019C",2700,0,2019,2019-06-10,"M",6,1,"Ratnapura","Pelmadulla","B-ALL","Bone marrow","Live",1340,43,NA,6,0,FALSE
+"05971/2017C",570,1,2017,2017-06-15,"F",10,2,"Matale","Matale","B-ALL","Bone marrow","Live",1169,38,NA,10,0,FALSE
+"05980/2021C",5300,0,2021,2021-07-12,"M",9,8,"Colombo","Ratmalana","B-ALL","Bone marrow","Live",731,24,NA,10,0,FALSE
+"05986/2022C",395000,1,2022,2022-06-20,"F",13,4,"Ampara","Mahaoya","T-ALL","Bone marrow","Death",87,2,2022-09-15,13,1,FALSE
+"05989/2018C",7716000,0,2018,2018-06-06,"F",5,9,"Kandy","Pasbage Korale","B-ALL","Bone marrow","Live",79,2,NA,6,0,FALSE
+"05998/2020C",143090,1,2020,2020-07-11,"M",0,10,"Moneragala","Badalkumbura","B-ALL","Bone marrow","Live",457,15,NA,1,0,FALSE
+"06000/2022C",2040,0,2022,2022-06-20,"M",4,8,"Puttalam","Pallama","B-ALL","Bone marrow","Live",360,11,NA,5,0,FALSE
+"06006/2023C",6950,0,2023,2023-06-08,"M",4,2,"Galle","Hikkaduwa","B-ALL","Bone marrow","Live",349,11,NA,4,0,FALSE
+"06029/2021C",3090,1,2021,2021-07-13,"F",13,6,"Ratnapura","Ayagama","B-ALL","Bone marrow","Live",1011,33,NA,14,0,FALSE
+"06032/2019C",133000,1,2019,2019-06-11,"M",16,11,"Trincomalee","Trincomalee","T-ALL","Bone marrow","Live",62,2,NA,17,0,FALSE
+"06041/2019C",2770,0,2019,2019-06-12,"M",6,3,"Galle","Akmeemana","B-ALL","Bone marrow","Live",1771,58,NA,6,0,FALSE
+"06049/2017C",75331,0,2017,2017-11-30,"M",6,0,"Kegalle","Ruwanwella","B-ALL","Bone marrow","Death",2,0,2017-12-02,6,1,FALSE
+"06051/2023C",3050,1,2023,2023-06-09,"M",12,1,"Badulla","Uva-Paranagama","B-ALL","Bone marrow","Live",117,3,NA,12,0,FALSE
+"06060/2023C",3540,1,2023,2023-06-10,"M",13,4,"Kandy","Kundasale","B-ALL","Bone marrow","Live",105,3,NA,13,0,FALSE
+"06069/2020C",3410,0,2020,2020-07-13,"M",3,9,"Gampaha","Minuwangoda","B-ALL","Bone marrow","Live",976,32,NA,4,0,FALSE
+"06070/2020C",40000,0,2020,2020-07-13,"F",3,10,"Kalutara","Kalutara","B-ALL","Bone marrow","Live",974,32,NA,4,0,FALSE
+"06071/2019C",30000,0,2019,2019-06-12,"F",2,5,"Kurunegala","Panduwasnuwara","B-ALL","Bone marrow","Live",1331,43,NA,2,0,FALSE
+"06103/2021C",2470,0,2021,2021-07-15,"F",9,1,"Hambantota","Hambantota","B-ALL","Bone marrow","Live",26,0,NA,9,0,FALSE
+"06111/2019C",614000,1,2019,2019-06-13,"F",0,4,"Gampaha","Biyagama","B-ALL","Bone marrow","Live",188,6,NA,0,0,FALSE
+"06121/2018C",7480,0,2018,2018-06-09,"M",9,0,"Galle","Galle","B-ALL","Bone marrow","Live",1553,51,NA,9,0,FALSE
+"06127/2018C",3100,0,2018,2018-06-09,"F",2,9,"Kandy","Pathadumbara","B-ALL","Bone marrow","Live",1921,63,NA,3,0,FALSE
+"06129/2020C",15930,1,2020,2020-07-14,"M",2,10,"Puttalam","Mahawewa","T-ALL","Bone marrow","Live",1338,43,NA,3,0,FALSE
+"06154/2019C",431269,1,2019,2019-06-14,"F",3,9,"Kurunegala","Kurunegala","B-ALL","Bone marrow","Live",437,14,NA,4,0,FALSE
+"06158/2019C",628000,1,2019,2019-06-14,"M",10,0,"Anuradhapura","Kebithigollewa","T-ALL","Bone marrow","Live",1217,39,NA,10,0,FALSE
+"06159/2021C",3000,0,2021,2021-07-17,"F",5,7,"Colombo","Dehiwala-Mount Lavinia","B-ALL","Bone marrow","Live",705,23,NA,6,0,FALSE
+"06170/2020C",120830,1,2020,2020-07-15,"M",7,3,"Moneragala","Siyambalanduwa","T-ALL","Bone marrow","Live",950,31,NA,7,0,FALSE
+"06178/2019C",48200,0,2019,2019-06-16,"M",2,7,"Galle","Hikkaduwa","B-ALL","Bone marrow","Live",1353,44,NA,3,0,FALSE
+"06215/2021C",18600,0,2021,2021-07-19,"M",2,0,"Kalutara","Panadura","B-ALL","Bone marrow","Live",724,23,NA,2,0,FALSE
+"06223/2017C",4900,0,2017,2017-06-21,"F",3,6,"Hambantota","Beliatta","B-ALL","Bone marrow","Live",1989,65,NA,4,0,FALSE
+"06224/2017C",14100,1,2017,2017-06-21,"F",1,6,"Puttalam","Nattandiya","B-ALL","Bone marrow","Live",1149,37,NA,2,0,FALSE
+"06225/2017C",5710,0,2017,2017-06-21,"M",3,11,"Gampaha","Gampaha","B-ALL","Bone Marrow","Live",2535,83,NA,4,0,FALSE
+"06231/2021C",6.2,1,2021,2021-07-20,"M",19,8,"Ampara","Karaitivu","B-ALL","Bone marrow","Live",843,27,NA,20,0,FALSE
+"06237/2016C",79340,1,2016,2016-08-14,"F",13,0,"Matale","Matale","B-ALL","Bone marrow","Death",5,0,2016-08-19,13,1,FALSE
+"06251/2016C",121900,1,2016,2016-06-12,"F",13,11,"Kandy","Thumpane","B-ALL","Bone marrow","Live",41,1,NA,14,0,FALSE
+"06265/2021C",8600,1,2021,2021-09-06,"F",1,0,"Kurunegala","Rideegama","B-ALL","Bone marrow","Death",1,0,2021-09-07,1,1,FALSE
+"06283/2019C",12800,1,2019,2019-06-18,"M",9,3,"Kurunegala","Ibbagamuwa","T-ALL","Bone marrow","Live",1315,43,NA,9,0,FALSE
+"06295/2019C",9020,0,2019,2019-06-18,"M",3,2,"Kalutara","Dodangoda","B-ALL","Bone marrow","Live",1332,43,NA,3,0,FALSE
+"06308/2018C",54000,1,2018,2018-06-13,"M",1,10,"Moneragala","Bibile","B-ALL","Bone marrow","Live",1042,34,NA,2,0,FALSE
+"06314/2023C",1170,1,2023,2023-06-16,"M",1,11,"Nuwara Eliya","Thalawakale","B-ALL","Bone marrow","Live",117,3,NA,2,0,FALSE
+"06324/2016C",8900,0,2016,2016-06-13,"F",7,0,"Kegalle","Kegalle","B-ALL","Bone marrow","Live",2745,90,NA,7,0,FALSE
+"06346/2017C",3440,0,2017,2017-06-23,"M",2,1,"Ampara","Damana","B-ALL","Bone Marrow","Live",2302,75,NA,2,0,FALSE
+"06347/2017C",6390,1,2017,2017-06-23,"M",11,0,"Kandy","Kandy Four Gravets & Gangawata Korale","T-ALL","Bone Marrow","Live",1065,35,NA,11,0,FALSE
+"06350/2021C",343220,1,2021,2021-07-22,"M",5,5,"Kurunegala","Udubaddawa","B-ALL","Bone marrow","Live",720,23,NA,5,0,FALSE
+"06366/2018C",892620,1,2018,2018-06-14,"F",6,5,"Hambantota","Angunakolapelessa","T-ALL","Bone marrow","Death",9,0,2018-06-23,6,1,FALSE
+"06368/2021C",52000,1,2021,2021-07-25,"M",12,5,"Moneragala","Badalkumbura","T-ALL","Bone marrow","Live",999,32,NA,12,0,FALSE
+"06375/2018C",245240,1,2018,2018-06-15,"M",12,9,"Galle","Waduramba","B-ALL","Bone marrow","Death",682,22,2020-04-27,13,1,FALSE
+"06383/2016C",6870,0,2016,2016-06-14,"F",6,8,"Kandy","Poojapitiya","B-ALL","Bone marrow","Live",1508,49,NA,7,0,FALSE
+"06395/2023C",71000,1,2023,2023-06-19,"M",8,10,"Kalutara","Panadura","B-ALL","Bone marrow","Live",115,3,NA,9,0,FALSE
+"06400/2022C",4820,1,2022,2022-07-02,"F",1,11,"Anuradhapura","Thalawa","B-ALL","Bone marrow","Live",368,12,NA,2,0,FALSE
+"06412/2020C",13000,0,2020,2020-07-21,"M",2,2,"Kandy","Minipe","B-ALL","Bone marrow","Live",1188,39,NA,2,0,FALSE
+"06428/2016C",7850,1,2016,2016-06-15,"F",10,1,NA,NA,"B-ALL","Bone marrow","Live",855,28,NA,10,0,FALSE
+"06429/2016C",14070,0,2016,2016-06-15,"M",2,5,"Matale","Dambulla","B-ALL","Bone marrow","Live",1100,36,NA,2,0,FALSE
+"06445/2019C",11000,0,2019,2019-06-22,"M",7,7,"Kalutara","Beruwala","B-ALL","Bone marrow","Death",34,1,2019-07-26,8,1,FALSE
+"06457/2023C",62800,1,2023,2023-06-20,"M",16,6,"Kandy","Harispattuwa","T-ALL","Bone marrow","Live",332,10,NA,17,0,FALSE
+"06458/2023C",14700,1,2023,2023-06-20,"M",13,2,"Kurunegala","Polgahawela","T-ALL","Bone marrow","Live",351,11,NA,13,0,FALSE
+"06481/2016C",75331,1,2016,2016-06-16,"M",14,0,"Colombo","Colombo","B-ALL","Bone marrow","Live",1964,64,NA,14,0,FALSE
+"06498/2021C",1310,1,2021,2021-07-27,"F",10,7,"Badulla","Bandarawela","B-ALL","Bone marrow","Live",1018,33,NA,11,0,FALSE
+"06505/2023C",161000,1,2023,2023-06-21,"F",11,4,"Trincomalee","Kinniya","B-ALL","Bone marrow","Live",329,10,NA,11,0,FALSE
+"06509/2018C",1700,0,2018,2018-06-19,"M",2,10,"Kalutara","Bandaragama","B-ALL","Bone marrow","Live",1409,46,NA,3,0,FALSE
+"06512/2020C",7030,1,2020,2020-07-23,"F",1,8,"Kalutara","Bandaragama","B-ALL","Bone marrow","Live",951,31,NA,2,0,FALSE
+"06521/2021C",5800,1,2021,2021-07-28,"F",17,5,"Vavuniya","Vavuniya","B-ALL","Bone marrow","Live",15,0,NA,17,0,FALSE
+"06523/2023C",10860,0,2023,2023-06-22,"F",2,6,"Moneragala","Moneragala","B-ALL","Bone marrow","Live",120,3,NA,3,0,FALSE
+"06531/2016C",10800,0,2016,2016-06-18,"F",6,8,"Jaffna","Vadamaradchi North (Point Pedro)","B-ALL","Bone Marrow","Live",2335,76,NA,7,0,FALSE
+"06531/2017C",8100,0,2017,2017-06-29,"M",3,11,"Kalutara","Bandaragama","B-ALL","Bone Marrow","Live",2497,82,NA,4,0,FALSE
+"06532/2018C",463430,1,2018,2018-06-20,"F",13,1,"Badulla","Bandarawela","B-ALL","Bone marrow","Death",449,14,2019-09-12,13,1,FALSE
+"06556/2020C",4470,1,2020,2020-07-24,"M",0,10,"Nuwara Eliya","Kothmale","B-ALL","Bone marrow","Live",865,28,NA,1,0,FALSE
+"06568/2021C",29000,0,2021,2021-07-29,"M",3,1,"Colombo","Thimbirigasyaya","B-ALL",NA,"Live",6,0,NA,3,0,FALSE
+"06582/2019C",4490,0,2019,2019-06-25,"F",6,0,"Anuradhapura","Nochchiyagama","B-ALL","Bone marrow","Live",1709,56,NA,6,0,FALSE
+"06585/2017C",3700,1,2017,2017-06-30,"M",12,3,"Gampaha","Dompe","B-ALL","Bone marrow","Live",2068,67,NA,12,0,FALSE
+"06586/2017C",10800,1,2017,2017-06-30,"M",6,0,"Matale","Ukuwela","B-ALL","Bone marrow","Live",2401,78,NA,6,0,FALSE
+"06596/2018C",8350,0,2018,2018-06-21,"F",2,1,"Kilinochchi","Karachchi","B-ALL","Bone marrow","Live",1635,53,NA,2,0,FALSE
+"06598/2022C",1200,1,2022,2022-07-07,"M",16,6,"Anuradhapura","Palagala","B-ALL","Bone marrow","Live",350,11,NA,17,0,FALSE
+"06612/2019C",75331,1,2019,2019-06-26,"M",15,7,"Kalutara","Beruwala","T-ALL","Bone marrow","Live",0,0,NA,16,0,FALSE
+"06631/2022C",2060,0,2022,2022-07-09,"M",9,10,"Kalutara","Beruwala","B-ALL","Bone marrow","Live",374,12,NA,10,0,FALSE
+"06636/2020C",1800,0,2020,2020-07-27,"M",4,7,"Ratnapura","Balangoda","B-ALL","Bone marrow","Live",946,31,NA,5,0,FALSE
+"06638/2020C",11610,0,2020,2020-07-28,"M",4,0,"Jaffna","Nallur","B-ALL","Bone marrow","Live",1338,43,NA,4,0,FALSE
+"06649/2018C",1020,1,2018,2018-06-21,"M",1,7,"Kegalle","Aranayaka","B-ALL","Bone marrow","Live",1851,60,NA,2,0,FALSE
+"06656/2023C",34630,0,2023,2023-06-24,"M",2,10,"Mannar","Mannar Town","B-ALL","Bone marrow","Live",73,2,NA,3,0,FALSE
+"06659/2016C",4500,0,2016,2016-06-22,"M",7,0,NA,NA,"B-ALL","Bone marrow","Live",835,27,NA,7,0,FALSE
+"06667/2022C",30680,0,2022,2022-07-11,"F",4,4,"Colombo","Kesbewa","B-ALL","Bone marrow","Live",337,11,NA,4,0,FALSE
+"06694/2018C",238460,1,2018,2018-06-22,"M",5,7,"Moneragala","Madulla","T-ALL","Bone marrow","Live",1643,53,NA,6,0,FALSE
+"06705/2021C",2610,1,2021,2021-08-02,"M",12,10,"Colombo","Moratuwa","B-ALL","Bone marrow","Live",701,23,NA,13,0,FALSE
+"06714/2017C",9790,0,2017,2017-07-05,"M",6,8,"Ampara","Kalmunai North","B-ALL","Bone marrow","Live",856,28,NA,7,0,FALSE
+"06732/2016C",23330,0,2016,2016-06-23,"F",4,10,"Kandy","Doluwa","B-ALL","Bone marrow","Live",1463,48,NA,5,0,FALSE
+"06733/2020C",1220,0,2020,2020-07-29,"F",4,5,"Galle","Nagoda","B-ALL","Bone marrow","Live",83,2,NA,4,0,FALSE
+"06767/2022C",6990,1,2022,2022-07-15,"M",1,10,"Kurunegala","Ganewatta","B-ALL","Bone marrow","Death",29,0,2022-08-13,2,1,FALSE
+"06784/2021C",2600,1,2021,2021-08-04,"M",18,7,"Galle","Elpitiya","B-ALL","Bone marrow","Death",22,0,2021-08-26,19,1,FALSE
+"06786/2021C",60000,1,2021,2021-08-04,"M",4,3,"Kalutara","Beruwala","T-ALL","Bone marrow","Live",343,11,NA,4,0,FALSE
+"06791/2016C",3840,1,2016,2016-06-24,"M",15,6,"Anuradhapura","Kahatagasdigiliya","T-ALL","Bone Marrow","Live",2903,95,NA,16,0,FALSE
+"06791/2017C",30000,0,2017,2017-07-06,"F",5,8,"Colombo","Kesbewa","B-ALL","Bone marrow","Live",2505,82,NA,6,0,FALSE
+"06796/2022C",8700,1,2022,2022-07-16,"M",1,2,"Nuwara Eliya","Nuwara Eliya","B-ALL","Bone marrow","Death",162,5,2022-12-25,1,1,FALSE
+"06798/2017C",5600,1,2017,2017-07-07,"F",14,7,"Badulla","Haldummulla","B-ALL","Bone Marrow","Live",1159,38,NA,15,0,FALSE
+"06802/2020C",10340,1,2020,2020-07-30,"F",0,8,"Kurunegala","Pannala","B-ALL","Bone marrow","Live",957,31,NA,1,0,FALSE
+"06803/2020C",75331,0,2020,2020-07-31,"M",7,10,"Ampara","Ampara","B-ALL","Bone marrow","Death",52,1,2020-09-21,8,1,FALSE
+"06805/2016C",10110,1,2016,2016-06-26,"M",15,6,"Matara","Devinuwara","T-ALL","Bone marrow","Live",214,7,NA,16,0,FALSE
+"06816/2021C",3040,0,2021,2021-08-05,"M",8,8,"Kurunegala","Panduwasnuwara","B-ALL","Bone marrow","Live",657,21,NA,9,0,FALSE
+"06818/2019C",17000,0,2019,2019-07-02,"M",3,3,"Badulla","Bandarawela","B-ALL","Bone marrow","Live",1681,55,NA,3,0,FALSE
+"06825/2021C",2630,1,2021,2021-08-06,"M",1,11,"Polonnaruwa","Elahera","B-ALL","Bone marrow","Live",572,18,NA,2,0,FALSE
+"06840/2018C",2900,0,2018,2018-06-27,"M",3,9,"Matara","Thihagoda","B-ALL","Bone marrow","Live",1639,53,NA,4,0,FALSE
+"06843/2020C",75331,1,2020,2020-07-31,"F",13,3,"Kalutara","Panadura","T-ALL","Bone marrow","Death",47,1,2020-09-16,13,1,FALSE
+"06847/2022C",855000,1,2022,2022-07-18,"M",6,4,"Kurunegala","Pannala","T-ALL","Bone marrow","Live",326,10,NA,6,0,FALSE
+"06850/2022C",17570,0,2022,2022-07-19,"F",8,5,"Matara","Pitabeddara","B-ALL","Bone marrow","Live",376,12,NA,8,0,FALSE
+"06852/2023C",6851,0,2023,2023-06-30,"F",4,3,"Batticaloa","Eravur Town","B-ALL","Bone marrow","Live",112,3,NA,4,0,FALSE
+"06861/2016C",75331,1,2016,2016-06-27,"M",11,0,"Jaffna","Valikamam South (Uduvil)","B-ALL","Bone marrow","Live",0,0,NA,11,0,FALSE
+"06873/2020C",154000,1,2020,2020-08-02,"M",4,11,"Hambantota","Tissamaharama","B-ALL","Bone marrow","Live",933,30,NA,5,0,FALSE
+"06875/2021C",103830,1,2021,2021-08-07,"F",11,6,"Kegalle","Mawanella","T-ALL","Bone marrow","Live",684,22,NA,12,0,FALSE
+"06876/2021C",4900,0,2021,2021-08-08,"F",8,0,"Jaffna","Valikamam South-West (Sandilipay)","B-ALL","Bone marrow","Live",466,15,NA,8,0,FALSE
+"06902/2023C",2330,0,2023,2023-07-01,"M",3,9,"Gampaha","Biyagama","B-ALL","Bone marrow","Live",215,7,NA,4,0,FALSE
+"06904/2022C",29750,1,2022,2022-07-19,"F",15,6,"Ratnapura","Eheliyagoda","B-ALL","Bone marrow","Death",24,0,2022-08-12,16,1,FALSE
+"06919/2023C",23560,0,2023,2023-07-04,"M",3,8,"Kilinochchi","Poonakary","B-ALL","Bone marrow","Live",210,6,NA,4,0,FALSE
+"06931/2016C",2100,0,2016,2016-06-28,"F",5,7,"Kurunegala","Rasnayakapura","B-ALL","Bone marrow","Live",2719,89,NA,6,0,FALSE
+"06937/2018C",24900,1,2018,2018-06-29,"M",15,2,"Colombo","Homagama","B-ALL","Bone marrow","Live",47,1,NA,15,0,FALSE
+"06939/2017C",49000,0,2017,2017-07-11,"F",8,8,"Kurunegala","Mallawapitiya","B-ALL","Bone marrow","Live",2465,80,NA,9,0,FALSE
+"06946/2018C",9900,1,2018,2018-06-30,"M",1,3,"Colombo","Kolonnawa","B-ALL","Bone marrow","Live",4,0,NA,1,0,FALSE
+"06976/2016C",2500,1,2016,2016-06-29,"F",1,9,"Colombo","Kaduwela","B-ALL","Bone marrow","Live",2493,81,NA,2,0,FALSE
+"06976/2021C",3600,0,2021,2021-08-10,"F",7,0,"Ratnapura","Nivithigala","B-ALL","Bone marrow","Live",695,22,NA,7,0,FALSE
+"06983/2022C",3870,0,2022,2022-07-22,"F",4,6,"Polonnaruwa","Elahera","B-ALL","Bone marrow","Death",147,4,2022-12-16,5,1,FALSE
+"06998/2020C",38950,0,2020,2020-08-07,"M",4,6,"Jaffna","Jaffna","B-ALL","Bone marrow","Live",306,10,NA,5,0,FALSE
+"06999/2021C",38000,1,2021,2021-08-11,"M",17,9,"Galle","Elpitiya","T-ALL","Bone marrow","Death",138,4,2021-12-27,18,1,FALSE
+"07002/2021C",5610,1,2021,2021-08-12,"F",16,3,"Badulla","Passara","T-ALL","Bone marrow","Death",30,0,2021-09-11,16,1,FALSE
+"07021/2019C",9320,0,2019,2019-07-05,"M",2,2,"Puttalam","Puttalam","B-ALL","Bone marrow","Death",72,2,2019-09-15,2,1,FALSE
+"07030/2023C",186930,1,2023,2023-07-05,"F",4,0,"Trincomalee","Thambalagamuwa","B-ALL","Bone marrow","Live",195,6,NA,4,0,FALSE
+"07035/2017C",61430,1,2017,2017-07-13,"M",12,4,"Kurunegala","Mahawa","B-ALL","Bone Marrow","Live",210,6,NA,12,0,FALSE
+"07036/2019C",9720,0,2019,2019-07-06,"F",2,6,"Kurunegala","Ibbagamuwa","B-ALL","Bone Marrow","Live",1314,43,NA,3,0,FALSE
+"07045/2019C",50400,1,2019,2019-07-07,"M",6,9,"Kandy","Pathadumbara","B-ALL","Bone marrow","Live",1340,44,NA,7,0,FALSE
+"07050/2016C",74000,1,2016,2016-07-01,"M",1,3,"Kegalle","Kegalle","B-ALL","Bone marrow","Live",1243,40,NA,1,0,FALSE
+"07074/2018C",52160,1,2018,2018-07-03,"M",3,10,"Kurunegala","Kurunegala","B-ALL","Bone marrow","Live",1695,55,NA,4,0,FALSE
+"07092/2016C",5110,1,2016,2016-07-01,"F",10,7,"Colombo","Kolonnawa","B-ALL","Bone marrow","Live",826,27,NA,11,0,FALSE
+"07093/2021C",1510,0,2021,2021-08-15,"F",3,2,"Batticaloa","Manmunai Pattu (Arayampathy)","B-ALL","Bone marrow","Death",109,3,2021-12-02,3,1,FALSE
+"07096/2017C",2320,0,2017,2017-07-14,"M",2,8,"Moneragala","Siyambalanduwa","B-ALL","Bone Marrow","Live",2482,81,NA,3,0,FALSE
+"07097/2017C",157000,1,2017,2017-07-15,"F",8,2,"Moneragala","Madulla","T-ALL","Bone Marrow","Live",104,3,NA,8,0,FALSE
+"07099/2023C",4100,1,2023,2023-07-06,"M",15,6,"Kandy","Akurana","B-ALL","Bone marrow","Live",204,6,NA,16,0,FALSE
+"07105/2019C",75331,0,2019,2019-07-08,"M",2,3,"Kandy","Medadumbara","B-ALL","Bone marrow","Live",847,27,NA,2,0,FALSE
+"07108/2017C",181800,1,2017,2017-07-16,"M",1,2,"Kandy","Harispattuwa","B-ALL","Bone marrow","Live",1297,42,NA,1,0,FALSE
+"07125/2018C",2190,1,2018,2018-07-05,"M",11,6,"Vavuniya","Vavuniya","B-ALL","Bone marrow","Live",1334,43,NA,12,0,FALSE
+"07144/2022C",32550,1,2022,2022-07-26,"M",10,4,"Colombo","Sri Jayawardanapura Kotte","T-ALL","Bone marrow","Live",308,10,NA,10,0,FALSE
+"07157/2017C",6650,1,2017,2017-07-17,"F",14,8,"Gampaha","Dompe","B-ALL","Bone marrow","Live",1624,53,NA,15,0,FALSE
+"07159/2023C",21310,0,2023,2023-07-09,"F",4,7,"Polonnaruwa","Medirigiriya","B-ALL","Bone marrow","Death",77,2,2023-09-24,5,1,FALSE
+"07171/2022C",6540,0,2022,2022-07-27,"M",2,8,"Anuradhapura","Palagala","B-ALL","Bone marrow","Live",177,5,NA,3,0,FALSE
+"07173/2019C",4540,0,2019,2019-07-09,"M",4,7,"Kandy","Kandy Four Gravets & Gangawata Korale","B-ALL","Bone marrow","Live",1737,57,NA,5,0,FALSE
+"07177/2018C",3460,0,2018,2018-07-05,"M",6,6,"Kegalle","Ruwanwella","B-ALL","Bone marrow","Live",1686,55,NA,7,0,FALSE
+"07182/2021C",18930,1,2021,2021-08-18,"M",1,8,"Kurunegala","Narammala","B-ALL","Bone marrow","Live",996,32,NA,2,0,FALSE
+"07186/2021C",6e+05,1,2021,2021-08-18,"M",1,4,"Galle","Habaraduwa","T-ALL","Bone marrow","Death",584,19,2023-03-25,1,1,FALSE
+"07187/2021C",3230,1,2021,2021-08-18,"F",15,0,"Kurunegala","Kuliyapitiya East","B-ALL","Bone marrow","Live",996,32,NA,15,0,FALSE
+"07206/2019C",14000,0,2019,2019-07-10,"M",4,1,"Puttalam","Chilaw","B-ALL","Bone marrow","Live",1321,43,NA,4,0,FALSE
+"07221/2021C",6430,0,2021,2021-08-19,"M",3,0,"Puttalam","Mundalama","B-ALL","Bone marrow","Live",596,19,NA,3,0,FALSE
+"07224/2021C",2800,1,2021,2021-08-19,"M",9,11,"Gampaha","Gampaha","T-ALL","Bone marrow","Live",169,5,NA,10,0,FALSE
+"07233/2018C",15750,1,2018,2018-07-07,"F",10,11,"Galle","Akmeemana","B-ALL","Bone marrow","Death",74,2,2018-09-19,11,1,FALSE
+"07233/2022C",199700,1,2022,2022-07-28,"M",0,9,"Kalutara","Agalawatta","B-ALL","Bone marrow","Live",247,8,NA,1,0,FALSE
+"07242/2017C",146180,1,2017,2017-07-19,"F",11,0,"Jaffna","Valikamam North (Tellipallai)","B-ALL","Bone Marrow","Live",960,31,NA,11,0,FALSE
+"07244/2020C",1770,1,2020,2020-08-12,"M",11,7,"Anuradhapura","Medawachchiya","B-ALL","Bone marrow","Live",939,30,NA,12,0,FALSE
+"07257/2018C",26440,0,2018,2018-07-09,"M",5,10,"Nuwara Eliya","Mathurata","B-ALL","Bone marrow","Live",1219,40,NA,6,0,FALSE
+"07277/2016C",63700,1,2016,2016-07-06,"M",2,3,"Kandy","Panvila","B-ALL","Bone marrow","Live",2273,74,NA,2,0,FALSE
+"07283/2018C",21410,1,2018,2018-07-09,"F",13,6,"Matara","Pitabeddara","B-ALL","Bone marrow","Live",2052,67,NA,14,0,FALSE
+"07284/2016C",18600,1,2016,2016-07-06,"F",13,6,"Puttalam","Mundalama","B-ALL","Bone marrow","Live",1946,63,NA,14,0,FALSE
+"07286/2017C",4210,0,2017,2017-07-19,"F",2,8,"Gampaha","Gampaha","B-ALL","Bone marrow","Live",2038,66,NA,3,0,FALSE
+"07287/2018C",4080,0,2018,2018-07-09,"F",7,10,"Matara","Weligama","B-ALL","Bone marrow","Live",1058,34,NA,8,0,FALSE
+"07287/2021C",6190,0,2021,2021-08-23,"M",5,7,"Kurunegala","Ganewatta","B-ALL","Bone marrow","Live",687,22,NA,6,0,FALSE
+"07303/2022C",473000,1,2022,2022-07-31,"F",13,10,"Puttalam","Wennappuwa","T-ALL","Bone marrow","Live",340,11,NA,14,0,FALSE
+"07364/2020C",9000,0,2020,2020-08-14,"M",8,11,"Kalutara","Palindanuwara","B-ALL","Bone marrow","Live",1349,44,NA,9,0,FALSE
+"07370/2020C",7700,0,2020,2020-08-14,"F",3,0,"Moneragala","Siyambalanduwa","B-ALL","Bone marrow","Live",1349,44,NA,3,0,FALSE
+"07373/2018C",70520,1,2018,2018-07-11,"M",3,1,"Ratnapura","Embilipitiya","B-ALL","Bone marrow","Live",1632,53,NA,3,0,FALSE
+"07375/2016C",3100,1,2016,2016-07-08,"F",10,9,"Gampaha","Katana","B-ALL","Bone marrow","Live",2764,90,NA,11,0,FALSE
+"07375/2018C",35000,0,2018,2018-07-12,"F",6,3,"Ampara","Karaitivu","B-ALL","Bone marrow","Live",1672,54,NA,6,0,FALSE
+"07389/2017C",3080,0,2017,2017-07-21,"M",2,11,"Kandy","Delthota","B-ALL","Bone marrow","Live",1166,38,NA,3,0,FALSE
+"07410/2021C",1930,0,2021,2021-08-27,"M",2,11,"Kurunegala","Kurunegala","B-ALL","Bone marrow","Live",684,22,NA,3,0,FALSE
+"07418/2019C",1550,1,2019,2019-07-17,"F",1,7,"Matara","Weligama","B-ALL","Bone marrow","Live",1329,43,NA,2,0,FALSE
+"07429/2021C",2630,0,2021,2021-08-29,"F",9,9,"Gampaha","Ja-Ela","B-ALL","Bone marrow","Live",985,32,NA,10,0,FALSE
+"07435/2023C",75331,1,2023,2023-07-14,"M",19,0,NA,NA,"B-ALL",NA,"Death",27,0,2023-08-10,19,1,TRUE
+"07443/2023C",33000,0,2023,2023-07-15,"F",5,6,"Colombo","Moratuwa","B-ALL","Bone marrow","Live",319,10,NA,6,0,FALSE
+"07480/2019C",3860,0,2019,2019-07-18,"M",6,6,"Kegalle","Deraniyagala","B-ALL","Bone marrow","Live",1336,43,NA,7,0,FALSE
+"07491/2022C",15450,0,2022,2022-08-04,"F",3,11,"Kandy","Pathahewaheta","B-ALL","Bone marrow","Live",349,11,NA,4,0,FALSE
+"07500/2021C",43360,1,2021,2021-08-31,"M",1,3,"Kalutara","Panadura","B-ALL","Bone marrow","Live",983,32,NA,1,0,FALSE
+"07501/2018C",14900,0,2018,2018-07-15,"F",2,8,"Kalutara","Beruwala","B-ALL","Bone marrow","Live",1656,54,NA,3,0,FALSE
+"07503/2020C",4800,0,2020,2020-08-18,"F",5,3,"Kandy","Kundasale","B-ALL","Bone marrow","Live",916,30,NA,5,0,FALSE
+"07529/2021C",11000,0,2021,2021-09-01,"M",3,3,"Colombo","Maharagama","B-ALL","Bone marrow","Live",684,22,NA,3,0,FALSE
+"07536/2016C",11500,1,2016,2016-07-12,"F",11,4,"Ratnapura","Godakawela","B-ALL","Bone marrow","Live",1688,55,NA,11,0,FALSE
+"07547/2021C",16000,0,2021,2021-09-03,"M",6,4,"Anuradhapura","Thambuttegama","B-ALL","Bone marrow","Death",330,10,2022-07-30,6,1,FALSE
+"07549/2017C",71000,1,2017,2017-07-26,"F",8,10,"Kurunegala","Kurunegala","B-ALL","Bone marrow","Live",2028,66,NA,9,0,FALSE
+"07553/2021C",894140,1,2021,2021-09-03,"M",5,4,"Kalutara","Panadura","T-ALL","Bone marrow","Death",1,0,2021-09-04,5,1,FALSE
+"07557/2020C",9300,0,2020,2020-08-19,"F",6,7,"Jaffna","Jaffna","B-ALL","Bone marrow","Live",127,4,NA,7,0,FALSE
+"07563/2018C",4640,0,2018,2018-07-16,"M",2,1,"Kalutara","Panadura","B-ALL","Bone marrow","Live",1596,52,NA,2,0,FALSE
+"07571/2023C",4320,0,2023,2023-07-19,"F",5,6,"Kilinochchi","Karachchi","B-ALL","Bone marrow","Live",308,10,NA,6,0,FALSE
+"07586/2016C",11900,0,2016,2016-07-13,"M",3,10,"Galle","Nagoda","B-ALL","Bone marrow","Live",2185,71,NA,4,0,FALSE
+"07594/2022C",8530,1,2022,2022-08-08,"F",7,9,"Badulla","Mahiyanganaya","T-ALL","Bone marrow","Live",344,11,NA,8,0,FALSE
+"07600/2017C",5520,1,2017,2017-07-27,"M",13,3,"Badulla","Mahiyanganaya","B-ALL","Bone marrow","Death",465,15,2018-11-04,13,1,FALSE
+"07612/2021C",39120,1,2021,2021-09-06,"M",19,7,"Matale","Naula","T-ALL","Bone marrow","Live",255,8,NA,20,0,FALSE
+"07613/2018C",47650,1,2018,2018-07-17,"M",0,8,"Puttalam","Mundalama","B-ALL","Bone marrow","Live",2075,68,NA,1,0,FALSE
+"07615/2018C",37900,1,2018,2018-07-17,"M",18,10,"Ratnapura","Pelmadulla","T-ALL","Bone marrow","Death",3,0,2018-07-20,19,1,FALSE
+"07618/2018C",166400,1,2018,2018-07-17,"M",1,1,"Kurunegala","Kuliyapitiya West","T-ALL","Bone marrow","Death",230,7,2019-03-04,1,1,FALSE
+"07648/2022C",7000,1,2022,2022-08-09,"F",16,5,"Nuwara Eliya","Ambagamuwa","T-ALL","Bone marrow","Death",21,0,2022-08-30,16,1,FALSE
+"07649/2022C",3770,0,2022,2022-08-09,"M",7,5,"Hambantota","Walasmulla","B-ALL","Bone marrow","Live",647,21,NA,7,0,FALSE
+"07650/2019C",2500,0,2019,2019-07-23,"F",7,2,"Colombo","Kesbewa","B-ALL","Bone marrow","Live",317,10,NA,7,0,FALSE
+"07673/2020C",27390,0,2020,2020-08-22,"M",9,2,"Ampara","Samanthurai","B-ALL","Bone marrow","Live",933,30,NA,9,0,FALSE
+"07676/2021C",49410,0,2021,2021-09-08,"M",4,9,"Anuradhapura","Thirappane","B-ALL","Bone marrow","Live",672,22,NA,5,0,FALSE
+"07682/2020C",1880,0,2020,2020-08-22,"F",7,6,"Ampara","Padiyathalawa","B-ALL","Bone marrow","Live",922,30,NA,8,0,FALSE
+"07692/2022C",569450,1,2022,2022-08-10,"F",10,5,"Hambantota","Katuwana","B-ALL","Bone marrow","Live",344,11,NA,10,0,FALSE
+"07698/2016C",47600,0,2016,2016-07-15,"M",7,9,"Colombo","Thimbirigasyaya","B-ALL","Bone marrow","Death",1,0,2016-07-16,8,1,FALSE
+"07698/2021C",7160,0,2021,2021-09-08,"F",3,4,"Polonnaruwa","Medirigiriya","B-ALL","Bone marrow","Live",664,21,NA,3,0,FALSE
+"07700/2019C",75331,0,2019,2019-07-24,"F",3,6,"Colombo","Hanwella","B-ALL","Bone marrow","Live",803,26,NA,4,0,FALSE
+"07706/2019C",15000,1,2019,2019-07-24,"M",12,8,"Matara","Kotapola","B-ALL","Bone marrow","Live",1275,41,NA,13,0,FALSE
+"07716/2016C",73400,1,2016,2016-07-17,"M",1,3,"Kurunegala","Madampe","B-ALL","Bone marrow","Death",549,18,2018-01-17,1,1,FALSE
+"07728/2017C",9200,0,2017,2017-07-31,"F",3,0,"Kandy","Pasbage Korale","B-ALL","Bone Marrow","Live",2404,78,NA,3,0,FALSE
+"07737/2023C",342000,1,2023,2023-07-21,"M",7,11,"Colombo","Kaduwela","T-ALL","Bone marrow","Live",198,6,NA,8,0,FALSE
+"07739/2021C",15570,0,2021,2021-09-09,"M",3,8,"Ratnapura","Balangoda","B-ALL","Bone marrow","Live",665,21,NA,4,0,FALSE
+"07740/2023C",185380,1,2023,2023-07-21,"M",14,11,"Kurunegala","Giribawa","T-ALL","Bone marrow","Live",193,6,NA,15,0,FALSE
+"07750/2022C",40950,0,2022,2022-08-12,"M",7,10,"Matara","Welipitiya","B-ALL","Bone marrow","Live",649,21,NA,8,0,FALSE
+"07751/2019C",8210,0,2019,2019-07-25,"M",4,2,"Anuradhapura","Padaviya","B-ALL","Bone marrow","Live",1294,42,NA,4,0,FALSE
+"07768/2019C",99000,1,2019,2019-07-25,"F",0,3,"Gampaha","Mirigama","B-ALL","Bone marrow","Death",44,1,2019-09-07,0,1,FALSE
+"07769/2019C",1460,0,2019,2019-07-25,"F",4,6,"Gampaha","Minuwangoda","B-ALL","Bone marrow","Live",1211,39,NA,5,0,FALSE
+"07771/2019C",413130,1,2019,2019-07-25,"M",10,8,"Ratnapura","Embilipitiya","B-ALL","Bone marrow","Death",845,27,2021-11-16,11,1,FALSE
+"07785/2018C",54940,1,2018,2018-07-22,"M",2,11,"Kandy","Pasbage Korale","B-ALL","Bone marrow","Live",1648,54,NA,3,0,FALSE
+"07786/2017C",44160,0,2017,2017-08-01,"M",2,6,"Kegalle","Yatiyanthota","B-ALL","Bone marrow","Live",2266,74,NA,3,0,FALSE
+"07813/2016C",114000,1,2016,2016-07-19,"M",2,3,"Kegalle","Warakapola","B-ALL","Bone marrow","Live",2600,85,NA,2,0,FALSE
+"07813/2022C",910,1,2022,2022-08-15,"M",11,8,"Kandy","Udapalatha","T-ALL","Bone marrow","Live",295,9,NA,12,0,FALSE
+"07814/2022C",2500,1,2022,2022-08-15,"F",16,7,"Nuwara Eliya","Norwood","B-ALL","Bone marrow","Live",298,9,NA,17,0,FALSE
+"07848/2018C",88000,1,2018,2018-07-23,"M",0,8,"Matale","Galewela","B-ALL","Bone marrow","Live",2066,67,NA,1,0,FALSE
+"07851/2016C",286900,1,2016,2016-07-20,"M",5,4,"Kandy","Udadumbara","T-ALL","Bone marrow","Live",2399,78,NA,5,0,FALSE
+"07853/2021C",20000,0,2021,2021-09-14,"M",3,0,"Puttalam","Pallama","B-ALL","Bone marrow","Live",962,31,NA,3,0,FALSE
+"07855/2021C",23000,0,2021,2021-09-14,"F",6,4,"Puttalam","Puttalam","B-ALL","Bone marrow","Death",238,7,2022-05-10,6,1,FALSE
+"07866/2023C",42550,0,2023,2023-07-25,"M",3,5,"Matara","Kamburupitiya","B-ALL","Bone marrow","Live",309,10,NA,3,0,FALSE
+"07874/2017C",50000,1,2017,2017-08-04,"F",4,0,"Badulla","Haldummulla","B-ALL","Bone marrow","Live",1342,44,NA,4,0,FALSE
+"07882/2020C",2390,1,2020,2020-08-27,"M",15,9,"Gampaha","Wattala","T-ALL","Bone marrow","Live",568,18,NA,16,0,FALSE
+"07892/2021C",4400,0,2021,2021-09-15,"F",2,0,"Puttalam","Dankotuwa","B-ALL","Bone marrow","Death",46,1,2021-10-31,2,1,FALSE
+"07906/2018C",4380,0,2018,2018-07-24,"F",3,7,"Galle","Elpitiya","B-ALL","Bone marrow","Live",1794,58,NA,4,0,FALSE
+"07936/2019C",13050,0,2019,2019-07-30,"M",3,6,"Jaffna","Vadamaradchi East (Maruthnkerny)","B-ALL","Bone marrow","Live",1690,55,NA,4,0,FALSE
+"07940/2019C",75000,1,2019,2019-07-30,"M",6,5,"Kurunegala","Pannala","T-ALL","Bone marrow","Live",1702,55,NA,6,0,FALSE
+"07941/2022C",17650,0,2022,2022-08-18,"M",5,4,"Kandy","Yatinuwara","B-ALL","Bone marrow","Live",341,11,NA,5,0,FALSE
+"07944/2022C",80590,1,2022,2022-08-18,"M",8,5,"Kalutara","Mathugama","B-ALL","Bone marrow","Live",308,10,NA,8,0,FALSE
+"07963/2021C",75000,1,2021,2021-09-18,"M",5,10,"Colombo","Ratmalana","B-ALL","Bone marrow","Live",663,21,NA,6,0,FALSE
+"07967/2021C",194000,1,2021,2021-09-18,"M",6,0,"Ratnapura","Kiriella","T-ALL","Bone marrow","Live",523,17,NA,6,0,FALSE
+"07970/2021C",9800,1,2021,2021-10-26,"F",11,1,"Moneragala","Moneragala","T-ALL","Bone marrow","Death",1,0,2021-10-27,11,1,FALSE
+"07983/2021C",386000,1,2021,2021-09-20,"M",5,11,"Nuwara Eliya","Hanguranketha","T-ALL","Bone marrow","Live",645,21,NA,6,0,FALSE
+"07991/2022C",103750,1,2022,2022-10-05,"F",8,7,"Kandy","Doluwa","B-ALL","Bone marrow","Death",26,0,2022-10-31,9,1,FALSE
+"08024/2021C",3560,1,2021,2021-09-21,"F",12,4,"Kurunegala","Galgamuwa","T-ALL","Bone marrow","Live",653,21,NA,12,0,FALSE
+"08038/2017C",12170,0,2017,2017-08-09,"M",2,9,"Colombo","Kaduwela","B-ALL","Bone marrow","Live",775,25,NA,3,0,FALSE
+"08040/2019C",1980,0,2019,2019-08-01,"M",4,9,"Ratnapura","Kuruvita","B-ALL","Bone marrow","Live",1308,43,NA,5,0,FALSE
+"08054/2020C",1910,1,2020,2020-08-31,"F",14,5,"Gampaha","Minuwangoda","B-ALL","Bone marrow","Live",511,16,NA,14,0,FALSE
+"08058/2020C",3520,1,2020,2020-08-31,"M",14,6,"Gampaha","Minuwangoda","T-ALL","Bone marrow","Live",920,30,NA,15,0,FALSE
+"08063/2023C",10420,0,2023,2023-07-31,"M",3,1,"Kurunegala","Panduwasnuwara","B-ALL","Bone marrow","Live",190,6,NA,3,0,FALSE
+"08068/2018C",9250,0,2018,2018-07-30,"F",6,0,"Batticaloa","Eravur Town","B-ALL","Bone marrow","Live",1998,65,NA,6,0,FALSE
+"08071/2022C",114000,1,2022,2022-08-22,"M",2,3,"Polonnaruwa","Welikanda","B-ALL","Bone marrow","Live",639,21,NA,2,0,FALSE
+"08073/2023C",3030,0,2023,2023-08-01,"M",2,2,"Matara","Pitabeddara","B-ALL","Bone marrow","Live",295,9,NA,2,0,FALSE
+"08075/2021C",97300,1,2021,2021-09-23,"M",18,4,"Anuradhapura","Padaviya","B-ALL","Bone marrow","Death",30,1,2021-10-23,18,1,FALSE
+"08088/2020C",75331,0,2020,2021-06-29,"M",2,8,"Ampara","Ampara","B-ALL","Bone marrow","Death",5,0,2021-07-04,3,1,FALSE
+"08095/2019C",26800,1,2019,2019-08-03,"M",13,2,"Galle","Ambalangoda","B-ALL","Bone marrow","Live",1313,43,NA,13,0,FALSE
+"08110/2017C",4180,0,2017,2017-08-10,"F",4,10,"Kalutara","Millaniya","B-ALL","Bone Marrow","Live",2462,80,NA,5,0,FALSE
+"08125/2016C",7910,1,2016,2016-07-27,"M",1,5,"Anuradhapura","Padaviya","B-ALL","Bone marrow","Live",1670,54,NA,1,0,FALSE
+"08147/2017C",24580,0,2017,2017-08-11,"M",2,3,"Nuwara Eliya","Nuwara Eliya","B-ALL","Bone marrow","Live",920,30,NA,2,0,FALSE
+"08180/2022C",12650,1,2022,2022-08-24,"M",11,8,"Kalutara","Walallavita","B-ALL","Bone marrow","Death",221,7,2023-04-02,12,1,FALSE
+"08183/2022C",28430,1,2022,2022-08-24,"F",9,7,"Galle","Akmeemana","T-ALL","Bone marrow","Live",637,20,NA,10,0,FALSE
+"08184/2022C",1524,1,2022,2022-08-24,"F",1,8,"Galle","Imaduwa","B-ALL","Bone marrow","Live",623,20,NA,2,0,FALSE
+"08185/2019C",14860,0,2019,2019-08-05,"F",3,1,"Colombo","Kaduwela","B-ALL","Bone marrow","Live",1263,41,NA,3,0,FALSE
+"08188/2019C",19640,1,2019,2019-08-05,"M",15,9,"Hambantota","Hambantota","T-ALL","Bone marrow","Live",1256,41,NA,16,0,FALSE
+"08189/2016C",557000,1,2016,2016-07-29,"M",9,7,"Jaffna","Jaffna","T-ALL","Bone Marrow","Live",957,31,NA,10,0,FALSE
+"08189/2019C",3600,0,2019,2019-08-05,"F",8,2,"Badulla","Badulla","B-ALL","Bone marrow","Death",179,5,2020-01-31,8,1,FALSE
+"08222/2016C",177300,1,2016,2016-07-29,"M",2,10,"Colombo","Kesbewa","B-ALL","Bone marrow","Live",2972,97,NA,3,0,FALSE
+"08222/2022C",15210,0,2022,2022-08-25,"M",2,2,"Anuradhapura","Thirappane","B-ALL","Bone marrow","Death",54,1,2022-10-18,2,1,FALSE
+"08228/2020C",101530,1,2020,2020-09-06,"F",7,8,"Ampara","Sainthamarathu","T-ALL","Bone marrow","Live",926,30,NA,8,0,FALSE
+"08234/2017C",44000,1,2017,2017-08-14,"M",12,4,"Moneragala","Medagama","T-ALL","Bone Marrow","Live",2087,68,NA,12,0,FALSE
+"08243/2019C",3550,0,2019,2019-08-07,"M",4,10,"Ampara","Pothuvil","B-ALL","Bone marrow","Live",1703,55,NA,5,0,FALSE
+"08251/2016C",13270,1,2016,2016-07-30,"M",0,7,"Ampara","Dehiattakandiya","B-ALL","Bone marrow","Death",46,1,2016-09-14,1,1,FALSE
+"08252/2019C",75331,0,2019,2019-10-23,"F",2,11,"Hambantota","Tissamaharama","B-ALL","Bone marrow","Death",1,0,2019-10-24,3,1,FALSE
+"08272/2019C",8840,1,2019,2019-08-07,"M",12,6,"Matara","Devinuwara","B-ALL","Bone marrow","Live",943,31,NA,13,0,FALSE
+"08274/2021C",38280,0,2021,2021-09-28,"F",4,0,"Kurunegala","Alawwa","B-ALL","Bone marrow","Live",647,21,NA,4,0,FALSE
+"08276/2021C",20740,1,2021,2021-09-28,"F",10,11,"Moneragala","Wellawaya","T-ALL","Bone marrow","Live",7,0,NA,11,0,FALSE
+"08285/2017C",4530,0,2017,2017-08-15,"M",4,11,"Puttalam","Puttalam","B-ALL","Bone marrow","Live",1137,37,NA,5,0,FALSE
+"08287/2017C",62380,1,2017,2017-08-15,"M",8,10,"Batticaloa","Koralai Pattu (Valachchenai)","B-ALL","Bone marrow","Live",2313,76,NA,9,0,FALSE
+"08305/2021C",1290,1,2021,2021-09-20,"M",15,1,"Kurunegala","Narammala","B-ALL","Bone marrow","Live",150,4,NA,15,0,FALSE
+"08306/2022C",95810,1,2022,2022-08-27,"M",3,7,"Colombo","Colombo","B-ALL","Bone marrow","Live",634,20,NA,4,0,FALSE
+"08310/2021C",3750,1,2021,2021-09-30,"M",10,2,"Jaffna","Island North","B-ALL","Bone marrow","Live",649,21,NA,10,0,FALSE
+"08313/2016C",4890,0,2016,2016-08-01,"F",8,11,"Matara","Devinuwara","B-ALL","Bone Marrow","Live",2697,88,NA,9,0,FALSE
+"08315/2016C",12900,0,2016,2016-08-01,"M",5,3,"Kurunegala","Mawathagama","B-ALL","Bone marrow","Live",1494,49,NA,5,0,FALSE
+"08327/2019C",5350,0,2019,2019-08-08,"F",4,8,"Gampaha","Minuwangoda","B-ALL","Bone marrow","Live",1315,43,NA,5,0,FALSE
+"08351/2018C",18610,0,2018,2018-08-05,"M",2,8,"Batticaloa","Manmunai North","B-ALL","Bone marrow","Live",1993,65,NA,3,0,FALSE
+"08353/2022C",25000,1,2022,2022-08-29,"M",8,2,"Colombo","Colombo","T-ALL","Bone marrow","Live",316,10,NA,8,0,FALSE
+"08361/2023C",34290,1,2023,2023-08-08,"F",15,7,"Puttalam","Puttalam","B-ALL","Bone marrow","Death",24,0,2023-09-01,16,1,FALSE
+"08370/2016C",12606,0,2016,2016-08-02,"F",4,3,"Galle","Balapitiya","B-ALL","Bone marrow","Live",2314,76,NA,4,0,FALSE
+"08384/2017C",50000,1,2017,2017-08-17,"M",11,1,"Trincomalee","Kantalai","B-ALL","Bone marrow","Live",2505,82,NA,11,0,FALSE
+"08387/2020C",113000,1,2020,2020-09-09,"F",3,2,"Kurunegala","Polgahawela","B-ALL","Bone marrow","Live",922,30,NA,3,0,FALSE
+"08387/2021C",2640,0,2021,2021-10-02,"M",3,10,"Anuradhapura","Palagala","B-ALL","Bone marrow","Live",647,21,NA,4,0,FALSE
+"08391/2019C",34780,0,2019,2019-08-11,"M",4,5,"Mullaitivu","Oddusuddan","B-ALL","Bone marrow","Death",312,10,2020-06-18,4,1,FALSE
+"08393/2021C",2020,1,2021,2021-10-02,"M",13,9,"Kurunegala","Badalkumbura","B-ALL","Bone marrow","Live",626,20,NA,14,0,FALSE
+"08408/2018C",8340,1,2018,2018-08-06,"M",1,10,"Kalutara","Bulathsinhala","B-ALL","Bone marrow","Live",1190,39,NA,2,0,FALSE
+"08438/2017C",7500,1,2017,2017-08-18,"M",0,8,"Gampaha","Dompe","B-ALL","Bone marrow","Live",1133,37,NA,1,0,FALSE
+"08439/2020C",3330,0,2020,2020-09-10,"F",2,3,"Kalutara","Panadura","B-ALL","Bone marrow","Live",909,29,NA,2,0,FALSE
+"08445/2021C",53830,1,2021,2021-10-04,"M",2,4,"Hambantota","Beliatta","T-ALL","Bone marrow","Live",928,30,NA,2,0,FALSE
+"08446/2021C",1850,1,2021,2021-10-04,"F",13,7,"Gampaha","Negombo","T-ALL","Bone marrow","Live",235,7,NA,14,0,FALSE
+"08448/2021C",26420,1,2021,2021-10-04,"M",7,7,"Colombo","Kolonnawa","T-ALL",NA,"Live",638,21,NA,8,0,FALSE
+"08451/2021C",3100,1,2021,2021-10-04,"M",13,6,"Kegalle","Aranayaka","B-ALL","Bone marrow","Live",582,19,NA,14,0,FALSE
+"08486/2016C",24500,0,2016,2016-08-04,"F",7,5,"Gampaha","Katana","B-ALL","Bone marrow","Live",2687,88,NA,7,0,FALSE
+"08493/2020C",39570,0,2020,2020-09-11,"M",2,0,"Anuradhapura","Rambewa","B-ALL","Bone marrow","Live",914,30,NA,2,0,FALSE
+"08495/2020C",2890,0,2020,2020-09-12,"M",4,3,"Colombo","Hanwella","B-ALL","Bone marrow","Live",269,8,NA,4,0,FALSE
+"08500/2021C",410,0,2021,2021-10-06,"M",8,2,"Colombo","Homagama","B-ALL","Bone marrow","Live",643,21,NA,8,0,FALSE
+"08506/2020C",188320,1,2020,2020-09-13,"M",1,3,"Anuradhapura","Galenbindunuwewa","B-ALL","Bone marrow","Live",167,5,NA,1,0,FALSE
+"08516/2022C",6980,0,2022,2022-09-01,"M",9,7,"Kandy","Poojapitiya","B-ALL","Bone marrow","Live",322,10,NA,10,0,FALSE
+"08535/2016C",19900,1,2016,2016-08-05,"M",8,4,"Puttalam","Kalpitiya","T-ALL","Bone marrow","Live",2853,93,NA,8,0,FALSE
+"08536/2016C",2800,0,2016,2016-08-05,"F",3,1,"Matara","Hakmana","B-ALL","Bone marrow","Death",940,30,2019-03-03,3,1,FALSE
+"08541/2019C",13260,0,2019,2019-08-15,"F",2,4,"Colombo","Colombo","B-ALL","Bone marrow","Live",1294,42,NA,2,0,FALSE
+"08542/2016C",1900,0,2016,2016-08-05,"M",3,3,"Ratnapura","Ratnapura","B-ALL","Bone marrow","Live",61,2,NA,3,0,FALSE
+"08542/2019C",5940,0,2019,2019-08-15,"F",9,2,"Kandy","Yatinuwara","B-ALL","Bone marrow","Live",1259,41,NA,9,0,FALSE
+"08543/2019C",75331,1,2019,2019-08-15,"M",15,3,"Galle","Galle Four Gravets","B-ALL","Bone marrow","Death",109,3,2019-12-02,15,1,FALSE
+"08549/2023C",17400,0,2023,2023-08-13,"M",2,10,"Anuradhapura","Rajanganaya","B-ALL","Bone marrow","Live",283,9,NA,3,0,FALSE
+"08556/2016C",5120,0,2016,2016-08-06,"M",4,0,"Kurunegala","Kuliyapitiya East","B-ALL","Bone marrow","Live",2812,92,NA,4,0,FALSE
+"08557/2016C",11500,0,2016,2016-08-07,"M",6,2,"Gampaha","Biyagama","B-ALL","Bone Marrow","Live",2705,88,NA,6,0,FALSE
+"08559/2016C",437720,1,2016,2016-08-07,"M",3,2,"Polonnaruwa","Dimbulagala","T-ALL","Bone Marrow","Live",1480,48,NA,3,0,FALSE
+"08564/2022C",2720,0,2022,2022-09-03,"M",7,1,"Colombo","Colombo","B-ALL","Bone marrow","Live",306,10,NA,7,0,FALSE
+"08569/2018C",3950,1,2018,2018-08-09,"M",9,8,"Gampaha","Gampaha","T-ALL","Bone marrow","Live",495,16,NA,10,0,FALSE
+"08573/2020C",54870,1,2020,2020-09-14,"M",13,3,"Ratnapura","Balangoda","T-ALL","Bone marrow","Death",45,1,2020-10-29,13,1,FALSE
+"08579/2020C",22710,1,2020,2020-09-14,"M",11,2,"Colombo","Kesbewa","B-ALL","Bone marrow","Live",885,29,NA,11,0,FALSE
+"08585/2019C",8100,1,2019,2019-08-16,"M",17,0,"Kalutara","Panadura","B-ALL","Bone marrow","Live",1657,54,NA,17,0,FALSE
+"08598/2023C",41000,0,2023,2023-08-14,"F",4,2,"Ratnapura","Godakawela","B-ALL","Bone marrow","Live",172,5,NA,4,0,FALSE
+"08601/2022C",50400,1,2022,2022-09-03,"M",1,8,"Gampaha","Gampaha","B-ALL","Bone Marrow","Live",285,9,NA,2,0,FALSE
+"08609/2019C",52590,1,2019,2019-08-18,"M",3,1,"Kurunegala","Alawwa","B-ALL","Bone marrow","Live",1692,55,NA,3,0,FALSE
+"08612/2022C",143000,1,2022,2022-09-05,"F",15,5,"Gampaha","Dompe","B-ALL","Bone marrow","Live",32,1,NA,15,0,FALSE
+"08616/2022C",2080,0,2022,2022-09-05,"M",6,1,"Kandy","Thumpane","B-ALL","Bone marrow","Live",309,10,NA,6,0,FALSE
+"08623/2020C",92000,1,2020,2020-09-15,"M",12,0,"Colombo","Moratuwa","B-ALL","Bone marrow","Live",1319,43,NA,12,0,FALSE
+"08632/2021C",6410,0,2021,2021-10-09,"F",6,8,"Kurunegala","Ehetuwewa","B-ALL","Bone marrow","Live",160,5,NA,7,0,FALSE
+"08655/2017C",50000,1,2017,2017-08-24,"F",12,6,"Badulla","Haputale","B-ALL","Bone marrow","Live",2323,76,NA,13,0,FALSE
+"08656/2017C",50000,0,2017,2017-08-24,"M",3,3,"Anuradhapura","Thalawa","B-ALL","Bone marrow","Live",2423,79,NA,3,0,FALSE
+"08675/2016C",15100,0,2016,2016-08-09,"M",5,9,"Nuwara Eliya","Thalawakale","B-ALL","Bone marrow","Live",2211,72,NA,6,0,FALSE
+"08705/2021C",34790,1,2021,2021-10-11,"F",17,0,"Kegalle","Dehiovita","T-ALL","Bone marrow","Live",763,25,NA,17,0,FALSE
+"08708/2023C",18000,0,2023,2023-08-17,"M",3,9,"Matale","Pallepola","B-ALL","Bone marrow","Live",173,5,NA,4,0,FALSE
+"08709/2022C",7380,0,2022,2022-09-07,"F",4,2,"Mullaitivu","Oddusuddan","B-ALL","Bone marrow","Live",320,10,NA,4,0,FALSE
+"08710/2017C",544000,1,2017,2017-08-25,"M",3,1,"Badulla","Uva-Paranagama","B-ALL","Bone Marrow","Live",1889,62,NA,3,0,FALSE
+"08711/2017C",64380,1,2017,2017-08-25,"F",13,2,"Kurunegala","Ibbagamuwa","T-ALL","Bone Marrow","Live",2204,72,NA,13,0,FALSE
+"08715/2017C",5900,0,2017,2017-08-26,"F",3,2,"Colombo","Homagama","B-ALL","Bone Marrow","Live",682,22,NA,3,0,FALSE
+"08722/2016C",12570,0,2016,2016-08-10,"F",3,4,"Galle","Neluwa","B-ALL","Bone marrow","Live",2234,73,NA,3,0,FALSE
+"08744/2016C",1800,1,2016,2016-08-11,"M",18,9,"Badulla","Welimada","B-ALL","Bone Marrow","Death",359,11,2017-08-05,19,1,FALSE
+"08762/2018C",1520,1,2018,2018-08-14,"F",14,1,"Gampaha","Mahara","T-ALL","Bone marrow","Death",488,16,2019-12-15,14,1,FALSE
+"08782/2016C",10310,1,2016,2016-08-11,"F",16,0,"Ampara","Samanthurai","B-ALL","Bone marrow","Live",2597,85,NA,16,0,FALSE
+"08783/2020C",263000,1,2020,2020-09-19,"F",3,5,"Jaffna","Jaffna","B-ALL","Bone marrow","Live",899,29,NA,3,0,FALSE
+"08799/2021C",8210,1,2021,2021-10-13,"F",15,2,"Polonnaruwa","Medirigiriya","T-ALL","Bone marrow","Live",617,20,NA,15,0,FALSE
+"08802/2021C",244000,1,2021,2021-10-13,"M",14,9,"Moneragala","Bibile","T-ALL","Bone marrow","Live",638,21,NA,15,0,FALSE
+"08805/2021C",2200,0,2021,2021-10-14,"M",4,9,"Moneragala","Wellawaya","B-ALL","Bone marrow","Live",634,20,NA,5,0,FALSE
+"08808/2022C",5600,0,2022,2022-09-10,"F",3,0,"Polonnaruwa","Dimbulagala","B-ALL","Bone marrow","Live",620,20,NA,3,0,FALSE
+"08818/2018C",2200,1,2018,2018-08-15,"M",12,0,"Ratnapura","Kahawatta","B-ALL","Bone marrow","Live",1590,52,NA,12,0,FALSE
+"08821/2021C",2210,0,2021,2021-10-14,"M",5,7,"Badulla","Badulla","B-ALL","Bone marrow","Live",630,20,NA,6,0,FALSE
+"08860/2022C",18510,0,2022,2022-09-12,"F",9,7,"Kandy","Doluwa","B-ALL","Bone marrow","Live",259,8,NA,10,0,FALSE
+"08863/2017C",14340,1,2017,2017-08-29,"M",4,8,"Matale","Galewela","T-ALL","Bone marrow","Live",2185,71,NA,5,0,FALSE
+"08880/2020C",14050,1,2020,2020-09-21,"M",1,6,"Kalutara","Millaniya","B-ALL","Bone marrow","Live",787,25,NA,2,0,FALSE
+"08882/2020C",17000,1,2020,2020-09-21,"M",15,3,"Kurunegala","Polgahawela","B-ALL","Bone marrow","Live",735,24,NA,15,0,FALSE
+"08890/2019C",960,1,2019,2019-08-24,"M",12,11,"Kalutara","Horana","B-ALL","Bone marrow","Live",1272,41,NA,13,0,FALSE
+"08920/2022C",7000,0,2022,2022-09-13,"F",4,7,"Gampaha","Dompe","B-ALL","Bone marrow","Live",605,19,NA,5,0,FALSE
+"08930/2020C",15000,0,2020,2020-09-22,"M",5,10,"Gampaha","Gampaha","B-ALL","Bone marrow","Live",1289,42,NA,6,0,FALSE
+"08934/2017C",23370,0,2017,2017-08-30,"F",2,4,"Galle","Balapitiya","B-ALL","Bone marrow","Live",1926,63,NA,2,0,FALSE
+"08934/2018C",75331,0,2018,2018-08-30,"F",2,4,"Galle","Balapitiya","B-ALL","Bone marrow","Live",1155,37,NA,2,0,FALSE
+"08935/2017C",60870,1,2017,2017-08-30,"M",2,2,"Ratnapura","Pelmadulla","B-ALL","Bone marrow","Live",1526,50,NA,2,0,FALSE
+"08958/2019C",11800,1,2019,2019-08-26,"F",1,11,"Kurunegala","Kurunegala","B-ALL","Bone marrow","Death",295,9,2020-06-16,2,1,FALSE
+"08977/2023C",17960,0,2023,2023-08-22,"M",2,10,"Nuwara Eliya","Hanguranketha","B-ALL","Bone marrow","Live",283,9,NA,3,0,FALSE
+"08988/2017C",75331,0,2017,2017-08-31,"M",9,0,"Colombo","Sri Jayawardanapura Kotte","B-ALL","Bone marrow","Death",45,1,2017-10-15,9,1,FALSE
+"08994/2017C",1780,1,2017,2017-09-01,"M",13,8,"Puttalam","Puttalam","B-ALL","Bone marrow","Live",1322,43,NA,14,0,FALSE
+"08998/2017C",11700,0,2017,2017-09-02,"M",2,10,"Badulla","Bandarawela","B-ALL","Bone marrow","Live",2223,73,NA,3,0,FALSE
+"09008/2017C",114000,1,2017,2017-09-03,"M",3,5,"Ratnapura","Ratnapura","B-ALL","Bone marrow","Live",579,19,NA,3,0,FALSE
+"09014/2021C",554620,1,2021,2021-10-21,"M",7,6,"Kurunegala","Rasnayakapura","T-ALL","Bone marrow","Live",614,20,NA,8,0,FALSE
+"09017/2021C",13300,0,2021,2021-10-21,"F",6,8,"Matale","Matale","B-ALL","Bone marrow","Live",623,20,NA,7,0,FALSE
+"09061/2016C",10600,1,2016,2016-08-20,"M",12,6,"Puttalam","Kalpitiya","T-ALL","Bone marrow","Death",47,1,2016-10-06,13,1,FALSE
+"09068/2022C",28900,0,2022,2022-09-16,"M",4,8,"Gampaha","Katana","B-ALL","Bone marrow","Live",310,10,NA,5,0,FALSE
+"09069/2019C",4000,0,2019,2019-08-28,"M",2,6,"Puttalam","Anamaduwa","B-ALL","Bone marrow","Live",1251,41,NA,3,0,FALSE
+"09069/2021C",4330,1,2021,2021-10-23,"M",14,0,"Kegalle","Galigamuwa","T-ALL","Bone marrow","Live",914,30,NA,14,0,FALSE
+"09071/2021C",5250,1,2021,2021-10-23,"M",16,3,"Puttalam","Mundalama","T-ALL","Bone marrow","Live",738,24,NA,16,0,FALSE
+"09073/2023C",4880,0,2023,2023-08-24,"F",5,5,"Kalutara","Panadura","B-ALL","Bone marrow","Live",286,9,NA,5,0,FALSE
+"09080/2020C",13930,1,2020,2020-09-25,"M",4,11,"Kurunegala","Pannala","T-ALL","Bone marrow","Live",838,27,NA,5,0,FALSE
+"09080/2021C",8080,0,2021,2021-10-24,"M",2,3,"Colombo","Kolonnawa","B-ALL","Bone marrow","Live",606,19,NA,2,0,FALSE
+"09089/2017C",143990,1,2017,2017-09-06,"M",7,11,"Kurunegala","Maspotha","B-ALL","Bone marrow","Live",1996,65,NA,8,0,FALSE
+"09104/2021C",5190,0,2021,2021-10-25,"M",7,2,"Matara","Matara","B-ALL","Bone marrow","Live",912,29,NA,7,0,FALSE
+"09114/2023C",7050,1,2023,2023-08-25,"M",14,1,"Ampara","Mahaoya","B-ALL","Bone marrow","Live",66,2,NA,14,0,FALSE
+"09137/2016C",13300,0,2016,2016-08-22,"F",2,5,"Colombo","Hanwella","B-ALL","Bone Marrow","Live",2382,78,NA,2,0,FALSE
+"09141/2021C",831470,1,2021,2021-10-25,"M",12,3,"Nuwara Eliya","Nuwara Eliya","T-ALL","Bone marrow","Live",584,19,NA,12,0,FALSE
+"09145/2021C",9200,0,2021,2021-10-26,"F",3,5,"Nuwara Eliya","Nuwara Eliya","B-ALL","Bone marrow","Live",604,19,NA,3,0,FALSE
+"09181/2019C",1160,0,2019,2019-08-31,"F",4,9,"Puttalam","Mahakumbukkadawala","B-ALL","Bone marrow","Live",286,9,NA,5,0,FALSE
+"09183/2022C",2440,1,2022,2022-09-20,"F",10,8,"Kurunegala","Paduwasnuwara East","B-ALL","Bone marrow","Live",342,11,NA,11,0,FALSE
+"09188/2019C",16990,1,2019,2019-08-31,"M",11,6,"Polonnaruwa","Thamankaduwa","B-ALL","Bone marrow","Death",370,12,2020-09-04,12,1,FALSE
+"09192/2019C",22000,0,2019,2019-09-01,"M",3,5,"Jaffna","Nallur","B-ALL","Bone marrow","Live",1226,40,NA,3,0,FALSE
+"09192/2021C",2430,1,2021,2021-10-26,"M",13,9,"Nuwara Eliya","Nuwara Eliya","T-ALL","Bone marrow","Death",122,3,2022-02-25,14,1,FALSE
+"09233/2016C",506000,1,2016,2016-08-24,"M",0,10,"Colombo","Kaduwela","B-ALL","Bone marrow","Death",58,1,2016-10-21,1,1,FALSE
+"09238/2021C",6290,1,2021,2021-10-27,"F",13,9,"Matara","Devinuwara","B-ALL","Bone marrow","Live",621,20,NA,14,0,FALSE
+"09240/2021C",13800,0,2021,2021-10-27,"M",4,7,"Kegalle","Dehiovita","B-ALL","Bone marrow","Live",624,20,NA,5,0,FALSE
+"09244/2021C",19880,1,2021,2021-10-27,"F",11,10,"Badulla","Badulla","B-ALL","Bone marrow","Live",615,20,NA,12,0,FALSE
+"09254/2020C",850000,1,2020,2020-09-30,"M",14,11,"Kandy","Hatharaliyadda","B-ALL","Bone marrow","Live",160,5,NA,15,0,FALSE
+"09269/2018C",28000,1,2018,2018-10-09,"M",10,0,"Anuradhapura","Mihinthale","B-ALL","Bone marrow","Death",22,0,2018-10-31,10,1,FALSE
+"09278/2020C",126310,1,2020,2020-10-01,"M",3,0,"Polonnaruwa","Medirigiriya","B-ALL","Bone marrow","Live",899,29,NA,3,0,FALSE
+"09298/2019C",9900,0,2019,2019-09-03,"M",4,11,"Nuwara Eliya","Kothmale","B-ALL","Bone marrow","Live",1555,51,NA,5,0,FALSE
+"09311/2019C",16200,0,2019,2019-09-04,"F",7,9,"Anuradhapura","Nuwaragam Palatha Central","B-ALL","Bone marrow","Live",1272,41,NA,8,0,FALSE
+"09322/2017C",14300,1,2017,2017-09-11,"M",10,8,"Matara","Kamburupitiya","B-ALL","Bone Marrow","Live",161,5,NA,11,0,FALSE
+"09325/2018C",4400,1,2018,2018-08-30,"M",15,6,"Batticaloa","Kattankudy","T-ALL","Bone marrow","Death",60,1,2018-10-29,16,1,FALSE
+"09333/2020C",31000,0,2020,2020-10-04,"F",4,1,"Polonnaruwa","Thamankaduwa","B-ALL","Bone marrow","Live",1300,42,NA,4,0,FALSE
+"09339/2019C",189000,1,2019,2019-09-04,"F",8,1,"Colombo","Colombo","B-ALL","Bone marrow","Live",904,29,NA,8,0,FALSE
+"09350/2017C",5200,0,2017,2017-09-12,"M",5,8,"Kandy","Udunuwara","B-ALL","Bone marrow","Death",28,0,2017-10-10,6,1,FALSE
+"09352/2016C",21000,1,2016,2016-08-28,"M",1,5,"Kalutara","Horana","B-ALL","Bone marrow","Live",2144,70,NA,1,0,FALSE
+"09398/2020C",7600,0,2020,2020-10-05,"M",3,0,"Kalutara","Bulathsinhala","B-ALL","Bone marrow","Live",1297,42,NA,3,0,FALSE
+"09401/2019C",183000,1,2019,2019-09-05,"M",16,11,"Kurunegala","Ibbagamuwa","T-ALL","Bone marrow","Live",1236,40,NA,17,0,FALSE
+"09401/2020C",22450,1,2020,2020-10-05,"F",15,5,"Matara","Weligama","B-ALL","Bone marrow","Live",890,29,NA,15,0,FALSE
+"09404/2019C",2720,0,2019,2019-09-05,"F",4,11,"Kalutara","Kalutara","B-ALL","Bone marrow","Live",1267,41,NA,5,0,FALSE
+"09416/2021C",18000,1,2021,2021-11-01,"F",1,11,"Ratnapura","Kuruvita","B-ALL","Bone marrow","Live",603,19,NA,2,0,FALSE
+"09444/2020C",87550,1,2020,2020-10-06,"F",3,2,"Colombo","Thimbirigasyaya","B-ALL","Bone marrow","Live",891,29,NA,3,0,FALSE
+"09446/2016C",30700,0,2016,2016-08-29,"F",3,9,"Matara","Kamburupitiya","B-ALL","Bone Marrow","Live",1752,57,NA,4,0,FALSE
+"09448/2016C",4110,0,2016,2016-08-30,"F",2,6,"Batticaloa","Koralai Pattu (Valachchenai)","B-ALL","Bone marrow","Live",1441,47,NA,3,0,FALSE
+"09456/2020C",4300,0,2020,2020-10-06,"F",3,4,"Matara","Dickwella","B-ALL","Bone marrow","Live",1305,42,NA,3,0,FALSE
+"09460/2019C",3450,0,2019,2019-09-07,"M",2,0,"Galle","Rathgama","B-ALL","Bone marrow","Live",1091,35,NA,2,0,FALSE
+"09463/2019C",110770,1,2019,2019-09-07,"M",5,3,"Polonnaruwa","Hingurakgoda","B-ALL","Bone marrow","Live",1244,40,NA,5,0,FALSE
+"09465/2019C",110770,1,2019,2019-09-07,"F",5,10,"Nuwara Eliya","Kothmale","B-ALL","Bone marrow","Live",1265,41,NA,6,0,FALSE
+"09481/2017C",8760,0,2017,2017-09-14,"M",4,4,"Puttalam","Chilaw","B-ALL","Bone marrow","Live",1966,64,NA,4,0,FALSE
+"09500/2017C",6800,0,2017,2017-09-15,"F",4,3,"Kurunegala","Polpithigama","B-ALL","Bone marrow","Live",1916,62,NA,4,0,FALSE
+"09526/2017C",11050,0,2017,2017-09-15,"F",2,3,"Colombo","Maharagama","B-ALL","Bone marrow","Live",1942,63,NA,2,0,FALSE
+"09551/2018C",124000,1,2018,2018-09-04,"F",0,3,"Puttalam","Mundalama","B-ALL","Bone marrow","Death",85,2,2018-11-28,0,1,FALSE
+"09554/2018C",2600,0,2018,2018-09-04,"M",7,7,"Galle","Galle","B-ALL","Bone marrow","Live",2054,67,NA,8,0,FALSE
+"09566/2016C",5240,0,2016,2016-09-01,"M",3,7,"Trincomalee","Kuchchaveli","B-ALL","Bone marrow","Live",375,12,NA,4,0,FALSE
+"09575/2023C",4300,1,2023,2023-09-09,"F",13,11,"Kandy","Akurana","B-ALL","Bone marrow","Live",150,4,NA,14,0,FALSE
+"09579/2021C",1200,1,2021,2021-11-05,"F",11,11,"Kurunegala","Kotavehera","B-ALL","Bone marrow","Live",552,18,NA,12,0,FALSE
+"09583/2021C",9960,0,2021,2021-11-05,"F",4,10,"Gampaha","Ja-Ela","B-ALL","Bone marrow","Live",599,19,NA,5,0,FALSE
+"09585/2023C",17350,1,2023,2023-09-10,"M",1,1,"Colombo","Colombo","B-ALL","Bone marrow","Live",156,5,NA,1,0,FALSE
+"09600/2021C",4240,0,2021,2021-11-06,"M",5,4,"Nuwara Eliya","Kothmale","B-ALL","Bone marrow","Live",916,30,NA,5,0,FALSE
+"09602/2017C",4200,0,2017,2017-09-18,"M",3,6,"Colombo","Maharagama","B-ALL","Bone marrow","Death",35,1,2017-10-23,4,1,FALSE
+"09605/2017C",334000,1,2017,2017-09-18,"F",13,3,"Kurunegala","Bingiriya","T-ALL","Bone Marrow","Live",2458,80,NA,13,0,FALSE
+"09662/2022C",1280,1,2022,2022-10-02,"M",7,5,"Kandy","Medadumbara","T-ALL","Bone marrow","Live",289,9,NA,7,0,FALSE
+"09669/2016C",48120,0,2016,2016-09-02,"F",8,4,"Anuradhapura","Thirappane","B-ALL","Bone marrow","Live",2338,76,NA,8,0,FALSE
+"09675/2018C",3360,1,2018,2018-09-07,"M",1,6,"Colombo","Kolonnawa","B-ALL","Bone marrow","Live",1394,45,NA,2,0,FALSE
+"09717/2022C",265610,1,2022,2022-10-03,"F",12,11,"Anuradhapura","Nochchiyagama","B-ALL","Bone marrow","Death",228,7,2023-05-18,13,1,FALSE
+"09723/2019C",4280,0,2019,2019-09-12,"M",8,10,"Gampaha","Biyagama","B-ALL","Bone marrow","Live",1277,42,NA,9,0,FALSE
+"09724/2022C",1420,0,2022,2022-10-03,"M",7,0,"Galle","Akmeemana","B-ALL","Bone marrow","Death",51,1,2022-11-23,7,1,FALSE
+"09725/2019C",14500,0,2019,2019-09-12,"F",8,3,"Puttalam","Puttalam","B-ALL","Bone marrow","Live",1280,42,NA,8,0,FALSE
+"09733/2019C",18000,1,2019,2019-09-13,"F",8,0,"Colombo","Hanwella","T-ALL","Bone marrow","Live",1687,55,NA,8,0,FALSE
+"09748/2021C",67720,1,2021,2021-11-10,"M",2,5,"Hambantota","Sooriyawewa","B-ALL","Bone marrow","Live",603,19,NA,2,0,FALSE
+"09804/2019C",6300,1,2019,2019-09-16,"F",1,6,"Ratnapura","Embilipitiya","B-ALL","Bone marrow","Live",1261,41,NA,2,0,FALSE
+"09811/2016C",12100,0,2016,2016-09-06,"M",9,3,"Kegalle","Dehiovita","B-ALL","Bone marrow","Live",1473,48,NA,9,0,FALSE
+"09813/2021C",13060,1,2021,2021-11-11,"M",6,1,"Colombo","Kaduwela","T-ALL","Bone marrow","Live",600,19,NA,6,0,FALSE
+"09865/2018C",8760,0,2018,2018-09-12,"M",7,4,"Hambantota","Walasmulla","B-ALL","Bone marrow","Live",1983,65,NA,7,0,FALSE
+"09865/2021C",20180,1,2021,2021-11-14,"M",3,6,"Batticaloa","Manmunai North","T-ALL","Bone marrow","Live",589,19,NA,4,0,FALSE
+"09882/2020C",26180,1,2020,2020-10-19,"M",1,11,"Badulla","Welimada","B-ALL","Bone marrow","Live",876,28,NA,2,0,FALSE
+"09888/2022C",608740,1,2022,2022-10-06,"M",15,10,"Moneragala","Moneragala","T-ALL","Bone marrow","Live",286,9,NA,16,0,FALSE
+"09905/2018C",3380,0,2018,2018-09-13,"M",6,4,"Anuradhapura","Nuwaragam Palatha Central","B-ALL","Bone marrow","Death",65,2,2018-11-17,6,1,FALSE
+"09906/2018C",71330,1,2018,2018-09-13,"M",6,9,"Anuradhapura","Kahatagasdigiliya","T-ALL","Bone marrow","Live",1582,51,NA,7,0,FALSE
+"09908/2017C",8010,0,2017,2017-09-25,"M",3,8,"Kandy","Pathadumbara","B-ALL","Bone Marrow","Live",2368,77,NA,4,0,FALSE
+"09912/2019C",5420,1,2019,2019-09-18,"F",12,0,"Kalutara","Beruwala","T-ALL","Bone marrow","Live",1191,39,NA,12,0,FALSE
+"09922/2016C",12800,0,2016,2016-09-08,"F",9,6,"Puttalam","Madampe","B-ALL","Bone marrow","Live",1457,47,NA,10,0,FALSE
+"09929/2018C",43920,0,2018,2018-09-13,"F",4,5,"Colombo","Sri Jayawardanapura Kotte","B-ALL","Bone marrow","Live",1616,53,NA,4,0,FALSE
+"09929/2021C",28740,1,2021,2021-11-15,"F",1,10,"Ratnapura","Kahawatta","B-ALL","Bone marrow","Live",603,19,NA,2,0,FALSE
+"09930/2018C",3910,0,2018,2018-09-13,"F",3,6,"Kurunegala","Nikaweratiya","B-ALL","Bone marrow","Live",1637,53,NA,4,0,FALSE
+"09936/2022C",1790,0,2022,2022-10-07,"M",4,1,"Matale","Rattota","B-ALL","Bone marrow","Live",258,8,NA,4,0,FALSE
+"09953/2017C",96920,1,2017,2017-09-26,"M",10,6,"Ratnapura","Embilipitiya","T-ALL","Bone marrow","Live",1109,36,NA,11,0,FALSE
+"09982/2016C",14100,0,2016,2016-09-11,"M",3,10,"Gampaha","Biyagama","B-ALL","Bone marrow","Live",2363,77,NA,4,0,FALSE
+"09989/2018C",41000,1,2018,2018-09-14,"F",1,2,"Hambantota","Sooriyawewa","B-ALL","Bone marrow","Live",1288,42,NA,1,0,FALSE
+"09989/2019C",109050,1,2019,2019-09-21,"F",2,8,"Jaffna","Valikamam South (Uduvil)","B-ALL","Bone marrow","Live",1223,40,NA,3,0,FALSE
+"09989/2021C",14980,0,2021,2021-11-16,"M",4,2,"Ampara","Dehiattakandiya","B-ALL","Bone marrow","Live",899,29,NA,4,0,FALSE
+"09999/2018C",48480,1,2018,2018-09-16,"F",1,4,"Kilinochchi","Kandavalai","B-ALL","Bone marrow","Live",1571,51,NA,1,0,FALSE
+"10003/2019C",94000,1,2019,2019-09-21,"F",14,1,"Ratnapura","Godakawela","B-ALL","Bone marrow","Live",1241,40,NA,14,0,FALSE
+"10009/2019C",48000,0,2019,2019-09-22,"M",7,0,"Gampaha","Ja-Ela","B-ALL","Bone marrow","Live",247,8,NA,7,0,FALSE
+"10012/2019C",4560,1,2019,2019-09-22,"M",16,2,"Moneragala","Moneragala","T-ALL","Bone marrow","Live",617,20,NA,16,0,FALSE
+"10038/2016C",3960,0,2016,2016-09-13,"M",4,10,"Puttalam","Nawagattegama","B-ALL","Bone marrow","Live",1396,45,NA,5,0,FALSE
+"10038/2021C",57000,1,2021,2021-11-17,"M",17,0,"Colombo","Homagama","T-ALL","Bone marrow","Live",736,24,NA,17,0,FALSE
+"10048/2020C",7950,0,2020,2020-10-25,"M",4,5,"Kurunegala","Ganewatta","B-ALL","Bone marrow","Death",48,1,2020-12-12,4,1,FALSE
+"10061/2023C",5400,0,2023,2023-09-21,"M",3,1,"Colombo","Kesbewa","B-ALL","Bone marrow","Live",0,0,NA,3,0,FALSE
+"10072/2019C",3130,1,2019,2019-09-23,"M",15,9,"Colombo","Kolonnawa","B-ALL","Bone marrow","Live",1109,36,NA,16,0,FALSE
+"10075/2018C",46000,0,2018,2018-09-17,"M",5,0,"Nuwara Eliya","Kothmale","B-ALL","Bone marrow","Live",1165,38,NA,5,0,FALSE
+"10095/2020C",438000,1,2020,2020-10-26,"F",11,10,"Colombo","Colombo","B-ALL","Bone marrow","Death",39,1,2020-12-04,12,1,FALSE
+"10098/2020C",918260,1,2020,2020-10-26,"M",9,9,"Gampaha","Dompe","B-ALL","Bone marrow","Death",0,0,2020-10-26,10,1,FALSE
+"10112/2017C",954000,1,2017,2017-09-29,"M",3,2,"Puttalam","Nattandiya","T-ALL","Bone marrow","Live",123,4,NA,3,0,FALSE
+"10113/2017C",1600,1,2017,2017-09-29,"M",18,3,"Colombo","Moratuwa","T-ALL","Bone marrow","Death",240,7,2018-05-27,18,1,FALSE
+"10117/2017C",259000,1,2017,2017-09-29,"M",15,5,"Anuradhapura","Thalawa","T-ALL","Bone marrow","Live",565,18,NA,15,0,FALSE
+"10124/2017C",65400,1,2017,2017-09-30,"M",3,0,"Galle","Benthota","B-ALL","Bone marrow","Live",2365,77,NA,3,0,FALSE
+"10124/2018C",6300,1,2018,2018-09-18,"M",16,8,"Puttalam","Chilaw","T-ALL","Ann Arbor's stage - iv","Death",56,1,2018-11-13,17,1,FALSE
+"10141/2022C",1130,1,2022,2022-10-12,"F",11,9,"Galle","Galle Four Gravets","B-ALL","Bone marrow","Live",292,9,NA,12,0,FALSE
+"10162/2016C",7050,0,2016,2016-09-16,"F",5,0,"Trincomalee","Kuchchaveli","B-ALL","Bone marrow","Live",389,12,NA,5,0,FALSE
+"10175/2016C",5300,0,2016,2016-09-17,"M",2,6,"Moneragala","Moneragala","B-ALL","Bone marrow","Live",2330,76,NA,3,0,FALSE
+"10176/2018C",12060,0,2018,2018-09-19,"F",3,0,"Ampara","Damana","B-ALL","Bone marrow","Live",1527,50,NA,3,0,FALSE
+"10197/2022C",18700,1,2022,2022-10-13,"F",1,10,"Gampaha","Katana","B-ALL","Bone marrow","Live",272,8,NA,2,0,FALSE
+"10216/2020C",14600,1,2020,2020-10-30,"M",16,4,"Kalutara","Kalutara","T-ALL","Bone marrow","Death",58,1,2020-12-27,16,1,FALSE
+"10217/2017C",15760,1,2017,2017-10-02,"M",1,8,"Kurunegala","Galgamuwa","B-ALL","Bone Marrow","Live",2418,79,NA,2,0,FALSE
+"10221/2020C",45110,0,2020,2020-10-30,"F",3,5,"Kalutara","Mathugama","B-ALL","Bone marrow","Live",867,28,NA,3,0,FALSE
+"10224/2020C",96440,1,2020,2020-10-30,"M",15,0,"Puttalam","Dankotuwa","T-ALL","Bone marrow","Live",400,13,NA,15,0,FALSE
+"10231/2020C",123000,1,2020,2020-11-01,"M",12,11,"Kurunegala","Galgamuwa","B-ALL","Bone marrow","Live",837,27,NA,13,0,FALSE
+"10251/2016C",7840,0,2016,2016-09-19,"M",3,4,"Gampaha","Divulapitiya","B-ALL","Bone Marrow","Live",2683,88,NA,3,0,FALSE
+"10258/2023C",3500,0,2023,2023-09-26,"M",2,4,"Gampaha","Kelaniya","B-ALL","Bone marrow","Live",253,8,NA,2,0,FALSE
+"10287/2018C",2040,1,2018,2018-09-21,"M",13,6,"Kurunegala","Mawathagama","B-ALL","Bone marrow","Live",1950,64,NA,14,0,FALSE
+"10290/2020C",800,0,2020,2020-11-03,"M",8,4,"Badulla","Hali-Ela","B-ALL","Bone marrow","Live",413,13,NA,8,0,FALSE
+"10292/2018C",1440,0,2018,2018-09-22,"F",7,7,"Anuradhapura","Palagala","B-ALL","Bone marrow","Live",2086,68,NA,8,0,FALSE
+"10305/2016C",10460,1,2016,2016-09-20,"M",8,6,"Gampaha","Minuwangoda","T-ALL","Bone marrow","Live",2774,91,NA,9,0,FALSE
+"10313/2020C",6000,1,2020,2020-11-04,"F",1,0,"Kurunegala","Kurunegala","B-ALL","Bone marrow","Live",855,28,NA,1,0,FALSE
+"10316/2022C",3330,1,2022,2022-10-17,"M",14,10,"Kalutara","Horana","B-ALL","Bone marrow","Live",297,9,NA,15,0,FALSE
+"10318/2017C",75410,1,2017,2017-10-04,"F",15,11,"Kalutara","Beruwala","T-ALL","Bone Marrow","Live",2232,73,NA,16,0,FALSE
+"10320/2017C",75331,0,2017,2017-10-04,"M",6,0,"Matara","Habaraduwa","B-ALL","Bone marrow","Death",47,1,2017-11-20,6,1,FALSE
+"10327/2017C",18000,0,2017,2017-10-04,"M",3,8,"Ampara","Damana","B-ALL","Bone marrow","Death",81,2,2017-12-24,4,1,FALSE
+"10327/2019C",51000,1,2019,2019-09-30,"M",19,1,"Kalutara","Horana","B-ALL","Bone marrow","Death",367,12,2020-10-01,19,1,FALSE
+"10328/2021C",31800,1,2021,2021-11-25,"F",18,0,"Gampaha","Mirigama","B-ALL","Bone marrow","Live",736,24,NA,18,0,FALSE
+"10350/2016C",12200,0,2016,2016-09-21,"M",8,6,"Kandy","Medadumbara","B-ALL","Bone marrow","Live",2339,76,NA,9,0,FALSE
+"10376/2022C",40380,0,2022,2022-10-18,"M",6,10,"Galle","Bope-Poddala","B-ALL","Bone marrow","Live",568,18,NA,7,0,FALSE
+"10378/2022C",17650,0,2022,2022-10-19,"F",5,1,"Kegalle","Kegalle","B-ALL","Bone marrow","Death",38,1,2022-11-26,5,1,FALSE
+"10380/2021C",5930,0,2021,2021-11-26,"F",5,9,"Kandy","Ganga Ihala Korale","B-ALL","Bone marrow","Live",557,18,NA,6,0,FALSE
+"10384/2021C",5640,1,2021,2021-11-27,"F",1,7,"Colombo","Hanwella","B-ALL","Bone marrow","Live",591,19,NA,2,0,FALSE
+"10385/2021C",12180,0,2021,2021-11-27,"M",4,11,"Gampaha","Gampaha","B-ALL","Bone marrow","Live",572,18,NA,5,0,FALSE
+"10393/2021C",74560,1,2021,2021-11-28,"M",12,6,"Matale","Galewela","B-ALL","Bone marrow","Live",583,19,NA,13,0,FALSE
+"10414/2016C",4300,0,2016,2016-09-22,"M",7,1,"Kalutara","Mathugama","B-ALL","Bone marrow","Live",1985,65,NA,7,0,FALSE
+"10420/2017C",23800,1,2017,2017-10-08,"M",1,7,"Kalutara","Panadura","B-ALL","Bone marrow","Live",1962,64,NA,2,0,FALSE
+"10420/2020C",6500,1,2020,2020-11-09,"M",1,7,"Gampaha","Attanagalla","B-ALL","Bone marrow","Live",1257,41,NA,2,0,FALSE
+"10444/2020C",1600,0,2020,2020-11-11,"M",9,0,"Trincomalee","Kuchchaveli","B-ALL","Bone marrow","Live",0,0,NA,9,0,FALSE
+"10459/2018C",8640,0,2018,2018-09-27,"F",5,1,"Kurunegala","Bingiriya","B-ALL","Bone marrow","Death",46,1,2018-11-12,5,1,FALSE
+"10466/2018C",3100,0,2018,2018-09-27,"F",8,1,"Gampaha","Kelaniya","B-ALL","Bone marrow","Live",2084,68,NA,8,0,FALSE
+"10468/2016C",87700,1,2016,2016-09-23,"M",5,3,"Matale","Ukuwela","T-ALL","Bone marrow","Live",440,14,NA,5,0,FALSE
+"10473/2018C",87610,1,2018,2018-09-27,"M",15,5,"Kalutara","Millaniya","B-ALL","Bone marrow","Death",3,0,2018-09-30,15,1,FALSE
+"10475/2023C",5080,0,2023,2023-10-03,"F",3,0,"Kegalle","Ruwanwella","B-ALL","Bone marrow","Death",37,1,2023-11-09,3,1,FALSE
+"10476/2020C",2700,0,2020,2021-11-01,"M",2,0,"Badulla","Mahiyanganaya","B-ALL","Bone marrow","Death",65,2,2022-01-04,2,1,FALSE
+"10525/2019C",3250,0,2019,2019-10-04,"M",5,10,"Mullaitivu","Oddusuddan","B-ALL","Bone marrow","Death",73,2,2019-12-16,6,1,FALSE
+"10534/2022C",1020,0,2022,2022-10-21,"F",7,1,"Gampaha","Gampaha","B-ALL","Bone marrow","Live",277,9,NA,7,0,FALSE
+"10550/2020C",5290,1,2020,2020-11-13,"F",16,1,"Ampara","Damana","B-ALL","Bone marrow","Live",286,9,NA,16,0,FALSE
+"10584/2022C",19900,0,2022,2022-10-25,"M",8,2,"Polonnaruwa","Elahera","B-ALL","Bone marrow","Live",258,8,NA,8,0,FALSE
+"10611/2021C",3690,1,2021,2021-12-02,"F",4,8,"Kegalle","Mawanella","T-ALL","Bone marrow","Live",580,19,NA,5,0,FALSE
+"10616/2021C",57080,1,2021,2021-12-02,"M",3,9,"Badulla","Bandarawela","T-ALL","Bone marrow","Live",572,18,NA,4,0,FALSE
+"10619/2018C",850,0,2018,2018-10-01,"F",4,4,"Gampaha","Mahara","B-ALL","Bone marrow","Live",2068,67,NA,4,0,FALSE
+"10625/2023C",47000,0,2023,2023-10-07,"F",2,2,"Hambantota","Tissamaharama","B-ALL","Bone marrow","Live",246,8,NA,2,0,FALSE
+"10629/2022C",2620,1,2022,2022-10-25,"M",13,3,"Matale","Matale","B-ALL","Bone marrow","Live",273,9,NA,13,0,FALSE
+"10631/2020C",231780,1,2020,2020-11-17,"M",4,3,"Ratnapura","Pelmadulla","B-ALL","Bone marrow","Live",1240,40,NA,4,0,FALSE
+"10633/2023C",4700,0,2023,2023-10-08,"M",2,2,"Kegalle","Bulathkohupitiya","B-ALL","Bone marrow","Live",234,7,NA,2,0,FALSE
+"10634/2021C",6300,0,2021,2021-12-03,"F",3,1,"Anuradhapura","Kahatagasdigiliya","B-ALL","Bone marrow","Live",383,12,NA,3,0,FALSE
+"10645/2016C",256360,1,2016,2016-09-28,"M",1,4,"Kurunegala","Polpithigama","B-ALL","Bone marrow","Live",765,25,NA,1,0,FALSE
+"10664/2020C",8730,0,2020,2020-11-19,"M",3,10,"Badulla","Hali-Ela","B-ALL","Bone marrow","Live",845,27,NA,4,0,FALSE
+"10667/2019C",4300,1,2019,2019-10-08,"M",10,7,"Kegalle","Kegalle","B-ALL","Bone marrow","Live",1248,41,NA,11,0,FALSE
+"10678/2021C",9400,0,2021,2021-12-05,"F",2,7,"Anuradhapura","Nuwaragam Palatha Central","B-ALL","Bone marrow","Live",569,18,NA,3,0,FALSE
+"10696/2022C",4500,1,2022,2022-10-26,"M",11,11,"Kalutara","Dodangoda","T-ALL","Bone marrow","Live",288,9,NA,12,0,FALSE
+"10713/2020C",75331,0,2020,2020-11-19,"M",3,0,"Kalutara","Ingiriya","B-ALL","Bone marrow","Death",76,2,2021-02-03,3,1,FALSE
+"10714/2020C",7000,1,2020,2020-11-19,"M",1,5,"Badulla","Hali-Ela","B-ALL","Bone marrow","Live",633,20,NA,1,0,FALSE
+"10721/2019C",75331,0,2019,2019-10-09,"M",4,6,"Trincomalee","Kinniya","B-ALL","Bone marrow","Live",1,0,NA,5,0,FALSE
+"10724/2020C",19000,1,2020,2020-11-20,"M",17,6,"Vavuniya","Vengalacheddikulam","B-ALL","Bone marrow","Live",248,8,NA,18,0,FALSE
+"10746/2020C",7000,1,2020,2020-11-21,"M",13,4,"Colombo","Colombo","T-ALL","Bone marrow","Live",852,28,NA,13,0,FALSE
+"10748/2020C",49480,0,2020,2020-11-22,"F",2,10,"Kurunegala","Pannala","B-ALL","Bone marrow","Live",830,27,NA,3,0,FALSE
+"10754/2016C",660000,1,2016,2016-10-02,"F",14,10,"Trincomalee","Kuchchaveli","B-ALL","Bone marrow","Death",1177,38,2019-12-23,15,1,FALSE
+"10763/2018C",7600,0,2018,2018-10-04,"M",5,3,"Ratnapura","Eheliyagoda","B-ALL","Bone marrow","Live",251,8,NA,5,0,FALSE
+"10770/2021C",1370,0,2021,2021-12-07,"M",2,7,"Ratnapura","Eheliyagoda","B-ALL","Bone marrow","Live",55,1,NA,3,0,FALSE
+"10783/2019C",22890,0,2019,2019-10-10,"M",5,10,"Galle","Galle Four Gravets","B-ALL","Bone marrow","Live",1217,39,NA,6,0,FALSE
+"10791/2016C",8700,1,2016,2016-10-03,"F",15,1,"Galle","Imaduwa","T-ALL","Bone marrow","Live",2240,73,NA,15,0,FALSE
+"10801/2022C",600,1,2022,2022-10-28,"M",14,6,"Galle","Akmeemana","B-ALL","Bone marrow","Live",553,18,NA,15,0,FALSE
+"10845/2019C",25000,1,2019,2019-10-12,"F",11,10,"Nuwara Eliya","Thalawakale","B-ALL","Bone marrow","Live",1614,53,NA,12,0,FALSE
+"10846/2021C",29290,0,2021,2021-12-08,"F",3,8,"Ampara","Akkaraipattu","B-ALL","Bone marrow","Live",863,28,NA,4,0,FALSE
+"10891/2021C",71330,1,2021,2021-12-09,"F",4,7,"Moneragala","Siyambalanduwa","B-ALL","Bone marrow","Live",454,14,NA,5,0,FALSE
+"10892/2023C",291210,0,2023,2023-10-15,"M",1,11,"Kalutara","Walallavita","B-ALL","Bone marrow","Live",120,3,NA,2,0,FALSE
+"10895/2018C",652000,1,2018,2018-10-08,"M",2,8,"Kalutara","Horana","T-ALL","Bone marrow","Live",2052,67,NA,3,0,FALSE
+"10898/2017C",19980,1,2017,2017-10-19,"M",7,0,"Kurunegala","Polpithigama","T-ALL","Bone marrow","Live",1238,40,NA,7,0,FALSE
+"10901/2017C",39000,1,2017,2017-10-20,"M",14,8,"Batticaloa","Kattankudy","B-ALL","Bone Marrow","Live",798,26,NA,15,0,FALSE
+"10905/2022C",27080,1,2022,2022-11-01,"M",1,3,"Matara","Dickwella","B-ALL","Bone marrow","Live",268,8,NA,1,0,FALSE
+"10913/2022C",36000,0,2022,2022-11-01,"F",4,5,"Matale","Matale","B-ALL","Bone marrow","Live",567,18,NA,4,0,FALSE
+"10927/2016C",7600,0,2016,2016-10-06,"M",8,5,"Galle","Elpitiya","B-ALL","Bone Marrow","Live",2393,78,NA,8,0,FALSE
+"10934/2021C",16740,0,2021,2021-12-11,"M",3,1,"Vavuniya","Vavuniya","B-ALL","Bone marrow","Live",562,18,NA,3,0,FALSE
+"10936/2020C",7780,1,2020,2020-11-27,"F",15,0,"Kurunegala","Mahawa","B-ALL","Bone marrow","Live",825,27,NA,15,0,FALSE
+"10940/2021C",10110,1,2021,2021-12-11,"M",3,10,"Batticaloa","Manmunai South & Eruvil Pattu","T-ALL","Bone marrow","Live",563,18,NA,4,0,FALSE
+"10942/2021C",85670,1,2021,2021-12-11,"M",0,4,"Trincomalee","Trincomalee","B-ALL","Bone marrow","Live",423,13,NA,0,0,FALSE
+"10944/2021C",2500,0,2021,2021-12-11,"M",5,1,"Gampaha","Katana","B-ALL","Bone marrow","Live",579,19,NA,5,0,FALSE
+"10945/2020C",12580,0,2020,2020-11-29,"F",8,0,"Gampaha","Negombo","B-ALL","Bone marrow","Live",837,27,NA,8,0,FALSE
+"10951/2017C",9836,1,2017,2017-10-20,"F",12,2,"Matale","Galewela","B-ALL","Bone marrow","Death",44,1,2017-12-03,12,1,FALSE
+"10956/2017C",13550,1,2017,2017-10-20,"M",11,3,"Trincomalee","Thambalagamuwa","T-ALL","Bone Marrow","Live",875,28,NA,11,0,FALSE
+"10971/2019C",3300,1,2019,2019-10-15,"M",17,10,"Kalutara","Bandaragama","B-ALL","Bone marrow","Live",1247,41,NA,18,0,FALSE
+"10972/2019C",5500,1,2019,2019-10-15,"F",2,0,"Nuwara Eliya","Thalawakale","T-ALL","Bone marrow","Death",49,1,2019-12-03,2,1,FALSE
+"10978/2018C",33500,0,2018,2018-10-10,"F",3,3,"Trincomalee","Kinniya","B-ALL","Bone marrow","Live",738,24,NA,3,0,FALSE
+"10982/2022C",6520,1,2022,2022-11-03,"M",3,1,"Badulla","Welimada","T-ALL","Bone marrow","Live",209,6,NA,3,0,FALSE
+"10983/2016C",220000,1,2016,2016-10-06,"M",18,1,"Badulla","Haputale","T-ALL","Bone marrow","Death",248,8,2017-06-11,18,1,FALSE
+"10987/2021C",1820,0,2021,2021-12-13,"M",9,2,"Kurunegala","Galgamuwa","B-ALL","Bone marrow","Live",442,14,NA,9,0,FALSE
+"10988/2021C",21770,1,2021,2022-05-22,"M",14,7,"Kalutara","Beruwala","B-ALL","Bone marrow","Death",0,0,2022-05-22,15,1,FALSE
+"10989/2021C",4750,0,2021,2021-12-13,"F",4,5,"Moneragala","Katharagama","B-ALL","Bone marrow","Live",884,29,NA,4,0,FALSE
+"11008/2020C",5400,0,2020,2020-12-01,"F",2,5,"Hambantota","Tissamaharama","B-ALL","Bone marrow","Live",1226,40,NA,2,0,FALSE
+"11042/2018C",10800,0,2018,2018-10-01,"F",6,7,"Colombo","Colombo","B-ALL","Bone marrow","Live",1116,36,NA,7,0,FALSE
+"11057/2022C",24950,0,2022,2022-11-05,"M",3,0,"Batticaloa","Manmunai North","B-ALL","Bone marrow","Live",262,8,NA,3,0,FALSE
+"11058/2022C",5100,1,2022,2022-11-05,"F",12,2,"Matale","Ukuwela","B-ALL","Bone marrow","Live",257,8,NA,12,0,FALSE
+"11063/2020C",6080,0,2020,2020-12-02,"M",7,11,"Hambantota","Ambalantota","B-ALL",NA,"Live",832,27,NA,8,0,FALSE
+"11069/2021C",18700,0,2021,2021-12-15,"M",2,3,"Kandy","Minipe","B-ALL","Bone marrow","Live",568,18,NA,2,0,FALSE
+"11078/2018C",2660,0,2018,2018-10-12,"M",7,11,"Colombo","Kaduwela","B-ALL","Bone marrow","Live",2016,66,NA,8,0,FALSE
+"11078/2022C",278000,1,2022,2022-11-07,"M",14,9,"Galle","Thawalama","B-ALL","Bone marrow","Live",22,0,NA,15,0,FALSE
+"11093/2021C",9960,0,2021,2021-12-15,"F",2,11,"Kalutara","Beruwala","B-ALL","Bone marrow","Live",559,18,NA,3,0,FALSE
+"11094/2021C",118400,1,2021,2021-12-15,"M",19,8,"Gampaha","Mirigama","T-ALL","Bone marrow","Death",7,0,2021-12-22,20,1,FALSE
+"11142/2017C",3200,0,2017,2017-10-26,"M",3,0,"Kandy","Pathadumbara","B-ALL","Bone marrow","Live",154,5,NA,3,0,FALSE
+"11144/2019C",2600,0,2019,2019-10-19,"M",4,1,"Colombo","Colombo","B-ALL","Bone marrow","Live",263,8,NA,4,0,FALSE
+"11145/2019C",80000,1,2019,2019-10-19,"M",1,11,"Kurunegala","Pannala","B-ALL","Bone marrow","Live",1227,40,NA,2,0,FALSE
+"11157/2021C",5000,0,2021,2021-12-17,"F",4,8,"Kandy","Minipe","B-ALL","Bone marrow","Live",565,18,NA,5,0,FALSE
+"11182/2017C",4000,0,2017,2017-10-26,"M",3,1,"Puttalam","Puttalam","B-ALL","Bone marrow","Live",1973,64,NA,3,0,FALSE
+"11214/2021C",56900,1,2021,2021-12-18,"F",1,11,"Galle","Akmeemana","B-ALL","Bone marrow","Live",446,14,NA,2,0,FALSE
+"11228/2017C",1820,1,2017,2017-10-27,"M",10,6,"Puttalam","Puttalam","B-ALL","Bone marrow","Live",2296,75,NA,11,0,FALSE
+"11235/2019C",66930,1,2019,2019-10-22,"F",7,7,"Ampara","Sainthamarathu","T-ALL","Bone marrow","Live",251,8,NA,8,0,FALSE
+"11242/2022C",23500,0,2022,2022-11-10,"M",7,0,"Galle","Nagoda","B-ALL","Bone marrow","Live",255,8,NA,7,0,FALSE
+"11279/2018C",3910,0,2018,2018-10-17,"F",5,8,"Anuradhapura","Kekirawa","B-ALL","Bone marrow","Live",1587,52,NA,6,0,FALSE
+"11281/2022C",4260,1,2022,2022-11-11,"M",1,11,"Puttalam","Arachchikattuwa","B-ALL","Bone marrow","Live",258,8,NA,2,0,FALSE
+"11282/2019C",151000,1,2019,2019-10-23,"F",1,10,"Jaffna","Valikamam-East (Kopayi)","T-ALL","Bone marrow","Live",933,30,NA,2,0,FALSE
+"11289/2022C",40720,0,2022,2022-11-11,"M",3,6,"Kalutara","Beruwala","B-ALL","Bone marrow","Live",293,9,NA,4,0,FALSE
+"11292/2016C",82900,1,2016,2016-10-14,"M",7,4,"Badulla","Bandarawela","T-ALL","Bone marrow","Live",564,18,NA,7,0,FALSE
+"11292/2022C",6680,1,2022,2022-11-11,"M",15,6,"Matara","Devinuwara","B-ALL","Bone marrow","Live",143,4,NA,16,0,FALSE
+"11295/2016C",1330,1,2016,2016-10-15,"M",9,4,"Moneragala","Wellawaya","T-ALL","Bone marrow","Live",2175,71,NA,9,0,FALSE
+"11296/2016C",1520,1,2016,2016-10-15,"M",11,11,"Moneragala","Bibile","B-ALL","Bone marrow","Live",1230,40,NA,12,0,FALSE
+"11320/2017C",458000,1,2017,2017-10-30,"M",14,1,"Gampaha","Attanagalla","T-ALL","Bone Marrow","Death",4,0,2017-11-03,14,1,FALSE
+"11327/2021C",44360,1,2021,2021-12-21,"F",8,1,"Colombo","Kolonnawa","T-ALL","Bone marrow","Live",871,28,NA,8,0,FALSE
+"11328/2020C",75331,1,2020,2020-12-11,"F",12,7,"Kurunegala","Wariyapola","T-ALL","Bone marrow","Live",211,6,NA,13,0,FALSE
+"11332/2020C",5890,0,2020,2020-12-12,"F",9,4,"Puttalam","Madampe","B-ALL","Bone marrow","Live",226,7,NA,9,0,FALSE
+"11359/2017C",12500,0,2017,2017-10-31,"F",2,10,"Gampaha","Gampaha","B-ALL","Bone marrow","Live",1854,60,NA,3,0,FALSE
+"11404/2018C",4160,1,2018,2018-10-20,"M",1,11,"Gampaha","Ja-Ela","B-ALL","Bone marrow","Death",59,1,2018-12-18,2,1,FALSE
+"11407/2018C",112960,1,2018,2018-10-20,"M",2,2,"Gampaha","Mahara","B-ALL","Bone marrow","Live",2056,67,NA,2,0,FALSE
+"11410/2020C",3500,1,2020,2020-12-15,"M",13,5,"Nuwara Eliya","Nuwara Eliya","B-ALL","Bone marrow","Live",1228,40,NA,13,0,FALSE
+"11416/2018C",669000,1,2018,2018-10-21,"M",14,1,"Colombo","Sri Jayawardanapura Kotte","T-ALL","Bone marrow","Live",904,29,NA,14,0,FALSE
+"11419/2022C",33340,1,2022,2022-11-15,"M",7,8,"Matara","Thihagoda","T-ALL","Bone marrow","Live",540,17,NA,8,0,FALSE
+"11433/2019C",3230,1,2019,2019-10-25,"M",1,11,"Ratnapura","Pelmadulla","B-ALL","Bone marrow","Live",1244,40,NA,2,0,FALSE
+"11442/2016C",17300,0,2016,2016-10-18,"M",2,0,"Kandy","Udapalatha","B-ALL","Bone marrow","Live",2311,75,NA,2,0,FALSE
+"11460/2019C",47550,0,2019,2019-10-27,"F",4,4,"Badulla","Mahiyanganaya","B-ALL","Bone marrow","Live",1242,40,NA,4,0,FALSE
+"11461/2019C",30840,0,2019,2019-10-27,"M",2,3,"Kalutara","Horana","B-ALL","Bone marrow","Live",1242,40,NA,2,0,FALSE
+"11472/2021C",11030,0,2021,2021-12-26,"M",4,2,"Kurunegala","Kurunegala","B-ALL","Bone marrow","Live",534,17,NA,4,0,FALSE
+"11483/2017C",4300,1,2017,2017-11-02,"F",1,5,"Gampaha","Biyagama","B-ALL","Bone Marrow","Live",2378,78,NA,1,0,FALSE
+"11486/2017C",19350,0,2017,2017-11-02,"M",3,5,"Kandy","Kandy Four Gravets & Gangawata Korale","B-ALL","Bone marrow","Live",1806,59,NA,3,0,FALSE
+"11510/2022C",3600,1,2022,2022-11-17,"F",14,9,"Jaffna","Valikamam-East (Kopayi)","T-ALL","Bone marrow","Death",52,1,2023-01-08,15,1,FALSE
+"11523/2021C",7850,0,2021,2021-12-27,"M",5,4,"Ratnapura","Opanayaka","B-ALL","Bone marrow","Live",561,18,NA,5,0,FALSE
+"11536/2020C",4300,1,2020,2020-12-19,"M",11,3,"Ampara","Akkaraipattu","T-ALL","Bone marrow","Live",804,26,NA,11,0,FALSE
+"11547/2018C",16910,1,2018,2018-10-23,"M",10,11,"Colombo","Sri Jayawardanapura Kotte","T-ALL","Bone marrow","Live",717,23,NA,11,0,FALSE
+"11552/2020C",28000,1,2020,2020-12-20,"M",16,1,"Hambantota","Tissamaharama","T-ALL","Bone marrow","Live",829,27,NA,16,0,FALSE
+"11561/2019C",17400,1,2019,2019-10-29,"F",1,2,"Colombo","Kaduwela","B-ALL","Bone marrow","Live",881,28,NA,1,0,FALSE
+"11567/2022C",4190,0,2022,2022-11-19,"M",4,9,"Colombo","Hanwella","B-ALL","Bone marrow","Live",221,7,NA,5,0,FALSE
+"11568/2022C",22760,1,2022,2022-11-19,"F",1,11,"Kalutara","Agalawatta","B-ALL","Bone marrow","Live",202,6,NA,2,0,FALSE
+"11573/2017C",1440,0,2017,2017-11-06,"F",8,8,"Moneragala","Moneragala","B-ALL","Bone marrow","Live",1452,47,NA,9,0,FALSE
+"11609/2021C",3930,1,2021,2021-12-29,"M",14,8,"Galle","Akmeemana","B-ALL","Bone marrow","Live",442,14,NA,15,0,FALSE
+"11615/2021C",26800,0,2021,2021-12-30,"M",2,8,"Galle","Niyagama","B-ALL","Bone marrow","Live",560,18,NA,3,0,FALSE
+"11625/2020C",72530,1,2020,2020-12-22,"M",8,11,"Hambantota","Hambantota","T-ALL","Bone marrow","Live",541,17,NA,9,0,FALSE
+"11631/2022C",19890,0,2022,2022-11-21,"M",2,1,"Colombo","Maharagama","B-ALL","Bone marrow","Live",228,7,NA,2,0,FALSE
+"11632/2022C",23000,1,2022,2022-11-21,"F",1,9,"Badulla","Mahiyanganaya","B-ALL","Bone marrow","Live",248,8,NA,2,0,FALSE
+"11651/2018C",88060,1,2018,2018-10-26,"M",3,5,"Colombo","Dehiwala-Mount Lavinia","B-ALL","Bone marrow","Live",2043,67,NA,3,0,FALSE
+"11662/2021C",9270,0,2021,2021-12-30,"F",3,10,"Kandy","Pasbage Korale","B-ALL","Bone marrow","Live",538,17,NA,4,0,FALSE
+"11665/2017C",3230,0,2017,2017-11-08,"F",4,6,"Kalutara","Beruwala","B-ALL","Bone marrow","Live",1597,52,NA,5,0,FALSE
+"11671/2018C",677780,1,2018,2018-10-28,"M",2,3,"Moneragala","Sevanagala","T-ALL","Bone marrow","Live",936,30,NA,2,0,FALSE
+"11696/2023C",6500,1,2023,2023-11-03,"M",10,10,"Moneragala","Medagama","B-ALL","Bone marrow","Live",215,7,NA,11,0,FALSE
+"11702/2019C",14760,0,2019,2019-11-02,"M",6,8,"Kalutara","Horana","B-ALL","Bone marrow","Live",1223,40,NA,7,0,FALSE
+"11704/2017C",9500,1,2017,2017-01-09,"F",10,0,"Kalutara","Mathugama","B-ALL","Bone marrow","Live",2165,71,NA,10,0,FALSE
+"11705/2023C",58220,0,2023,2023-11-05,"M",7,4,"Jaffna","Valikamam-East(kopayi)","B-ALL","Bone marrow","Live",213,7,NA,7,0,FALSE
+"11713/2016C",82000,1,2016,2016-10-24,"F",3,7,"Hambantota","Ambalantota","B-ALL","Bone marrow","Death",114,3,2017-02-15,4,1,FALSE
+"11738/2022C",7740,0,2022,2022-11-23,"M",2,10,"Gampaha","Attanagalla","B-ALL","Bone marrow","Live",230,7,NA,3,0,FALSE
+"11742/2018C",73000,1,2018,2018-10-29,"F",16,3,"Gampaha","Katana","B-ALL","Bone marrow","Death",35,1,2018-12-03,16,1,FALSE
+"11769/2019C",7860,1,2019,2019-11-04,"F",16,4,"Colombo","Hanwella","B-ALL","Bone marrow","Live",1177,38,NA,16,0,FALSE
+"11771/2017C",10600,1,2017,2017-11-11,"M",9,8,"Trincomalee","Kuchchaveli","T-ALL","Bone marrow","Live",1957,64,NA,10,0,FALSE
+"11782/2017C",2450,1,2017,2017-11-12,"M",14,9,"Galle","Rathgama","B-ALL","Bone marrow","Live",1921,63,NA,15,0,FALSE
+"11786/2022C",6000,0,2022,2022-11-24,"M",3,5,"Gampaha","Attanagalla","B-ALL","Bone marrow","Live",237,7,NA,3,0,FALSE
+"11821/2019C",251000,1,2019,2019-11-05,"M",14,10,"Gampaha","Katana","T-ALL","Bone marrow","Live",1613,53,NA,15,0,FALSE
+"11822/2020C",1190,0,2020,2020-12-31,"F",6,11,"Trincomalee","Kantalai","B-ALL","Bone marrow","Live",1196,39,NA,7,0,FALSE
+"11830/2023C",1190,1,2023,2023-11-08,"M",19,2,"Kurunegala","Ambanpola","T-ALL","Bone marrow","Death",25,0,2023-12-03,19,1,FALSE
+"11833/2018C",62000,1,2018,2018-10-31,"M",14,4,"Kurunegala","Panduwasnuwara","T-ALL","Bone marrow","Live",1566,51,NA,14,0,FALSE
+"11834/2022C",9270,0,2022,2022-11-26,"F",3,10,"Puttalam","Dankotuwa","B-ALL","Bone marrow","Death",33,1,2022-12-29,4,1,FALSE
+"11836/2022C",7500,0,2022,2022-11-27,"M",2,5,"Anuradhapura","Nuwaragam Palatha Central","B-ALL","Bone marrow","Live",226,7,NA,2,0,FALSE
+"11840/2018C",13300,0,2018,2018-10-31,"M",3,11,"Anuradhapura","Nuwaragam Palatha East","B-ALL","Bone marrow","Live",1159,38,NA,4,0,FALSE
+"11843/2017C",6580,0,2017,2017-11-13,"F",5,3,"Kandy","Thumpane","B-ALL","Bone marrow","Live",1844,60,NA,5,0,FALSE
+"11844/2017C",11480,0,2017,2017-11-13,"F",6,10,"Kandy","Medadumbara","B-ALL","Bone marrow","Live",983,32,NA,7,0,FALSE
+"11866/2019C",1870,0,2019,2019-11-07,"F",9,1,"Batticaloa","Manmunai West","B-ALL","Bone marrow","Live",1208,39,NA,9,0,FALSE
+"11937/2023C",45000,1,2023,2023-11-10,"M",10,0,"Mannar","Manthai West","T-ALL","Bone marrow","Live",101,3,NA,10,0,FALSE
+"11941/2018C",21830,0,2018,2018-11-03,"M",9,11,"Matara","Four Gravets","B-ALL","Bone marrow","Live",2035,66,NA,10,0,FALSE
+"11941/2022C",1330,1,2022,2022-11-29,"F",10,10,"Kalutara","Kalutara","B-ALL","Bone marrow","Death",28,0,2022-12-27,11,1,FALSE
+"11942/2018C",12670,0,2018,2018-11-03,"M",4,1,"Kalutara","Bandaragama","B-ALL","Bone marrow","Live",1991,65,NA,4,0,FALSE
+"11973/2019C",5000,0,2019,2019-11-08,"M",3,6,"Kurunegala","Panduwasnuwara","B-ALL","Bone marrow","Live",1533,50,NA,4,0,FALSE
+"11975/2017C",114000,1,2017,2017-11-15,"M",12,4,"Colombo","Colombo","T-ALL","Bone marrow","Live",1561,51,NA,12,0,FALSE
+"11992/2022C",10400,0,2022,2022-11-30,"F",2,2,"Kurunegala","Mawathagama","B-ALL","Bone marrow","Live",239,7,NA,2,0,FALSE
+"12006/2018C",20600,1,2018,2018-11-05,"F",9,0,"Galle","Karandeniya","T-ALL","Bone marrow","Death",2,0,2018-11-09,9,1,FALSE
+"12007/2016C",15320,0,2016,2016-10-31,"M",3,11,"Kandy","Udapalatha","B-ALL","Bone marrow","Live",1205,39,NA,4,0,FALSE
+"12020/2017C",3070,0,2017,2017-11-16,"F",6,5,"Kalutara","Mathugama","B-ALL","Bone Marrow","Live",2203,72,NA,6,0,FALSE
+"12070/2016C",5140,1,2016,2016-11-02,"M",18,8,"Ampara","Akkaraipattu","B-ALL","Bone marrow","Live",1953,64,NA,19,0,FALSE
+"12080/2019C",135000,1,2019,2019-11-12,"M",15,0,"Colombo","Kaduwela","T-ALL","Bone marrow","Live",1324,43,NA,15,0,FALSE
+"12082/2022C",13890,0,2022,2022-12-03,"M",2,9,"Trincomalee","Kantalai","B-ALL","Bone marrow","Live",489,16,NA,3,0,FALSE
+"12089/2022C",1470,1,2022,2022-12-05,"F",8,5,"Ampara","Samanthurai","T-ALL","Bone marrow","Live",235,7,NA,8,0,FALSE
+"12094/2017C",135650,1,2017,2017-11-19,"F",3,4,"Hambantota","Walasmulla","B-ALL","Bone Marrow","Live",2375,78,NA,3,0,FALSE
+"12118/2016C",28700,0,2016,2016-11-02,"M",4,6,"Gampaha","Gampaha","B-ALL","Bone marrow","Live",2701,88,NA,5,0,FALSE
+"12146/2022C",1960,0,2022,2022-12-05,"F",8,3,"Kandy","Harispattuwa","B-ALL","Bone marrow","Death",28,0,2023-01-02,8,1,TRUE
+"12154/2022C",23860,1,2022,2022-12-05,"F",14,2,"Colombo","Kesbewa","B-ALL","Bone marrow","Death",41,1,2023-01-15,14,1,FALSE
+"12160/2016C",8200,0,2016,2016-11-03,"M",4,4,"Trincomalee","Thambalagamuwa","B-ALL","Bone marrow","Live",1421,46,NA,4,0,FALSE
+"12175/2018C",28870,0,2018,2018-11-09,"M",3,7,"Puttalam","Mundalama","B-ALL","Bone marrow","Live",1904,62,NA,4,0,FALSE
+"12176/2018C",5190,0,2018,2018-11-09,"F",4,8,"Galle","Karandeniya","B-ALL","Bone marrow","Live",2015,66,NA,5,0,FALSE
+"12191/2022C",12780,1,2022,2022-12-06,"M",11,2,"Kandy","Thumpane","B-ALL","Bone marrow","Live",4,0,NA,11,0,FALSE
+"12198/2017C",17000,0,2017,2017-11-21,"M",2,0,"Anuradhapura","Palagala","B-ALL","Bone Marrow","Live",2207,72,NA,2,0,FALSE
+"12218/2019C",1960,1,2019,2019-11-16,"F",12,8,"Ampara","Thirukkovil","B-ALL","Bone marrow","Live",982,32,NA,13,0,FALSE
+"12229/2022C",6060,0,2022,2022-12-07,"F",2,7,"Kandy","Pathadumbara","B-ALL","Bone marrow","Live",526,17,NA,3,0,FALSE
+"12232/2022C",19000,1,2022,2022-12-07,"M",15,7,"Kalutara","Bulathsinhala","B-ALL","Bone marrow","Live",236,7,NA,16,0,FALSE
+"12240/2023C",2220,0,2023,2023-11-18,"F",4,7,"Gampaha","Kelaniya","B-ALL","Bone marrow","Live",96,3,NA,5,0,FALSE
+"12253/2018C",33760,1,2018,2018-11-12,"M",10,11,"Colombo","Hanwella","T-ALL","Bone marrow","Live",77,2,NA,11,0,FALSE
+"12290/2017C",5820,0,2017,2017-11-23,"M",4,3,"Kandy","Udapalatha","B-ALL","Bone Marrow","Live",1134,37,NA,4,0,FALSE
+"12300/2017C",98000,1,2017,2017-11-23,"M",3,3,"Gampaha","Biyagama","B-ALL","Bone marrow","Live",788,25,NA,3,0,FALSE
+"12312/2022C",23950,0,2022,2022-12-09,"M",5,4,"Galle","Benthota","B-ALL","Bone marrow","Live",511,16,NA,5,0,FALSE
+"12325/2019C",12400,0,2019,2019-11-19,"M",4,11,"Gampaha","Divulapitiya","B-ALL","Bone marrow","Live",1212,39,NA,5,0,FALSE
+"12329/2022C",45000,1,2022,2022-12-11,"M",11,5,"Vavuniya","Vavuniya","B-ALL","Bone marrow","Live",228,7,NA,11,0,FALSE
+"12339/2016C",9340,0,2016,2016-11-07,"F",5,1,"Puttalam","Anamaduwa","B-ALL","Bone marrow","Live",2528,83,NA,5,0,FALSE
+"12340/2023C",915800,1,2023,2023-11-21,"F",15,1,"Gampaha","Kelaniya","B-ALL","Bone marrow","Death",1,0,2023-11-22,15,1,FALSE
+"12360/2018C",6220,0,2018,2018-11-14,"M",4,1,"Kurunegala","Galgamuwa","B-ALL","Bone marrow","Death",39,1,2018-12-23,4,1,FALSE
+"12372/2016C",75331,1,2016,2017-11-26,"F",1,0,NA,NA,"B-ALL","Bone marrow","Death",2,0,2017-11-28,1,1,FALSE
+"12372/2017C",875880,1,2017,2017-11-26,"F",0,1,"Colombo","Colombo","B-ALL","Bone marrow","Death",2,0,2017-11-28,0,1,FALSE
+"12384/2022C",16680,0,2022,2022-12-12,"M",5,5,"Gampaha","Biyagama","B-ALL","Bone marrow","Death",70,2,2023-02-20,5,1,FALSE
+"12388/2022C",2150,1,2022,2022-12-12,"M",12,2,"Kandy","Pathahewaheta","B-ALL","Bone marrow","Live",220,7,NA,12,0,FALSE
+"12422/2018C",30320,1,2018,2018-11-16,"F",8,4,"Batticaloa","Batticaloa","T-ALL","Bone marrow","Live",1488,48,NA,8,0,FALSE
+"12439/2022C",9000,0,2022,2022-12-13,"F",7,2,"Ratnapura","Balangoda","B-ALL","Bone marrow","Live",240,7,NA,7,0,FALSE
+"12442/2023C",10600,1,2023,2023-11-23,"F",16,1,"Colombo","Kesbewa","T-ALL","Bone marrow","Live",88,2,NA,16,0,FALSE
+"12472/2022C",48420,0,2022,2022-12-14,"M",5,7,"Anuradhapura","Galenbindunuwewa","B-ALL","Bone marrow","Live",221,7,NA,6,0,FALSE
+"12501/2018C",31000,0,2018,2018-11-18,"F",5,4,"Puttalam","Chilaw","B-ALL","Bone marrow","Live",1492,49,NA,5,0,FALSE
+"12502/2018C",30000,1,2018,2018-11-19,"M",12,0,"Kandy","Udapalatha","B-ALL","Bone marrow","Live",1389,45,NA,12,0,FALSE
+"12521/2017C",3320,1,2017,2017-11-29,"M",11,6,"Galle","Elpitiya","B-ALL","Bone marrow","Death",47,1,2018-01-15,12,1,FALSE
+"12569/2017C",3100,1,2017,2017-12-01,"M",11,9,"Gampaha","Kelaniya","B-ALL","Bone Marrow","Live",2274,74,NA,12,0,FALSE
+"12571/2017C",6400,0,2017,2017-12-01,"M",8,7,"Gampaha","Minuwangoda","B-ALL","Bone marrow","Live",1881,61,NA,9,0,FALSE
+"12575/2017C",98900,1,2017,2017-12-02,"M",4,11,"Moneragala","Mahiyanganaya","T-ALL","Bone marrow","Live",1544,50,NA,5,0,FALSE
+"12582/2019C",1930,0,2019,2019-11-26,"M",4,11,"Ampara","Kalmunai","B-ALL","Bone marrow","Live",420,13,NA,5,0,FALSE
+"12594/2016C",230000,1,2016,2016-11-15,"M",15,11,"Gampaha","Mirigama","T-ALL","Bone marrow","Live",2309,75,NA,16,0,FALSE
+"12596/2016C",6900,0,2016,2016-11-15,"F",2,5,"Kalutara","Bandaragama","B-ALL","Bone marrow","Live",2585,84,NA,2,0,FALSE
+"12631/2019C",2910,1,2019,2019-11-26,"M",15,5,"Colombo","Sri Jayawardanapura Kotte","B-ALL","Bone marrow","Live",541,17,NA,15,0,FALSE
+"12635/2016C",19300,0,2016,2016-11-16,"M",4,5,"Badulla","Bandarawela","B-ALL","Bone marrow","Live",1346,44,NA,4,0,FALSE
+"12635/2019C",2160,0,2019,2019-11-26,"M",4,5,"Trincomalee","Kinniya","B-ALL","Bone marrow","Live",1211,39,NA,4,0,FALSE
+"12694/2018C",11560,1,2018,2018-11-24,"M",13,9,"Jaffna","Valikamam South (Uduvil)","B-ALL","Bone marrow","Death",436,14,2020-02-03,14,1,FALSE
+"12699/2018C",5100,1,2018,2018-11-24,"M",3,2,"Kandy","Kundasale","T-ALL","Bone marrow","Live",1847,60,NA,3,0,FALSE
+"12718/2017C",240000,1,2017,2017-12-06,"F",3,7,"Gampaha","Minuwangoda","B-ALL","Bone Marrow","Death",0,0,2017-12-06,4,1,FALSE
+"12740/2023C",5400,0,2023,2023-12-02,"M",4,9,"Kegalle","Mawanella","B-ALL","Bone marrow","Live",188,6,NA,5,0,FALSE
+"12831/2018C",17120,0,2018,2018-12-21,"M",2,8,"Gampaha","Katana","B-ALL","Bone marrow","Death",4,0,2018-12-25,3,1,FALSE
+"12844/2016C",85940,1,2016,2016-11-21,"M",4,7,"Badulla","Hali-Ela","B-ALL","Bone marrow","Live",1310,43,NA,5,0,FALSE
+"12863/2023C",735680,1,2023,2023-12-05,"M",10,0,"Kalutara","Beruwala","T-ALL","Bone marrow","Death",3,0,2023-12-08,10,1,FALSE
+"12873/2022C",24100,1,2022,2022-12-23,"F",13,6,"Galle","Galle","B-ALL","Bone marrow","Live",202,6,NA,14,0,FALSE
+"12879/2018C",2900,0,2018,2018-11-28,"M",8,0,"Kegalle","Deraniyagala","B-ALL","Bone marrow","Live",1531,50,NA,8,0,FALSE
+"12879/2022C",6960,0,2022,2022-12-24,"M",5,7,"Moneragala","Bibile","B-ALL","Bone marrow","Live",227,7,NA,6,0,FALSE
+"12880/2018C",133700,1,2018,2018-11-28,"M",2,2,"Colombo","Thimbirigasyaya","T-ALL","Bone marrow","Live",1224,40,NA,2,0,FALSE
+"12907/2023C",54320,1,2023,2023-12-06,"M",4,8,"Kalutara","Bulathsinhala","B-ALL","Bone marrow","Live",75,2,NA,5,0,FALSE
+"12909/2023C",4330,1,2023,2024-01-24,"F",12,6,"Puttalam","Chilaw","B-ALL","Bone marrow","Live",0,0,NA,13,0,FALSE
+"12921/2022C",3590,0,2022,2022-12-27,"F",7,7,"Jaffna","Valikamam South (Uduvil)","B-ALL","Bone marrow","Live",181,5,NA,8,0,FALSE
+"12963/2022C",81030,1,2022,2022-12-27,"M",13,2,"Gampaha","Katana","T-ALL","Bone marrow","Live",505,16,NA,13,0,FALSE
+"12969/2022C",1160,0,2022,2022-12-27,"F",4,1,"Kalutara","Panadura","B-ALL","Bone marrow","Death",37,1,2023-02-02,4,1,FALSE
+"12977/2019C",7600,0,2019,2019-12-04,"M",3,8,"Matara","Thihagoda","B-ALL","Bone marrow","Live",1189,39,NA,4,0,FALSE
+"12979/2019C",10300,0,2019,2019-12-04,"F",7,4,"Kurunegala","Rideegama","B-ALL","Bone marrow","Live",1163,38,NA,7,0,FALSE
+"12987/2018C",123400,1,2018,2018-11-30,"M",3,1,"Anuradhapura","Kekirawa","B-ALL","Bone marrow","Live",535,17,NA,3,0,FALSE
+"12991/2018C",36960,0,2018,2018-11-30,"M",3,8,"Kurunegala","Galgamuwa","B-ALL","Bone marrow","Live",2008,66,NA,4,0,FALSE
+"12994/2018C",65690,1,2018,2018-11-30,"M",3,2,"Kurunegala","Kotavehera","B-ALL","Bone marrow","Live",1096,36,NA,3,0,FALSE
+"13021/2023C",3420,0,2023,2023-12-09,"M",3,6,"Puttalam","Puttalam","B-ALL","Bone marrow","Live",73,2,NA,4,0,FALSE
+"13066/2022C",26000,0,2022,2022-12-29,"M",3,5,"Kurunegala","Ibbagamuwa","B-ALL","Bone marrow","Live",235,7,NA,3,0,FALSE
+"13068/2022C",25480,0,2022,2022-12-29,"M",5,11,"Colombo","Ratmalana","B-ALL","Bone marrow","Live",176,5,NA,6,0,FALSE
+"13069/2018C",5800,0,2018,2018-12-03,"F",8,9,"Kurunegala","Polpithigama","B-ALL","Bone marrow","Live",1755,57,NA,9,0,FALSE
+"13088/2023C",47280,1,2023,2023-12-11,"M",11,10,"Ratnapura","Balangoda","T-ALL","Bone marrow","Death",57,1,2024-02-06,12,1,FALSE
+"13097/2017C",5260,1,2017,2017-12-16,"M",13,7,"Kurunegala","Bingiriya","T-ALL","Bone marrow","Death",58,1,2018-02-12,14,1,FALSE
+"13127/2022C",166000,1,2022,2022-12-31,"M",2,3,"Polonnaruwa","Thamankaduwa","B-ALL","Bone marrow","Live",202,6,NA,2,0,FALSE
+"13169/2017C",3050,0,2017,2017-12-18,"M",5,5,"Gampaha","Biyagama","B-ALL","Bone Marrow","Live",850,27,NA,5,0,FALSE
+"13174/2019C",25000,1,2019,2019-12-10,"F",1,7,"Kegalle","Galigamuwa","B-ALL","Bone marrow","Live",1578,51,NA,2,0,FALSE
+"13190/2016C",61070,1,2016,2016-11-29,"M",6,7,"Kurunegala","Alawwa","B-ALL","Bone marrow","Live",2621,86,NA,7,0,FALSE
+"13192/2016C",5610,0,2016,2016-11-29,"F",4,1,"Matale","Matale","B-ALL","Bone marrow","Live",2446,80,NA,4,0,FALSE
+"13220/2017C",5350,0,2017,2017-12-19,"M",3,11,"Gampaha","Ja-Ela","B-ALL","Bone Marrow","Live",1260,41,NA,4,0,FALSE
+"13225/2016C",36000,1,2016,2016-11-30,"F",12,0,"Moneragala","Sevanagala","B-ALL","Bone marrow","Death",159,5,2017-05-08,12,1,FALSE
+"13244/2019C",111820,1,2019,2019-12-13,"M",6,9,"Mullaitivu","Maritimepattu","B-ALL","Bone marrow","Live",684,22,NA,7,0,FALSE
+"13259/2018C",1540,0,2018,2018-12-08,"M",3,2,"Galle","Galle Four Gravets","B-ALL","Bone marrow","Live",984,32,NA,3,0,FALSE
+"13276/2017C",279000,1,2017,2017-12-20,"M",17,1,"Colombo","Maharagama","T-ALL","Bone marrow","Live",1827,60,NA,17,0,FALSE
+"13278/2017C",2070,0,2017,2017-12-20,"M",3,9,"Galle","Nagoda","B-ALL","Bone marrow","Live",799,26,NA,4,0,FALSE
+"13287/2019C",1060,0,2019,2019-12-13,"F",9,4,"Batticaloa","Manmunai North","B-ALL","Bone marrow","Live",1172,38,NA,9,0,FALSE
+"13299/2019C",674430,1,2019,2019-12-14,"F",0,3,"Jaffna","Valikamam-East (Kopayi)","B-ALL","Bone marrow","Death",1,0,2019-12-15,0,1,FALSE
+"13305/2023C",30350,0,2023,2023-12-18,"M",7,11,"Mannar","Nanaddan","B-ALL","Bone marrow","Death",69,2,2024-02-25,8,1,FALSE
+"13328/2016C",90600,1,2016,2016-12-04,"F",18,7,"Gampaha","Ja-Ela","B-ALL","Bone marrow","Death",39,1,2017-01-12,19,1,FALSE
+"13338/2017C",990000,1,2017,2017-12-21,"M",6,9,"Kegalle","Warakapola","B-ALL","Bone marrow","Live",301,9,NA,7,0,FALSE
+"13339/2017C",2410,0,2017,2017-12-21,"M",6,7,"Gampaha","Wattala","B-ALL","Bone marrow","Live",1880,61,NA,7,0,FALSE
+"13341/2018C",3400,1,2018,2018-12-10,"M",15,6,"Colombo","Colombo","B-ALL","Stage - iv (BARF V600E mutation detected)","Death",58,1,2019-02-07,16,1,FALSE
+"13342/2017C",5480,0,2017,2017-12-21,"F",3,6,"Moneragala","Siyambalanduwa","B-ALL","Bone marrow","Live",1707,56,NA,4,0,FALSE
+"13358/2019C",6310,1,2019,2019-12-16,"F",14,9,"Matara","Akuressa","T-ALL","Bone marrow","Live",837,27,NA,15,0,FALSE
+"13359/2018C",524450,1,2018,2018-12-10,"M",5,0,"Matale","Matale","T-ALL","Bone marrow","Live",1508,49,NA,5,0,FALSE
+"13374/2016C",3240,1,2016,2016-12-06,"M",4,7,"Badulla","Passara","T-ALL","Bone marrow","Live",1829,60,NA,5,0,FALSE
+"13416/2019C",83680,1,2019,2019-12-17,"F",7,1,"Kalutara","Madurawala","B-ALL","Bone marrow","Death",88,2,2020-03-14,7,1,FALSE
+"13417/2019C",6190,0,2019,2019-12-17,"M",3,5,"Puttalam","Anamaduwa","B-ALL","Bone marrow","Live",1478,48,NA,3,0,FALSE
+"13423/2016C",38400,0,2016,2016-12-07,"M",3,1,"Colombo","Hanwella","B-ALL","Bone marrow","Live",2674,87,NA,3,0,FALSE
+"13450/2017C",1960,1,2017,2017-12-30,"M",15,9,"Anuradhapura","Ipalogama","B-ALL","Bone marrow","Live",1014,33,NA,16,0,FALSE
+"13467/2019C",2600,1,2019,2019-12-18,"F",11,8,"Batticaloa","Kattankudy","B-ALL","Bone marrow","Live",1155,37,NA,12,0,FALSE
+"13471/2016C",19110,1,2016,2016-12-07,"M",14,2,"Kurunegala","Kurunegala","B-ALL","Bone marrow","Live",2168,71,NA,14,0,FALSE
+"13499/2017C",3190,1,2017,2017-12-27,"F",10,0,"Kandy","Udapalatha","T-ALL","Bone marrow","Death",24,0,2018-01-20,10,1,FALSE
+"13507/2018C",2000,0,2018,2018-12-13,"M",4,4,"Kalutara","Kalutara","B-ALL","Bone marrow","Live",1539,50,NA,4,0,FALSE
+"13508/2018C",3800,1,2018,2018-12-13,"F",1,5,"Colombo","Colombo","B-ALL","Bone marrow","Death",50,1,2019-02-01,1,1,FALSE
+"13521/2016C",140700,1,2016,2016-12-08,"F",6,3,"Kalutara","Beruwala","T-ALL","Bone marrow","Live",425,13,NA,6,0,FALSE
+"13524/2023C",4340,0,2023,2023-12-22,"F",6,8,"Puttalam","Kalpitiya","B-ALL","Boen merrow","Death",28,0,2024-01-19,7,1,FALSE
+"13526/2019C",7740,0,2019,2019-12-19,"M",3,1,"Kalutara","Kalutara","B-ALL","Bone marrow","Live",1174,38,NA,3,0,FALSE
+"13592/2019C",2720,0,2019,2019-12-20,"M",6,5,"Anuradhapura","Horowpothana","B-ALL","Bone marrow","Live",1174,38,NA,6,0,FALSE
+"13593/2016C",171000,1,2016,2017-05-13,"M",0,11,"Mullaitivu","Puthukudiyiruppu","B-ALL","Bone marrow","Death",10,0,2017-05-23,1,1,FALSE
+"13599/2019C",6110,1,2019,2019-12-21,"F",11,3,"Kalutara","Kalutara","B-ALL","Bone marrow","Live",1152,37,NA,11,0,FALSE
+"13612/2017C",2800,0,2017,2017-12-30,"M",9,3,"Polonnaruwa","Dimbulagala","B-ALL","Bone marrow","Live",1769,58,NA,9,0,FALSE
+"13616/2017C",289360,1,2017,2017-12-30,"M",17,10,"Nuwara Eliya","Mathurata","B-ALL","Bone marrow","Death",2,0,2018-01-01,18,1,FALSE
+"13639/2016C",6630,1,2016,2016-12-14,"F",2,1,"Gampaha","Attanagalla","T-ALL","Bone marrow","Live",1163,38,NA,2,0,FALSE
+"13670/2018C",171780,1,2018,2019-11-30,"F",2,0,NA,NA,"B-ALL","Bone marrow","Death",25,0,2019-12-25,2,1,FALSE
+"13674/2019C",70000,1,2019,2019-12-23,"M",1,4,"Puttalam","Puttalam","B-ALL","Bone marrow","Live",1163,38,NA,1,0,FALSE
+"13675/2019C",2180,0,2019,2019-12-23,"M",8,0,"Matara","Akuressa","B-ALL","Bone marrow","Live",1527,50,NA,8,0,FALSE
+"13677/2019C",5740,0,2019,2019-12-23,"M",4,6,"Gampaha","Divulapitiya","B-ALL","Bone marrow","Live",1137,37,NA,5,0,FALSE
+"13689/2018C",14160,1,2018,2018-12-18,"M",16,5,"Matara","Devinuwara","B-ALL","Bone marrow","Death",19,0,2019-01-07,16,1,FALSE
+"13707/2016C",4400,0,2016,2016-12-15,"M",3,5,"Gampaha","Biyagama","B-ALL","Bone marrow","Live",2618,86,NA,3,0,FALSE
+"13729/2018C",75331,1,2018,2018-12-19,"F",16,3,"Colombo","Colombo","T-ALL","Bone marrow","Live",1,0,NA,16,0,FALSE
+"13731/2019C",75331,1,2019,2019-12-25,"M",16,7,"Colombo","Hanwella","B-ALL","Bone marrow","Live",1188,39,NA,17,0,FALSE
+"13762/2016C",12000,0,2016,2016-12-17,"F",8,6,"Badulla","Hali-Ela","B-ALL","Bone marrow","Live",452,14,NA,9,0,FALSE
+"13769/2019C",14150,1,2019,2019-12-26,"M",12,0,"Gampaha","Kelaniya","B-ALL","Bone marrow","Live",376,12,NA,12,0,FALSE
+"13800/2018C",28350,1,2018,2018-12-20,"M",13,9,"Colombo","Sri Jayawardanapura Kotte","B-ALL",NA,"Death",12,0,2019-01-01,14,1,FALSE
+"13831/2019C",8030,1,2019,2019-12-28,"M",11,2,"Kandy","Pathadumbara","B-ALL","Bone marrow","Death",39,1,2020-02-05,11,1,FALSE
+"13836/2016C",9470,0,2016,2016-12-19,"M",2,1,"Gampaha","Biyagama","B-ALL","Bone marrow","Live",2222,73,NA,2,0,FALSE
+"13838/2016C",10930,1,2016,2016-12-19,"M",1,5,"Matale","Ukuwela","B-ALL","Bone marrow","Live",1676,55,NA,1,0,FALSE
+"13840/2016C",13780,0,2016,2016-12-19,"M",2,5,"Anuradhapura","Nuwaragam Palatha East","B-ALL","Bone marrow","Live",1247,41,NA,2,0,FALSE
+"13843/2016C",3940,0,2016,2016-12-20,"F",5,7,"Ampara","Akkaraipattu","B-ALL","Bone marrow","Live",2625,86,NA,6,0,FALSE
+"13928/2019C",4300,0,2019,2019-12-31,"M",7,7,"Kandy","Udapalatha","B-ALL","Bone marrow","Death",620,20,2021-09-11,8,1,FALSE
+"13932/2018C",13980,0,2018,2018-12-24,"M",2,9,"Colombo","Maharagama","B-ALL","Bone marrow","Live",253,8,NA,3,0,FALSE
+"13945/2018C",32260,1,2018,2018-12-24,"F",12,3,"Matale","Ukuwela","B-ALL","Bone marrow","Live",851,27,NA,12,0,FALSE
+"13973/2018C",1010,1,2018,2018-12-26,"F",10,10,"Ratnapura","Kuruvita","T-ALL","Bone marrow","Live",1510,49,NA,11,0,FALSE
+"13979/2018C",16860,0,2018,2018-12-27,"M",9,3,"Ampara","Pothuvil","B-ALL","Bone marrow","Live",46,1,NA,9,0,FALSE
+"13987/2016C",112140,1,2016,2016-12-22,"M",3,6,"Kalutara","Beruwala","T-ALL","Bone Marrow","Live",1504,49,NA,4,0,FALSE
+"14032/2016C",1500,0,2016,2016-12-23,"M",7,1,"Moneragala","Buttala","B-ALL","Bone marrow","Live",2106,69,NA,7,0,FALSE
+"14041/2016C",659300,1,2016,2016-12-24,"M",7,3,"Badulla","Mahiyanganaya","T-ALL","Bone marrow","Live",768,25,NA,7,0,FALSE
+"14083/2018C",43810,1,2018,2018-12-28,"M",11,2,"Matara","Mulatiyana","T-ALL","Bone marrow","Live",1987,65,NA,11,0,FALSE
+"14141/2016C",51400,1,2016,2016-12-28,"M",13,8,"Kalutara","Beruwala","T-ALL","Bone marrow","Live",1357,44,NA,14,0,FALSE
+"14170/2018C",17090,1,2018,2018-12-31,"F",1,11,"Anuradhapura","Horowpothana","B-ALL","Bone marrow","Live",1423,46,NA,2,0,FALSE
+"14185/2016C",131400,1,2016,2016-12-28,"M",2,6,"Matale","Dambulla","B-ALL","Bone marrow","Live",2129,69,NA,3,0,FALSE
+"14186/2016C",6580,0,2016,2016-12-28,"F",7,2,"Hambantota","Beliatta","B-ALL","Bone marrow","Live",1989,65,NA,7,0,FALSE
+"14305/2016C",5200,0,2016,2016-12-31,"M",2,5,"Colombo","Thimbirigasyaya","B-ALL","Bone marrow","Live",2497,82,NA,2,0,FALSE
+"30846/2017C",75331,1,2017,2017-04-17,"F",18,0,NA,NA,"B-ALL","Bone marrow","Death",9,0,2017-04-25,18,1,FALSE
+"37217/2017C",75331,0,2017,2017-08-08,"M",8,0,"Puttalam","Anamaduwa","B-ALL","Bone marrow","Death",5,0,2017-08-13,8,1,FALSE
+"47216/2021C",75331,0,2021,2021-10-10,"F",5,1,"Colombo","Colombo","B-ALL","Bone marrow","Death",13,0,2021-10-23,5,1,FALSE
