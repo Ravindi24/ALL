@@ -6,6 +6,7 @@ import gzip
 import zipfile
 import os
 
+
 # Custom CSS for styling
 st.markdown(
     """
