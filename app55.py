@@ -60,7 +60,7 @@ def load_model():
                         f_out.write(f_in.read())
 
             # Extract the .zip file
-            st.info("Extracting .zip file...")
+            #st.info("Extracting .zip file...")
             with zipfile.ZipFile(extracted_zip_file, 'r') as zip_ref:
                 zip_ref.extractall()  # Ensure rsf_model.pkl is extracted in the same directory
 
@@ -70,10 +70,10 @@ def load_model():
 
     # Load the extracted model
     try:
-        st.info("Loading the model...")
+        #st.info("Loading the model...")
         with open(extracted_model_file, 'rb') as file:
             model = pickle.load(file)
-        st.success("Model loaded successfully!")
+        #st.success("Model loaded successfully!")
         return model
     except FileNotFoundError:
         st.error(f"Model file '{extracted_model_file}' not found. Please ensure the file is in the correct location.")
