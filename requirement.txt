@@ -9,5 +9,4 @@ scikit-learn
 gzip
 zipfile
 os
-scikit-survival
-sksurv
+scikit-survival==0.20.0
